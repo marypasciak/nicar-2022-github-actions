@@ -1,24 +1,10 @@
-# you can use anything for the name
 name: Scrape latest data
-
-# "on" is the next keyword
-# workflow dispatch allows us to test the file outside the schedule -- 
-## to manually execute the script
-### schedule tells github how frequently to run the script
-#### https://crontab.guru/ converts human time to chron expressions
-##### '*/5 * * * *' means run the script every five minutes
-###### you can hover over the chron expression in github to see
-####### what the expression translates into in human terms of time
-######## the most frequently you can run a script is every five minutes
 
 on:
   push:
   workflow_dispatch:
   schedule:
     - cron:  '*/5 * * * *'
-
-# need to tell github what to run the action on 
-## in this case, it runs on ubuntu-latest
 
 jobs:
   scrape:
@@ -31,14 +17,18 @@ jobs:
         fetch-depth: 0
     # Step 2: Get the latest data and store it as a CSV
     - name: Fetch latest data
-    ## |- tells the computer to run what's on the line that follows
       run: |-        
         curl "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv" -o usgs_current.csv
-    # Step 3: Commit and push
-    - name: Commit and push
+    # Step 3: Install requirements, so Python script can run
+    - name: Install requirements
+      run: python -m pip install pandas 
+    # Step 4    
+    - name: Run script to create main csv
+      run: python get_all_data.py     
+    # Step 5
+    - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
-        ## always use this email address: actions@users.noreply.github.com
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
