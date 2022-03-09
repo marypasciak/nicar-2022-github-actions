@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-09T19:13:40.910Z,33.5728333,-116.6485,10.46,0.46,ml,14,79,0.01619,0.19,ci,ci40203504,2022-03-09T19:17:13.514Z,"3km NE of Anza, CA",earthquake,0.59,0.71,0.195,11,automatic,ci,ci
 2022-03-09T18:40:35.912Z,37.7385,101.3584,10,4.4,mb,,68,10.744,1.06,us,us6000h3dm,2022-03-09T19:08:52.040Z,"111 km SW of Jinchang, China",earthquake,8.1,1.5,0.073,55,reviewed,us,us
 2022-03-09T18:36:00.030Z,37.036335,-121.4923325,9.95,1.44,md,16,89,0.0126,0.1,nc,nc73703376,2022-03-09T18:52:13.008Z,"8km ENE of Gilroy, CA",earthquake,0.45,0.93,0.24,14,automatic,nc,nc
 2022-03-09T18:18:18.311Z,-14.2322,-76.2234,35.5,4.9,mb,,153,2.311,0.95,us,us6000h3db,2022-03-09T18:45:19.040Z,"40 km S of Paracas, Peru",earthquake,9.8,7.7,0.043,169,reviewed,us,us
