@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-09T19:31:04.850Z,19.1595001220703,-155.460006713867,33.1399993896484,2.06999993,md,38,167,,0.100000001,hv,hv72944872,2022-03-09T19:34:12.880Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.7,1.25,0.939999998,13,automatic,hv,hv
 2022-03-09T19:13:40.910Z,33.5728333,-116.6485,10.46,0.46,ml,14,79,0.01619,0.19,ci,ci40203504,2022-03-09T19:17:13.514Z,"3km NE of Anza, CA",earthquake,0.59,0.71,0.195,11,automatic,ci,ci
 2022-03-09T18:56:37.240Z,17.9638333333333,-66.9201666666667,11.1,2.21,md,3,200,,0.1,pr,pr71339673,2022-03-09T19:28:56.150Z,"1 km WSW of Guánica, Puerto Rico",earthquake,1.22,1.07,0.0587026852943553,3,reviewed,pr,pr
 2022-03-09T18:40:35.912Z,37.7385,101.3584,10,4.4,mb,,68,10.744,1.06,us,us6000h3dm,2022-03-09T19:08:52.040Z,"111 km SW of Jinchang, China",earthquake,8.1,1.5,0.073,55,reviewed,us,us
@@ -252,7 +253,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T20:40:14.630Z,35.5311667,-117.5611667,5.08,0.41,ml,11,106,0.09777,0.15,ci,ci40202472,2022-03-08T21:47:52.939Z,"14km SE of Ridgecrest, CA",earthquake,0.29,1.85,0.167,5,reviewed,ci,ci
 2022-03-08T20:39:18.720Z,38.8196678,-122.8113327,3.25,0.35,md,8,94,0.003849,0.02,nc,nc73702996,2022-03-08T21:18:15.153Z,"7km NW of The Geysers, CA",earthquake,0.72,2.32,,1,automatic,nc,nc
 2022-03-08T20:38:49.080Z,17.808,-66.9275,16.11,2.38,md,3,304,,0.07,pr,pr71339563,2022-03-08T21:34:20.760Z,"18 km S of Guánica, Puerto Rico",earthquake,2.27,3.96,0.0521570151633259,3,reviewed,pr,pr
-2022-03-08T20:37:23.247Z,38.6532,-97.4806,5,3,mb_lg,,99,0.717,0.46,us,us6000h34z,2022-03-09T13:37:48.251Z,"7 km SW of Gypsum, Kansas",earthquake,1.9,1.9,0.049,107,reviewed,us,us
+2022-03-08T20:37:23.247Z,38.6532,-97.4806,5,3,mb_lg,,99,0.717,0.44,us,us6000h34z,2022-03-09T19:40:23.040Z,"7 km SW of Gypsum, Kansas",earthquake,2,1.8,0.049,108,reviewed,us,us
 2022-03-08T20:36:39.680Z,17.9521666666667,-66.9545,8.46,2.08,md,5,210,,0.02,pr,pr71339558,2022-03-08T20:49:07.230Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.43,0.89,0.00700755714827395,3,reviewed,pr,pr
 2022-03-08T20:33:52.510Z,47.16316666666667,-121.80416666666666,-0.77,1.06,ml,13,150,0.04111,0.18,uw,uw61820941,2022-03-09T00:45:01.080Z,"11 km W of Greenwater, Washington",explosion,0.98,31.61,0.08432019946523389,4,reviewed,uw,uw
 2022-03-08T20:32:57.310Z,19.2430000305176,-155.390167236328,31.8099994659424,2.1400001,md,34,182,,0.109999999,hv,hv72943457,2022-03-08T20:36:01.830Z,"Island of Hawaii, Hawaii",earthquake,0.7,0.790000021,0.360000014,5,automatic,hv,hv
