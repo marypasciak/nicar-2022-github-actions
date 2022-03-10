@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-10T23:38:37.210Z,35.1363333,-119.7816667,5.55,1.85,ml,7,146,0.3603,0.31,ci,ci40204712,2022-03-10T23:42:15.571Z,"30km W of Taft, CA",earthquake,1.77,31.61,0.392,5,automatic,ci,ci
 2022-03-10T23:21:36.651Z,61.6862,-150.7583,50.4,1.5,ml,,,,0.33,ak,ak02236hwhsd,2022-03-10T23:26:36.679Z,"20 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-10T23:00:47.670Z,38.8269997,-122.8106689,1.47,1.43,md,24,40,0.003629,0.02,nc,nc73703946,2022-03-10T23:28:15.020Z,"7km NW of The Geysers, CA",earthquake,0.17,0.32,0.02,5,automatic,nc,nc
 2022-03-10T22:54:27.263Z,62.5136,-151.4132,84.9,1.8,ml,,,,0.52,ak,ak02236hi45n,2022-03-10T23:07:09.676Z,"33 km W of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -246,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T23:55:39.470Z,34.0286667,-117.1563333,9.78,1.7,ml,26,56,0.0371,0.12,ci,ci40203856,2022-03-10T00:38:35.385Z,"4km SE of Redlands, CA",earthquake,0.21,0.53,0.154,68,reviewed,ci,ci
 2022-03-09T23:55:25.670Z,34.0238333,-117.1548333,10.18,1.8,ml,53,66,0.03709,0.12,ci,ci40203848,2022-03-10T00:34:06.630Z,"4km SE of Redlands, CA",earthquake,0.14,0.29,0.151,26,reviewed,ci,ci
 2022-03-09T23:46:12.775Z,60.226,-150.6328,43.6,1.7,ml,,,,0.37,ak,ak02234uigf1,2022-03-09T23:48:19.285Z,"31 km SSE of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-03-09T23:44:30.860Z,33.6558333,-116.7055,16.78,1.11,ml,34,54,0.02948,0.11,ci,ci40203832,2022-03-10T00:24:38.295Z,"9km S of Idyllwild, CA",earthquake,0.16,0.26,0.233,25,reviewed,ci,ci
-2022-03-09T23:42:16.091Z,-7.4988,127.8727,159.02,4.4,mb,,115,3.429,0.57,us,us6000h3fr,2022-03-10T00:02:31.040Z,"148 km NE of Lospalos, Timor Leste",earthquake,6.6,10.3,0.162,11,reviewed,us,us
