@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T12:16:11.430Z,33.9773333,-117.1636667,13.81,1.2,ml,66,56,0.03082,0.15,ci,ci40203232,2022-03-09T22:50:33.340Z,"8km NE of Moreno Valley, CA",earthquake,0.13,0.3,0.178,25,reviewed,ci,ci
 2022-03-09T11:47:05.531Z,38.5993,-118.4691,5,0.9,ml,12,181.13,0.194,0.1177,nn,nn00835134,2022-03-10T02:37:33.992Z,"15 km ENE of Hawthorne, Nevada",earthquake,,3.8,0.14,3,reviewed,nn,nn
 2022-03-09T11:43:13.520Z,35.7816667,-117.6013333,5.99,0.83,ml,19,76,0.03414,0.11,ci,ci40203224,2022-03-09T22:24:03.140Z,"18km W of Searles Valley, CA",earthquake,0.17,0.37,0.181,5,reviewed,ci,ci
-2022-03-09T11:31:36.555Z,50.9453,-179.182,35,3.9,mb,,227,0.906,0.71,us,us6000h39t,2022-03-09T13:31:36.702Z,"205 km WSW of Adak, Alaska",earthquake,5.7,2,0.097,28,reviewed,us,us
