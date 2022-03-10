@@ -1729,3 +1729,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T15:03:26.502Z,64.2821,-148.001,8.5,1.5,ml,,,,0.56,ak,ak02236d15cb,2022-03-10T15:06:46.926Z,"57 km E of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-10T11:15:55.550Z,44.417,-115.2225,5.36,1.72,ml,10.0,84.0,0.849,0.2,mb,mb80540059,2022-03-10T15:28:00.750Z,"31 km NW of Stanley, Idaho",earthquake,0.62,1.61,0.272,9.0,reviewed,mb,mb
 2022-03-10T09:09:42.610Z,46.9115,-112.5081667,12.97,1.23,ml,15.0,75.0,0.063,0.2,mb,mb80540049,2022-03-10T15:20:32.380Z,"14 km ESE of Lincoln, Montana",earthquake,0.45,0.53,0.153,6.0,reviewed,mb,mb
+2022-03-10T15:29:01.370Z,34.1366667,-117.2973333,24.03,1.47,ml,17.0,177.0,0.1215,0.18,ci,ci40204304,2022-03-10T15:32:40.311Z,"1km NNW of San Bernardino, CA",earthquake,0.67,1.18,0.229,33.0,automatic,ci,ci
+2022-03-10T10:08:21.730Z,44.2806667,-115.1858333,10.34,2.15,ml,11.0,83.0,0.83,0.26,mb,mb80540054,2022-03-10T15:34:07.720Z,"20 km WNW of Stanley, Idaho",earthquake,0.63,1.31,0.168,10.0,reviewed,mb,mb
