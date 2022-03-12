@@ -2193,3 +2193,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T03:54:09.320Z,-37.1311,-74.1365,10.0,4.4,mb,,207.0,0.849,0.43,us,us6000h3yc,2022-03-12T04:17:24.040Z,"68 km NW of Lebu, Chile",earthquake,5.1,1.7,0.24,6.0,reviewed,us,us
 2022-03-12T03:20:19.830Z,44.2965,-114.9491,10.0,2.6,ml,,64.0,0.829,0.6,us,us6000h3y6,2022-03-12T04:00:11.040Z,"8 km N of Stanley, Idaho",earthquake,2.1,2.0,0.049,54.0,reviewed,us,us
 2022-03-12T01:54:45.943Z,23.8402,122.3616,22.12,4.1,mb,,202.0,0.776,0.57,us,us6000h3xx,2022-03-12T04:27:56.040Z,"78 km ESE of Hualien City, Taiwan",earthquake,4.2,7.3,0.212,7.0,reviewed,us,us
+2022-03-12T04:45:47.800Z,36.3538322,-117.9656677,1.72,2.06,ml,32.0,63.0,0.1261,0.21,ci,ci40205672,2022-03-12T04:47:53.570Z,"9km NNE of Olancha, CA",earthquake,0.3,1.15,0.289,16.0,automatic,ci,ci
