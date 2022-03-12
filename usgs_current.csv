@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-12T04:45:47.800Z,36.3538322,-117.9656677,1.72,2.06,ml,32,63,0.1261,0.21,ci,ci40205672,2022-03-12T04:47:53.570Z,"9km NNE of Olancha, CA",earthquake,0.3,1.15,0.289,16,automatic,ci,ci
-2022-03-12T04:21:46.600Z,38.8138351,-122.8236694,2.22,1.07,md,23,55,0.006567,0.02,nc,nc73704551,2022-03-12T04:30:10.793Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.11,4,automatic,nc,nc
+2022-03-12T04:45:47.800Z,36.3513333,-117.9645,1.73,1.95,ml,24,79,0.1285,0.2,ci,ci40205672,2022-03-12T04:56:42.620Z,"9km NNE of Olancha, CA",earthquake,0.38,2.82,0.262,26,automatic,ci,ci
+2022-03-12T04:21:46.600Z,38.8138351,-122.8236694,2.22,1.07,md,23,55,0.006567,0.02,nc,nc73704551,2022-03-12T04:55:12.929Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.11,4,automatic,nc,nc
 2022-03-12T03:58:45.430Z,18.8675,-64.79,43,3.83,md,17,320,0.7458,0.54,pr,pr2022071000,2022-03-12T04:28:29.232Z,"59 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.02,11.85,0.13,10,reviewed,pr,pr
 2022-03-12T03:54:09.320Z,-37.1311,-74.1365,10,4.4,mb,,207,0.849,0.43,us,us6000h3yc,2022-03-12T04:17:24.040Z,"68 km NW of Lebu, Chile",earthquake,5.1,1.7,0.24,6,reviewed,us,us
 2022-03-12T03:52:26.141Z,58.9487,-152.4484,59.1,1.8,ml,,,,0.35,ak,ak02239h9516,2022-03-12T03:56:14.445Z,"54 km SSW of Nanwalek, Alaska",earthquake,,3.4,,,automatic,ak,ak
@@ -105,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T17:57:20.290Z,35.961,-117.6688333,3.59,-0.14,ml,5,157,0.01988,0.04,ci,ci40205296,2022-03-11T19:14:15.321Z,"22km E of Little Lake, CA",earthquake,0.3,0.24,0.13,2,reviewed,ci,ci
 2022-03-11T17:51:08.590Z,38.7879982,-122.7473297,2.02,0.86,md,19,84,0.009555,0.02,nc,nc73704251,2022-03-11T18:33:15.165Z,"1km NNE of The Geysers, CA",earthquake,0.23,0.44,0.12,4,automatic,nc,nc
 2022-03-11T17:49:49.780Z,44.798,-110.9215,8.97,0.82,ml,12,117,0.05147,0.14,uu,uu60485367,2022-03-11T18:05:23.850Z,"20 km NE of West Yellowstone, Montana",earthquake,0.59,1,0.212,3,reviewed,uu,uu
-2022-03-11T17:44:30.460Z,37.919,-122.2991667,4.97,2.8,md,120,21,0.01284,0.1,nc,nc73704246,2022-03-12T04:42:59.886Z,"1km ENE of El Cerrito, CA",earthquake,0.09,0.16,0.138,95,reviewed,nc,nc
+2022-03-11T17:44:30.460Z,37.919,-122.2991667,4.97,2.8,md,120,21,0.01284,0.1,nc,nc73704246,2022-03-12T04:50:08.357Z,"1km ENE of El Cerrito, CA",earthquake,0.09,0.16,0.138,95,reviewed,nc,nc
 2022-03-11T17:43:45.446Z,-17.5687,-178.8451,524.28,4.2,mb,,148,2.962,0.5,us,us6000h3vc,2022-03-11T20:14:21.040Z,"202 km ENE of Levuka, Fiji",earthquake,8.9,9.6,0.081,45,reviewed,us,us
 2022-03-11T17:41:43.080Z,37.296,-117.5883,5.8,1.4,ml,13,107.08,0.078,0.1526,nn,nn00835208,2022-03-11T18:14:51.046Z,"51 km S of Silver Peak, Nevada",earthquake,,1.9,0.88,8,reviewed,nn,nn
 2022-03-11T17:40:59.906Z,59.8777,-153.1234,118.4,2.1,ml,,,,0.66,ak,ak022381zd2o,2022-03-11T18:56:06.040Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -247,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T05:09:31.570Z,19.3136,-64.6125,7,3.95,md,14,312,1.2087,0.54,pr,pr2022070001,2022-03-11T07:01:30.040Z,"110 km N of Cruz Bay, U.S. Virgin Islands",earthquake,16.11,15.17,0.02,5,reviewed,pr,pr
 2022-03-11T05:03:14.650Z,38.8240013,-122.7666702,2.14,0.67,md,12,120,0.01533,0.02,nc,nc73704076,2022-03-11T05:42:16.322Z,"4km W of Cobb, CA",earthquake,0.49,0.79,0.14,2,automatic,nc,nc
 2022-03-11T05:01:43.110Z,33.104,-116.534,8.87,0.75,ml,23,126,0.05808,0.18,ci,ci40204800,2022-03-11T16:59:49.928Z,"7km ENE of Julian, CA",earthquake,0.37,0.67,0.074,6,reviewed,ci,ci
-2022-03-11T04:58:09.460Z,38.8145,-122.8111667,3.52,0.37,md,24,46,0.008923,0.03,nc,nc73704071,2022-03-11T08:53:11.544Z,"6km NW of The Geysers, CA",earthquake,0.26,0.35,0.189,3,reviewed,nc,nc
-2022-03-11T04:54:20.174Z,63.9675,-148.8048,0,1.6,ml,,,,1.03,ak,ak02237ubn22,2022-03-11T04:56:55.818Z,"14 km NNE of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
