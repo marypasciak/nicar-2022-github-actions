@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-12T15:41:37.730Z,35.5096667,-118.3915,6.75,1.58,ml,25,65,0.1879,0.09,ci,ci40205960,2022-03-12T15:45:17.191Z,"13km SE of Bodfish, CA",earthquake,0.17,31.61,0.274,25,automatic,ci,ci
-2022-03-12T15:40:31.290Z,34.034,-117.1621667,9,1.28,ml,31,106,0.04135,0.18,ci,ci40205944,2022-03-12T15:44:14.316Z,"3km SE of Redlands, CA",earthquake,0.31,0.74,0.136,27,automatic,ci,ci
+2022-03-12T15:40:31.290Z,34.034,-117.1621667,9,1.28,ml,31,106,0.04135,0.18,ci,ci40205944,2022-03-12T15:51:34.720Z,"3km SE of Redlands, CA",earthquake,0.31,0.74,0.136,27,automatic,ci,ci
 2022-03-12T15:39:16.704Z,37.0937,-115.3345,13.9,-0.2,ml,8,128.54,0.511,0.4381,nn,nn00835268,2022-03-12T15:42:43.432Z,"Nevada",earthquake,,1.9,1.07,3,automatic,nn,nn
 2022-03-12T15:39:06.440Z,35.5095,-118.39,4.85,2.21,ml,36,32,0.1878,0.13,ci,ci40205936,2022-03-12T15:50:24.490Z,"13km SE of Bodfish, CA",earthquake,0.19,1.4,0.196,26,automatic,ci,ci
 2022-03-12T15:25:26.081Z,37.1673,-115.313,6.1,2,ml,23,116.9,0.535,0.368,nn,nn00835265,2022-03-12T15:29:08.479Z,"25 km SSW of Alamo, Nevada",earthquake,,0.9,0.85,16,automatic,nn,nn
@@ -229,6 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T16:08:22.520Z,36.3501667,-117.9653333,3.79,1.96,ml,28,78,0.1288,0.13,ci,ci40205184,2022-03-11T19:02:41.900Z,"8km NNE of Olancha, CA",earthquake,0.18,0.76,0.227,24,reviewed,ci,ci
 2022-03-11T16:05:18.737Z,61.6157,-149.8633,32.3,2.6,ml,,,,0.5,ak,ak0223816c9b,2022-03-11T21:19:13.040Z,"2 km SW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-11T16:04:46.330Z,34.0148333,-117.8303333,13.05,0.84,ml,6,195,0.07917,0.21,ci,ci40205168,2022-03-11T18:54:03.514Z,"2km SW of Diamond Bar, CA",earthquake,1.15,1.29,0.072,4,reviewed,ci,ci
-2022-03-11T15:59:44.710Z,35.7736667,-117.5943333,9.05,0.56,ml,13,93,0.04206,0.07,ci,ci40205160,2022-03-11T18:49:16.483Z,"17km W of Searles Valley, CA",earthquake,0.18,0.36,0.174,7,reviewed,ci,ci
-2022-03-11T15:54:46.516Z,60.7837,-151.3284,135.6,1.5,ml,,,,0.89,ak,ak022380vgw6,2022-03-11T16:02:49.498Z,"10 km NNW of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-03-11T15:52:54.000Z,35.645,-117.3903333,4.45,-0.31,ml,4,185,0.08268,0.07,ci,ci40205152,2022-03-11T17:44:04.193Z,"13km S of Trona, CA",earthquake,1.36,1.48,0.032,1,reviewed,ci,ci
