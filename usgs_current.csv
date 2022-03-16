@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-16T05:57:10.743Z,35.95711136,-97.71900177,3.741157055,1.59,ml,25,83.88171387,0.169606477,0.3837143664,ok,ok2022ffra,2022-03-16T05:59:22.411Z,"11 km W of Crescent, Oklahoma",earthquake,2.443383477,2.004131321,,19,automatic,ok,ok
+2022-03-16T05:51:35.002Z,62.8297,-152.5986,0,1.4,ml,,,,1.2,ak,ak0223g4l79v,2022-03-16T05:54:55.056Z,"90 km SSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-16T05:46:41.040Z,35.3588333,-117.7676667,6.16,0.95,ml,11,169,0.1114,0.17,ci,ci39969111,2022-03-16T05:50:16.251Z,"12km W of Johannesburg, CA",earthquake,0.67,1.68,0.066,14,automatic,ci,ci
-2022-03-16T05:43:13.670Z,32.6998333,-115.5323333,2.16,2.61,ml,29,63,0.1005,0.27,ci,ci39969103,2022-03-16T05:48:14.068Z,"4km S of Heber, CA",earthquake,0.45,0.76,0.246,26,automatic,ci,ci
+2022-03-16T05:43:13.670Z,32.6998333,-115.5323333,2.16,2.61,ml,29,63,0.1005,0.27,ci,ci39969103,2022-03-16T05:58:38.652Z,"4km S of Heber, CA",earthquake,0.45,0.76,0.246,26,automatic,ci,ci
 2022-03-16T05:41:36.340Z,33.4331667,-116.9291667,9.51,0.98,ml,41,34,0.09648,0.26,ci,ci39969095,2022-03-16T05:45:18.108Z,"6km W of Aguanga, CA",earthquake,0.3,0.89,0.138,27,automatic,ci,ci
 2022-03-16T05:39:39.930Z,38.1312,-117.9738,10,0.7,ml,9,136.87,0.014,0.0648,nn,nn00835410,2022-03-16T05:44:06.846Z,"31 km SSE of Mina, Nevada",earthquake,,0.6,0.36,5,automatic,nn,nn
 2022-03-16T05:38:10.740Z,38.8293343,-122.850502,2.21,0.86,md,8,110,0.01359,0.01,nc,nc73706296,2022-03-16T05:47:11.946Z,"10km NW of The Geysers, CA",earthquake,0.4,0.81,,1,automatic,nc,nc
@@ -283,4 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T06:07:24.250Z,38.8246667,-122.7966667,2.99,1.17,md,40,27,0.01055,0.03,nc,nc73705811,2022-03-15T21:39:15.007Z,"6km NNW of The Geysers, CA",earthquake,0.15,0.25,0.03,5,reviewed,nc,nc
 2022-03-15T06:05:45.660Z,38.8251667,-122.7973333,2.66,0.54,md,24,46,0.01011,0.01,nc,nc73705806,2022-03-15T19:50:12.980Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.51,0.402,3,reviewed,nc,nc
 2022-03-15T06:03:00.650Z,38.8243333,-122.795,2.79,1.6,md,47,27,0.01181,0.04,nc,nc73705801,2022-03-15T23:23:16.641Z,"6km NNW of The Geysers, CA",earthquake,0.15,0.27,0.17,15,reviewed,nc,nc
-2022-03-15T05:55:54.507Z,31.71133258,-104.2770224,7.622631836000001,1.9,ml,12,57,0.04111907972,0.2,tx,tx2022fdvm,2022-03-15T07:10:19.015Z,"52 km S of Whites City, New Mexico",earthquake,0.9780972007,0.8113844472000001,0.2,6,reviewed,tx,tx
