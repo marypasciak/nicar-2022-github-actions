@@ -3777,3 +3777,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T07:49:24.556Z,59.8315,-153.217,114.9,1.2,ml,,,,0.41,ak,ak0223jgub8n,2022-03-18T07:51:28.542Z,"50 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-18T07:45:46.930Z,34.2688333,-118.4856667,10.98,0.79,ml,14.0,169.0,0.1267,0.18,ci,ci39970903,2022-03-18T07:49:33.421Z,"2km ESE of Granada Hills, CA",earthquake,0.52,0.8,0.11,14.0,automatic,ci,ci
 2022-03-18T07:10:50.980Z,37.332,-121.6898333,7.65,0.9,md,22.0,50.0,0.03888,0.05,nc,nc73707116,2022-03-18T07:48:51.886Z,"13km ESE of Alum Rock, CA",earthquake,0.19,0.26,0.316,21.0,reviewed,nc,nc
+2022-03-18T08:05:52.410Z,35.8641663,-117.6774979,7.89,1.91,ml,32.0,45.0,0.08099,0.14,ci,ci39970911,2022-03-18T08:09:22.611Z,"22km ESE of Little Lake, CA",earthquake,0.25,0.74,0.219,19.0,automatic,ci,ci
+2022-03-18T08:00:55.540Z,38.8349991,-122.8181686,1.58,0.85,md,9.0,79.0,0.0132,0.02,nc,nc73707121,2022-03-18T08:02:28.801Z,"8km NW of The Geysers, CA",earthquake,0.32,0.72,,1.0,automatic,nc,nc
+2022-03-18T07:53:45.716Z,62.8729,-151.6075,0.0,1.8,ml,,,,0.98,ak,ak0223jgv7pb,2022-03-18T08:05:30.729Z,"60 km NW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
