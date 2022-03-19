@@ -270,5 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T09:44:43.390Z,19.202,-155.3975,30.66,3.28,ml,56,159,,0.12,hv,hv72954502,2022-03-18T18:05:18.463Z,"8 km E of Pāhala, Hawaii",earthquake,0.47,0.56,0.178932272660203,40,reviewed,hv,hv
 2022-03-18T09:40:53.850Z,17.916,-66.96,12.12,1.95,md,5,237,,0.06,pr,pr71340683,2022-03-18T09:48:55.130Z,"8 km SW of Guánica, Puerto Rico",earthquake,1.54,0.48,0.126218550981149,4,reviewed,pr,pr
 2022-03-18T09:38:41.480Z,59.3835,-151.2217,20,1.6,ml,,,,0.81,ak,ak0223jhyuvo,2022-03-18T09:40:47.198Z,"23 km S of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-18T09:27:15.930Z,36.0988333,-117.8936667,5.25,2.24,ml,45,50,0.03657,0.15,ci,ci39970959,2022-03-18T18:17:50.130Z,"8km NE of Coso Junction, CA",earthquake,0.12,0.3,0.181,24,reviewed,ci,ci
-2022-03-18T09:25:45.553Z,38.5202,-119.5264,5.3,1.1,ml,15,76.16,0.066,0.0995,nn,nn00835589,2022-03-19T02:39:03.643Z,"4 km W of Walker, California",earthquake,,1.1,0.23,6,reviewed,nn,nn
