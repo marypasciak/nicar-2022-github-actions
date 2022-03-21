@@ -4664,3 +4664,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T19:18:46.748Z,62.9675,-149.3196,0.0,1.6,ml,,,,1.02,ak,ak0223omeyhu,2022-03-21T19:21:24.455Z,"50 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-21T19:14:43.400Z,59.7494,-151.4575,35.6,1.9,ml,,,,0.76,ak,ak0223ome3df,2022-03-21T19:19:43.149Z,"8 km N of Kachemak, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-21T19:12:58.878Z,61.9368,-149.9837,41.3,1.5,ml,,,,0.76,ak,ak0223omdp4z,2022-03-21T19:21:26.488Z,"21 km N of Willow, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2022-03-21T19:24:47.068Z,62.4961,-149.8895,57.3,2.0,ml,,,,0.38,ak,ak0223omg8rr,2022-03-21T19:30:27.252Z,"12 km ENE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-03-21T19:21:20.260Z,35.649,-117.5455,8.19,1.23,ml,17.0,141.0,0.09217,0.16,ci,ci39973663,2022-03-21T19:25:03.227Z,"12km ENE of Ridgecrest, CA",earthquake,0.34,1.28,0.145,15.0,automatic,ci,ci
+2022-03-21T08:46:54.450Z,48.318666666666665,-122.109,12.15,1.25,ml,16.0,93.0,0.05529,0.1,uw,uw61814952,2022-03-21T19:23:38.400Z,"6 km W of Lake Cavanaugh, Washington",earthquake,0.47,0.8,0.1761005118848204,3.0,reviewed,uw,uw
