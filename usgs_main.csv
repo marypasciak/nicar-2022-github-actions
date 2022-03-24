@@ -5563,3 +5563,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T09:07:42.680Z,46.8505,-121.75883333333331,2.27,0.29,ml,10.0,96.0,0.02315,0.06,uw,uw61815697,2022-03-24T17:23:37.230Z,"23 km ENE of Ashford, Washington",earthquake,0.32,0.66,0.0829577887520514,4.0,reviewed,uw,uw
 2022-03-24T08:20:15.510Z,43.737,-121.241,1.54,0.22,ml,7.0,151.0,0.008688,0.1,uw,uw61815692,2022-03-24T17:18:30.920Z,"20 km ESE of Three Rivers, Oregon",earthquake,0.88,0.27,0.1300889692298937,5.0,reviewed,uw,uw
 2022-03-23T23:26:22.380Z,51.8068333333333,-178.824,6.17,0.08,ml,4.0,187.0,,0.11,av,av91520496,2022-03-24T17:29:12.040Z,"151 km W of Adak, Alaska",earthquake,0.69,0.81,0.259730487003234,4.0,reviewed,av,av
+2022-03-24T14:53:24.673Z,41.9644,-119.5879,1.5,2.7,ml,5.0,145.99,0.536,0.1406,nn,nn00835935,2022-03-24T17:52:08.080Z,"48 km ENE of Fort Bidwell, California",earthquake,,5.1,0.74,4.0,reviewed,nn,nn
+2022-03-24T14:26:15.640Z,33.0426667,-115.5708333,8.29,0.77,ml,8.0,145.0,0.01029,0.22,ci,ci37405092,2022-03-24T17:46:13.620Z,"5km E of Westmorland, CA",earthquake,0.91,1.61,0.187,5.0,reviewed,ci,ci
