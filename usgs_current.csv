@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T10:10:39.638Z,-0.7382,133.5457,25.85,5.2,mb,,81,2.524,0.66,us,us6000h6wg,2022-03-23T10:29:37.040Z,"59 km WNW of Manokwari, Indonesia",earthquake,8,3.8,0.075,59,reviewed,us,us
 2022-03-23T10:03:13.970Z,37.9831667,-122.0496667,15.1,2,md,73,82,0.05114,0.12,nc,nc73709226,2022-03-24T03:52:14.405Z,"2km E of Pacheco, CA",earthquake,0.18,0.23,0.126,72,reviewed,nc,nc
 2022-03-23T10:03:02.360Z,52.042,178.377,6.34,1,ml,3,352,,0.01,av,av91052588,2022-03-24T05:08:14.710Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.84,2.18,0.428412971210489,3,reviewed,av,av
-2022-03-23T09:56:36.520Z,40.1353333,-123.8245,22.86,2.79,md,30,65,0.03978,0.11,nc,nc73709221,2022-03-23T17:56:17.352Z,"2km N of Redway, CA",earthquake,0.28,0.24,0.174,40,reviewed,nc,nc
