@@ -5809,3 +5809,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T12:40:28.100Z,38.8209991,-122.7653351,2.19,0.45,md,10.0,114.0,0.01011,0.02,nc,nc73710191,2022-03-25T13:06:16.074Z,"4km W of Cobb, CA",earthquake,0.37,0.83,0.4,2.0,automatic,nc,nc
 2022-03-25T12:38:54.157Z,60.5239,-152.746,123.9,1.7,ml,,,,0.41,ak,ak0223v4im4m,2022-03-25T12:42:00.231Z,"78 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-25T02:53:35.799Z,36.4785,-98.741,8.12,1.32,ml,45.0,62.0,0.03329346669,0.19,ok,ok2022fvwm,2022-03-25T12:44:37.265Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.5,0.18,17.0,reviewed,ok,ok
+2022-03-25T13:48:50.070Z,33.6545,-116.7291667,15.81,0.98,ml,31.0,67.0,0.05789,0.21,ci,ci39977791,2022-03-25T13:52:28.404Z,"10km S of Idyllwild, CA",earthquake,0.32,0.5,0.238,29.0,automatic,ci,ci
+2022-03-25T13:38:37.190Z,38.8336678,-122.7925034,1.46,0.36,md,6.0,86.0,0.01542,0.01,nc,nc73710211,2022-03-25T13:40:10.293Z,"6km WNW of Cobb, CA",earthquake,0.45,2.3,,1.0,automatic,nc,nc
+2022-03-25T13:20:14.257Z,-3.7875,122.785,10.0,4.7,mb,,53.0,2.727,0.9,us,us7000gx7f,2022-03-25T13:40:00.040Z,"36 km NE of Kendari, Indonesia",earthquake,6.2,1.2,0.098,32.0,reviewed,us,us
