@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-27T11:52:06.410Z,38.8414993,-122.878334,2.45,0.84,md,15,93,0.005166,0.02,nc,nc73711141,2022-03-27T11:53:41.207Z,"13km ENE of Cloverdale, CA",earthquake,0.3,0.57,0.04,3,automatic,nc,nc
 2022-03-27T11:29:50.110Z,35.7418333,-117.5463333,6.63,0.84,ml,10,158,0.08468,0.12,ci,ci39979711,2022-03-27T11:33:27.802Z,"13km WSW of Searles Valley, CA",earthquake,0.47,1.2,0.118,5,automatic,ci,ci
 2022-03-27T11:27:03.276Z,61.5063,-149.8796,33,1.1,ml,,,,0.53,ak,ak0223yexepj,2022-03-27T11:28:49.130Z,"4 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-27T11:12:09.686Z,37.4792,141.6244,56.92,4.4,mb,,138,2.889,0.52,us,us7000gxnj,2022-03-27T11:48:50.040Z,"55 km E of Namie, Japan",earthquake,6,7.8,0.082,43,reviewed,us,us
 2022-03-27T11:01:32.793Z,61.6625,-149.8785,48.5,1.1,ml,,,,0.66,ak,ak0223yerwcw,2022-03-27T11:04:52.625Z,"4 km NW of Houston, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-03-27T10:59:48.910Z,38.829834,-122.8516693,1.61,0.37,md,7,100,0.004663,0.01,nc,nc73711131,2022-03-27T11:31:13.725Z,"10km NW of The Geysers, CA",earthquake,0.43,0.99,,1,automatic,nc,nc
 2022-03-27T10:59:38.220Z,38.8276672,-122.8541641,2.34,0.85,md,14,92,0.01821,0.02,nc,nc73711126,2022-03-27T11:20:13.657Z,"10km WNW of The Geysers, CA",earthquake,0.34,0.63,0.02,3,automatic,nc,nc
@@ -238,6 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T12:09:40.620Z,19.1911659240723,-155.469833374023,31.3700008392334,2.54,ml,44,97,,0.100000001,hv,hv72962687,2022-03-26T12:37:19.040Z,"1 km SE of Pāhala, Hawaii",earthquake,0.65,0.709999979,3.41,18,automatic,hv,hv
 2022-03-26T12:09:17.179Z,39.9716,-119.6423,1.6,1.2,ml,10,116.62,0.143,0.1388,nn,nn00836085,2022-03-26T12:12:39.252Z,"Nevada",earthquake,,6,0.37,6,automatic,nn,nn
 2022-03-26T12:01:26.250Z,36.586,-121.1853333,6.54,0.94,md,17,139,0.01427,0.07,nc,nc73710561,2022-03-27T08:46:14.853Z,"7km NNW of Pinnacles, CA",earthquake,0.28,0.37,0.233,11,reviewed,nc,nc
-2022-03-26T11:56:23.380Z,36.9708333,-121.618,4.32,0.85,md,18,55,0.03271,0.05,nc,nc73710556,2022-03-26T21:13:13.606Z,"6km SW of Gilroy, CA",earthquake,0.17,0.33,0.153,14,reviewed,nc,nc
-2022-03-26T11:53:01.950Z,38.5153333,-119.5418333,-0.78,2.59,md,20,71,0.04867,0.09,nc,nc73710551,2022-03-26T22:05:16.927Z,"5km W of Walker, CA",earthquake,0.21,0.51,0.203,63,reviewed,nc,nc
-2022-03-26T11:50:05.540Z,38.8328323,-122.8199997,1.31,0.78,md,17,58,0.0122,0.05,nc,nc73710546,2022-03-26T13:35:15.806Z,"8km NW of The Geysers, CA",earthquake,0.23,0.5,0.4,3,automatic,nc,nc
