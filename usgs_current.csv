@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-28T03:30:53.797Z,-6.4463,129.9342,152.61,4.5,mb,,73,2.04,0.89,us,us7000gxsj,2022-03-28T03:47:55.040Z,"Banda Sea",earthquake,6.4,6.5,0.108,25,reviewed,us,us
+2022-03-28T03:26:48.617Z,-30.3376,-71.4476,35.56,4.3,mb,,152,0.372,0.73,us,us7000gxsh,2022-03-28T03:52:44.604Z,"37 km NW of Ovalle, Chile",earthquake,4.5,14.3,0.307,3,reviewed,us,us
 2022-03-28T03:03:59.740Z,19.2561664581299,-155.380828857422,31.7999992370605,2.57,ml,46,136,,0.119999997,hv,hv72964312,2022-03-28T03:36:06.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.51,0.589999974,2.74,28,automatic,hv,hv
 2022-03-28T02:36:28.060Z,33.8918333,-116.2711667,5.32,2,ml,46,55,0.08795,0.18,ci,ci39980207,2022-03-28T02:47:26.240Z,"14km NE of Thousand Palms, CA",earthquake,0.22,0.6,0.145,26,automatic,ci,ci
 2022-03-28T02:35:46.540Z,35.6388333,-117.442,6.65,1.86,ml,19,120,0.05475,0.18,ci,ci39980199,2022-03-28T02:39:32.141Z,"15km SSW of Searles Valley, CA",earthquake,0.46,0.81,0.126,24,automatic,ci,ci
@@ -100,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T15:14:42.797Z,63.8324,-145.8708,18.6,1.1,ml,,,,0.89,ak,ak0223yh8fv2,2022-03-27T15:28:49.959Z,"18 km SW of Fort Greely, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-27T15:06:14.420Z,17.9543333333333,-66.8405,16.42,2.55,md,22,173,,0.1,pr,pr71342258,2022-03-27T15:37:11.960Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.43,0.29,0.130982528019439,10,reviewed,pr,pr
 2022-03-27T15:03:25.306Z,61.6013,-147.6991,20.6,1.5,ml,,,,0.8,ak,ak0223yh61n0,2022-03-27T15:20:27.673Z,"23 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-27T15:01:16.519Z,35.674,-97.42216667,7.08,3.29,ml,96,38,0,0.15,ok,ok2022galm,2022-03-28T03:16:45.362Z,"5 km ENE of Edmond, Oklahoma",earthquake,,0.2,0.24,40,reviewed,ok,ok
+2022-03-27T15:01:16.519Z,35.674,-97.42216667,7.08,3.29,ml,96,38,0,0.15,ok,ok2022galm,2022-03-28T03:40:42.687Z,"5 km ENE of Edmond, Oklahoma",earthquake,,0.2,0.24,40,reviewed,ok,ok
 2022-03-27T14:42:43.930Z,37.2065,-121.6591667,4.8,1.46,md,48,64,0.05028,0.12,nc,nc73711176,2022-03-27T22:18:18.601Z,"8km N of Morgan Hill, CA",earthquake,0.18,0.4,0.182,41,reviewed,nc,nc
 2022-03-27T14:39:12.770Z,48.33016666666666,-122.072,-0.33,1.85,ml,28,72,0.06803,0.27,uw,uw61816742,2022-03-27T19:25:02.180Z,"3 km W of Lake Cavanaugh, Washington",earthquake,0.34,0.65,0.4245640044060298,5,reviewed,uw,uw
 2022-03-27T14:36:32.740Z,18.3031,-68.4233,3,3.75,md,26,196,0.2149,0.43,pr,pr2022086000,2022-03-27T16:24:00.040Z,"21 km ESE of Boca de Yuma, Dominican Republic",earthquake,1.21,1.25,0.19,19,reviewed,pr,pr
@@ -214,6 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T04:00:03.670Z,35.8543333,-117.6636667,11.92,0.7,ml,8,94,0.06613,0.13,ci,ci39979599,2022-03-27T04:03:37.540Z,"24km ESE of Little Lake, CA",earthquake,0.49,1.24,0.14,4,automatic,ci,ci
 2022-03-27T03:58:20.540Z,35.8615,-117.6798333,7.62,1.59,ml,19,84,0.08099,0.11,ci,ci39979591,2022-03-27T13:26:58.830Z,"22km ESE of Little Lake, CA",earthquake,0.23,0.61,0.141,20,reviewed,ci,ci
 2022-03-27T03:58:01.120Z,38.1986,-117.7654,7.8,1.9,ml,12,114.62,0.13,0.2582,nn,nn00836124,2022-03-27T04:01:42.613Z,"36 km SE of Mina, Nevada",earthquake,,0.6,0.12,8,automatic,nn,nn
-2022-03-27T03:54:12.040Z,36.6793333,-121.2928333,4.67,2.07,md,54,67,0.03748,0.13,nc,nc73710976,2022-03-27T10:43:15.436Z,"12km S of Tres Pinos, CA",earthquake,0.19,0.48,0.202,62,reviewed,nc,nc
-2022-03-27T03:49:02.020Z,38.8218346,-122.7610016,1.97,0.45,md,10,125,0.01108,0.03,nc,nc73710971,2022-03-27T04:26:14.282Z,"3km W of Cobb, CA",earthquake,0.41,0.72,0.4,2,automatic,nc,nc
-2022-03-27T03:42:55.580Z,38.7898333,-122.761,1.86,1.57,md,47,54,0.01082,0.03,nc,nc73710966,2022-03-27T06:19:14.881Z,"1km NNW of The Geysers, CA",earthquake,0.14,0.24,0.143,17,reviewed,nc,nc
