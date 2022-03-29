@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-29T17:50:12.320Z,19.2005004882812,-155.369827270508,31.8700008392334,2.08,ml,37,174,,0.109999999,hv,hv72966397,2022-03-29T17:55:42.580Z,"11 km E of Pāhala, Hawaii",earthquake,0.56,0.829999983,0.06,3,automatic,hv,hv
+2022-03-29T17:49:51.607Z,61.8815,-150.4211,33.3,2.3,ml,,,,0.8,ak,ak02241tpiqs,2022-03-29T17:59:52.827Z,"25 km NW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-29T17:48:04.110Z,38.8125,-122.7921677,2.88,0.89,md,28,41,0.005146,0.02,nc,nc73711941,2022-03-29T17:49:40.309Z,"5km NW of The Geysers, CA",earthquake,0.2,0.41,0.04,5,automatic,nc,nc
 2022-03-29T17:47:14.890Z,35.8798333,-117.694,2.76,0.8,ml,12,76,0.0766,0.09,ci,ci39981255,2022-03-29T17:50:51.149Z,"20km ESE of Little Lake, CA",earthquake,0.21,0.28,0.105,7,automatic,ci,ci
 2022-03-29T17:43:56.780Z,33.7243333,-116.8248333,15.85,0.93,ml,35,50,0.0905,0.23,ci,ci39981247,2022-03-29T17:47:31.601Z,"7km ESE of Valle Vista, CA",earthquake,0.44,0.7,0.184,23,automatic,ci,ci
+2022-03-29T17:36:43.362Z,26.8123,126.4369,10,5.4,mww,,31,1.64,0.63,us,us7000gy5t,2022-03-29T17:56:19.040Z,"140 km WNW of Naha, Japan",earthquake,6.8,1.8,0.057,30,reviewed,us,us
 2022-03-29T17:31:28.990Z,35.8573333,-117.6801667,3.77,0.88,ml,8,89,0.07895,0.2,ci,ci39981231,2022-03-29T17:35:09.971Z,"22km ESE of Little Lake, CA",earthquake,0.54,1.49,0.124,7,automatic,ci,ci
 2022-03-29T17:25:43.190Z,38.8349991,-122.7903366,1.93,0.88,md,19,54,0.003405,0.02,nc,nc73711936,2022-03-29T17:27:21.156Z,"6km WNW of Cobb, CA",earthquake,0.24,0.41,0.11,4,automatic,nc,nc
 2022-03-29T17:22:31.169Z,61.4445,-150.9422,57.9,1.9,ml,,,,0.53,ak,ak02241tjovn,2022-03-29T17:27:19.065Z,"25 km WSW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -234,6 +237,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T00:18:34.370Z,17.9653333333333,-66.82,12.23,2.11,md,8,203,,0.08,pr,pr71342478,2022-03-29T00:30:08.980Z,"3 km S of Indios, Puerto Rico",earthquake,0.81,0.56,0.138839304484181,6,reviewed,pr,pr
 2022-03-28T23:53:38.490Z,35.5078333,-118.3876667,8.53,1.21,ml,21,65,0.1699,0.09,ci,ci39980903,2022-03-29T00:45:22.998Z,"13km SE of Bodfish, CA",earthquake,0.17,0.51,0.121,11,reviewed,ci,ci
 2022-03-28T23:53:20.530Z,17.9816666666667,-66.7026666666667,9.49,2.33,md,18,149,,0.1,pr,pr71342473,2022-03-29T00:15:11.030Z,"2 km SE of Tallaboa, Puerto Rico",earthquake,0.28,0.41,0.226184085055903,8,reviewed,pr,pr
+2022-03-28T23:50:13.650Z,46.28033333333333,-122.21533333333333,4.54,1.6300000000000001,ml,43,48,0.005456,0.17,uw,uw61817197,2022-03-29T17:59:17.680Z,"31 km S of Morton, Washington",earthquake,0.2,0.26,0.2045352526325307,18,reviewed,uw,uw
 2022-03-28T23:47:27.970Z,33.995,-116.9941667,17.35,1.28,ml,35,96,0.07005,0.13,ci,ci39980895,2022-03-29T00:41:59.255Z,"6km E of Calimesa, CA",earthquake,0.2,0.6,0.183,24,reviewed,ci,ci
 2022-03-28T23:42:01.741Z,31.6603,-104.333,5,2.6,ml,,114,0.143,0.84,us,us7000gxz6,2022-03-28T23:52:45.040Z,"57 km S of Whites City, New Mexico",earthquake,1.2,1.9,0.047,60,reviewed,us,us
 2022-03-28T23:31:34.210Z,19.4501667022705,-155.315002441406,2.46000003814697,1.83000004,md,8,314,,0.140000001,hv,hv72965377,2022-03-28T23:34:29.930Z,"8 km W of Volcano, Hawaii",earthquake,2.9,1.26999998,1.45000005,6,automatic,hv,hv
