@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T09:44:49.929Z,56.7138,-155.5455,0,2.6,ml,,,,0.88,ak,ak02243cgc3n,2022-03-30T09:49:41.654Z,"87 km WSW of Akhiok, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-30T09:23:01.390Z,19.2534999847412,-155.406173706055,31.25,1.99000001,md,42,141,,0.119999997,hv,hv72967367,2022-03-30T09:26:12.850Z,"9 km NE of Pāhala, Hawaii",earthquake,0.61,0.75999999,0.879999995,24,automatic,hv,hv
 2022-03-30T09:19:24.598Z,63.0283,-149.8645,85.6,1.1,ml,,,,0.35,ak,ak02243caww9,2022-03-30T09:24:07.680Z,"61 km SW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-30T09:15:13.260Z,38.8269997,-122.7990036,2,0.84,md,10,85,0.009366,0.02,nc,nc73712251,2022-03-30T09:33:15.822Z,"7km W of Cobb, CA",earthquake,0.41,1.03,,1,automatic,nc,nc
@@ -288,4 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T09:52:15.660Z,44.7496667,-110.9168333,6.9,0.69,md,8,131,0.06105,0.18,uu,uu60487732,2022-03-29T17:16:51.680Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.52,1.49,0.242,6,reviewed,uu,uu
 2022-03-29T09:51:55.860Z,44.7166667,-110.9808333,8.73,0.27,md,6,120,0.04632,0.14,uu,uu60030244,2022-03-29T17:19:28.280Z,"11 km ENE of West Yellowstone, Montana",earthquake,0.65,0.65,0.428,3,reviewed,uu,uu
 2022-03-29T09:51:49.570Z,44.7446667,-110.9136667,2.6,-0.44,md,4,122,0.0627,0.14,uu,uu60030249,2022-03-29T17:21:33.990Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.4,8.02,0.184,3,reviewed,uu,uu
-2022-03-29T09:49:56.340Z,44.7516667,-110.9243333,8.99,1.17,ml,17,97,0.0588,0.18,uu,uu60487727,2022-03-29T16:26:22.860Z,"17 km NE of West Yellowstone, Montana",earthquake,0.4,0.69,0.031,2,reviewed,uu,uu
