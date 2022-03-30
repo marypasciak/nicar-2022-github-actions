@@ -7237,3 +7237,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T10:03:29.976Z,63.4491,-146.9133,18.6,1.2,ml,,,,1.13,ak,ak02243csxgl,2022-03-30T10:26:03.496Z,"76 km WNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-30T09:21:16.440Z,17.9288333333333,-66.8785,7.42,2.44,md,8.0,223.0,,0.09,pr,pr71342693,2022-03-30T10:22:04.150Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,0.54,0.26,0.215926741569798,4.0,reviewed,pr,pr
 2022-03-30T10:24:23.770Z,34.276,-117.0126667,2.1,1.23,ml,41.0,76.0,0.07734,0.24,ci,ci39981719,2022-03-30T10:28:01.689Z,"10km WNW of Big Bear Lake, CA",earthquake,0.35,0.7,0.134,26.0,automatic,ci,ci
+2022-03-30T10:43:12.510Z,35.6806667,-117.5125,7.18,0.57,ml,10.0,157.0,0.1025,0.16,ci,ci39981727,2022-03-30T10:46:40.447Z,"14km SW of Searles Valley, CA",earthquake,0.61,1.34,0.111,7.0,automatic,ci,ci
