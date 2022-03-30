@@ -7186,3 +7186,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T05:14:15.314Z,63.0936,-151.4893,9.7,1.4,ml,,,,0.69,ak,ak022439w36j,2022-03-30T05:15:55.140Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-30T05:11:53.357Z,38.1517,-117.9857,11.3,0.9,ml,8.0,147.95,0.024,0.0433,nn,nn00836291,2022-03-30T05:25:58.031Z,"28 km SSE of Mina, Nevada",earthquake,,1.0,0.24,4.0,automatic,nn,nn
 2022-03-30T05:07:24.750Z,19.2240009307861,-155.384338378906,44.8199996948242,3.25,ml,28.0,168.0,,0.360000014,hv,hv72967062,2022-03-30T05:12:55.390Z,"10 km ENE of Pāhala, Hawaii",earthquake,1.52,2.3900001,3.88,40.0,automatic,hv,hv
+2022-03-30T05:28:27.378Z,37.9969,-117.9061,0.6,0.4,ml,9.0,172.93,0.148,0.2606,nn,nn00836297,2022-03-30T05:33:56.658Z,"35 km NW of Silver Peak, Nevada",earthquake,,11.3,0.8,3.0,automatic,nn,nn
+2022-03-30T05:25:18.056Z,38.1386,-118.0153,8.8,1.1,ml,11.0,145.55,0.044,0.0954,nn,nn00836296,2022-03-30T05:29:07.292Z,"29 km SSE of Mina, Nevada",earthquake,,0.6,0.36,7.0,automatic,nn,nn
