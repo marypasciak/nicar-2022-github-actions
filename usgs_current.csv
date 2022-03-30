@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T10:52:09.376Z,64.6967,-148.4374,0,1,ml,,,,1.18,ak,ak02243d3dyg,2022-03-30T10:54:21.984Z,"26 km SW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-30T10:49:11.780Z,35.6846667,-117.4538333,4.93,0.75,ml,10,117,0.09819,0.16,ci,ci39981735,2022-03-30T10:52:47.066Z,"10km SSW of Searles Valley, CA",earthquake,0.6,1.19,0.197,8,automatic,ci,ci
 2022-03-30T10:43:12.510Z,35.6806667,-117.5125,7.18,0.57,ml,10,157,0.1025,0.16,ci,ci39981727,2022-03-30T10:46:40.447Z,"14km SW of Searles Valley, CA",earthquake,0.61,1.34,0.111,7,automatic,ci,ci
+2022-03-30T10:36:23.774Z,51.6642,178.9908,78.41,4.4,mb,,129,0.391,0.75,us,us7000gydm,2022-03-30T10:53:40.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.4,7.8,0.062,76,reviewed,us,us
 2022-03-30T10:24:23.770Z,34.276,-117.0126667,2.1,1.23,ml,41,76,0.07734,0.24,ci,ci39981719,2022-03-30T10:28:01.689Z,"10km WNW of Big Bear Lake, CA",earthquake,0.35,0.7,0.134,26,automatic,ci,ci
 2022-03-30T10:23:52.274Z,58.6072,-152.7025,20,1.6,ml,,,,0.69,ak,ak02243cx9j4,2022-03-30T10:38:57.950Z,"62 km NNE of Aleneva, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2022-03-30T10:03:29.976Z,63.4491,-146.9133,18.6,1.2,ml,,,,1.13,ak,ak02243csxgl,2022-03-30T10:26:03.496Z,"76 km WNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -21,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T08:06:20.733Z,-4.8571,133.7139,10,4.8,mb,,84,2.417,0.7,us,us7000gycq,2022-03-30T08:21:34.040Z,"136 km NE of Tual, Indonesia",earthquake,6.8,1.6,0.131,18,reviewed,us,us
 2022-03-30T07:52:39.097Z,38.0363,-117.8916,6.3,1,ml,11,159.94,0.116,0.3337,nn,nn00836306,2022-03-30T07:56:17.631Z,"38 km NW of Silver Peak, Nevada",earthquake,,0.9,0.54,5,automatic,nn,nn
 2022-03-30T07:50:39.772Z,61.1583,-150.0258,21.4,1.4,ml,,,,0.53,ak,ak02243baq21,2022-03-30T07:52:53.924Z,"9 km SW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-30T07:44:39.662Z,-6.1366,104.3106,63.85,5,mb,,42,2.221,1.3,us,us7000gyc2,2022-03-30T08:10:39.040Z,"131 km SW of Bandar Lampung, Indonesia",earthquake,7.8,6.7,0.072,122,reviewed,us,us
+2022-03-30T07:44:39.662Z,-6.1366,104.3106,63.85,5,mb,,42,2.221,1.3,us,us7000gyc2,2022-03-30T08:10:39.040Z,"Sunda Strait, Indonesia",earthquake,7.8,6.7,0.072,122,reviewed,us,us
 2022-03-30T07:36:58.330Z,19.1493339538574,-155.498168945312,32.1699981689453,2.21000004,md,41,144,,0.129999995,hv,hv72967277,2022-03-30T07:40:20.000Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.62,0.75,0.839999974,23,automatic,hv,hv
 2022-03-30T07:32:48.510Z,38.8233337,-122.7693329,2.26,0.85,md,14,100,0.007141,0.02,nc,nc73712241,2022-03-30T07:51:14.169Z,"4km W of Cobb, CA",earthquake,0.36,0.55,0.04,3,automatic,nc,nc
 2022-03-30T07:17:46.320Z,19.1639995574951,-155.484832763672,35.1399993896484,2.01999998,md,34,112,,0.140000001,hv,hv72967252,2022-03-30T07:21:07.840Z,"4 km S of Pāhala, Hawaii",earthquake,0.66,1.57000005,0.109999999,5,automatic,hv,hv
@@ -278,5 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T11:19:05.137Z,36.7458,-116.2819,9.1,-0.1,ml,12,94.21,0.056,0.0661,nn,nn00836261,2022-03-30T02:38:09.989Z,"46 km ESE of Beatty, Nevada",earthquake,,1.2,0.71,6,reviewed,nn,nn
 2022-03-29T11:17:29.530Z,34.0463333,-117.5125,8.23,0.93,ml,19,122,0.03798,0.12,ci,ci39981039,2022-03-29T15:22:00.233Z,"5km NNW of Glen Avon, CA",earthquake,0.21,0.43,0.125,3,reviewed,ci,ci
 2022-03-29T11:08:47.300Z,44.7508333,-110.9148333,5.52,0.33,md,7,132,0.05921,0.11,uu,uu60487762,2022-03-29T16:10:21.240Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.86,2.68,0.086,4,reviewed,uu,uu
-2022-03-29T10:57:09.640Z,44.754,-110.9211667,6.27,1.57,ml,18,98,0.06079,0.15,uu,uu60487757,2022-03-29T15:41:41.020Z,"17 km NE of West Yellowstone, Montana",earthquake,0.31,0.75,0.177,4,reviewed,uu,uu
-2022-03-29T10:52:29.670Z,44.7601667,-110.9148333,8.37,0.47,md,11,122,0.05378,0.09,uu,uu60487752,2022-03-29T16:15:34.070Z,"18 km NE of West Yellowstone, Montana",earthquake,0.34,0.82,0.195,6,reviewed,uu,uu
