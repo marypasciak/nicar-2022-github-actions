@@ -8264,3 +8264,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T00:35:32.670Z,33.5895,-116.8028333,7.24,0.66,ml,25.0,43.0,0.05514,0.13,ci,ci39984911,2022-04-03T00:39:08.006Z,"13km WNW of Anza, CA",earthquake,0.2,0.64,0.135,18.0,automatic,ci,ci
 2022-04-03T00:28:04.350Z,34.6978333,-116.2921667,4.09,1.63,ml,13.0,72.0,0.117,0.12,ci,ci39984895,2022-04-03T00:31:39.036Z,"12km WSW of Ludlow, CA",earthquake,0.24,0.79,0.194,27.0,automatic,ci,ci
 2022-04-03T00:10:32.840Z,41.3854,140.3918,151.12,4.0,mb,,93.0,0.783,1.25,us,us7000gza2,2022-04-03T00:33:05.040Z,"52 km SSW of Hakodate, Japan",earthquake,7.3,10.1,0.366,2.0,reviewed,us,us
+2022-04-03T02:52:07.819Z,36.4353,-117.1046,4.2,0.5,ml,9.0,308.02,0.307,0.104,nn,nn00836607,2022-04-03T02:55:21.294Z,"22 km W of Furnace Creek, California",earthquake,,3.0,1.2,3.0,automatic,nn,nn
