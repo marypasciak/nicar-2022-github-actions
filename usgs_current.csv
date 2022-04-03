@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-03T19:52:50.376Z,59.4815,-153.1916,88.9,2.6,ml,,,,0.71,ak,ak0224a4lrhy,2022-04-03T19:58:28.206Z,"61 km SE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-03T19:49:58.350Z,38.8363342,-122.7996674,1.84,0.61,md,10,73,0.00757,0.01,nc,nc73713806,2022-04-03T19:51:33.833Z,"7km WNW of Cobb, CA",earthquake,0.33,0.87,0.03,2,automatic,nc,nc
 2022-04-03T19:28:44.870Z,38.8276672,-122.8218307,1.47,0.36,md,7,110,0.01013,0.01,nc,nc73713796,2022-04-03T19:50:16.796Z,"8km NW of The Geysers, CA",earthquake,0.48,0.78,,1,automatic,nc,nc
 2022-04-03T19:10:29.550Z,17.9673333333333,-66.8163333333333,12.18,2.15,md,11,207,,0.19,pr,pr71343253,2022-04-03T19:24:52.940Z,"2 km S of Indios, Puerto Rico",earthquake,0.74,0.63,0.0578815304699059,9,reviewed,pr,pr
 2022-04-03T18:55:23.470Z,18.8893337249756,-155.223831176758,11.4499998092651,2.75999999,md,25,259,,0.239999995,hv,hv72972302,2022-04-03T18:58:39.670Z,"42 km ESE of Naalehu, Hawaii",earthquake,1.63,1.07000005,2.27999997,6,automatic,hv,hv
@@ -66,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T12:12:55.837Z,35.62977219,-97.95739746,2.111031294,1.89,ml,21,46.92782593,0.1205713525,0.9859681095,ok,ok2022gnal,2022-04-03T12:15:25.800Z,"10 km S of Okarche, Oklahoma",earthquake,2.459895887,2.228104808,,16,automatic,ok,ok
 2022-04-03T12:07:06.740Z,17.9536666666667,-66.8751666666667,19.23,2.03,md,11,210,,0.08,pr,pr71343213,2022-04-03T12:21:06.550Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.64,0.36,0.0674848099881425,6,reviewed,pr,pr
 2022-04-03T11:56:56.530Z,19.2198333740234,-155.382827758789,31.2099990844727,2.3,ml,42,156,,0.119999997,hv,hv72972082,2022-04-03T12:55:22.040Z,"10 km E of Pāhala, Hawaii",earthquake,0.67,0.709999979,3.96,8,automatic,hv,hv
-2022-04-03T11:53:31.650Z,37.2803333,-118.3951667,11.49,2.3,md,20,96,0.09612,0.06,nc,nc73713711,2022-04-03T18:43:10.413Z,"1km NW of Wilkerson, CA",earthquake,0.44,1.03,0.201,32,reviewed,nc,nc
+2022-04-03T11:53:31.650Z,37.2803333,-118.3951667,11.49,2.3,md,20,96,0.09612,0.06,nc,nc73713711,2022-04-03T19:59:24.851Z,"1km NW of Wilkerson, CA",earthquake,0.44,1.03,0.201,32,reviewed,nc,nc
 2022-04-03T11:22:06.663Z,9.2613,126.6898,23.53,5.4,mww,,82,2.439,0.52,us,us7000gzcp,2022-04-03T13:25:53.371Z,"54 km E of Cortes, Philippines",earthquake,7.6,4.4,0.061,26,reviewed,us,us
 2022-04-03T11:04:22.010Z,38.8388329,-122.8274994,1.84,0.37,md,7,102,0.006243,0.01,nc,nc73713701,2022-04-03T11:34:15.883Z,"9km NW of The Geysers, CA",earthquake,0.8,2.36,,1,automatic,nc,nc
 2022-04-03T10:52:56.116Z,62.834,-148.391,9.2,1.7,ml,,,,0.87,ak,ak02249z8vg9,2022-04-03T10:55:36.092Z,"68 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -210,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T20:12:11.610Z,17.9801666666667,-66.8233333333333,20.33,1.81,md,5,198,,0.12,pr,pr71343118,2022-04-02T22:48:27.540Z,"1 km SSW of Indios, Puerto Rico",earthquake,0.88,0.84,,1,reviewed,pr,pr
 2022-04-02T20:10:18.690Z,17.949,-67.1021666666667,12.46,2.56,md,7,271,,0.07,pr,pr71343108,2022-04-02T21:21:15.630Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.62,0.23,0.0636316166506539,4,reviewed,pr,pr
 2022-04-02T20:02:29.440Z,38.809166,-122.7365036,2.7,0.85,md,9,124,0.02004,0.03,nc,nc73713501,2022-04-02T22:37:31.320Z,"2km SW of Cobb, CA",earthquake,0.53,1.22,,2,automatic,nc,nc
-2022-04-02T19:57:54.522Z,51.0909,175.5861,10,3,ml,,250,1.881,0.64,us,us7000gz9c,2022-04-02T21:05:58.040Z,"255 km SE of Attu Station, Alaska",earthquake,5.2,2,0.097,14,reviewed,us,us
-2022-04-02T19:54:20.850Z,38.789,-122.7785,1.34,-0.16,md,13,82,0.008461,0.02,nc,nc73713496,2022-04-02T23:18:28.866Z,"2km NW of The Geysers, CA",earthquake,0.27,0.45,0.108,3,reviewed,nc,nc
