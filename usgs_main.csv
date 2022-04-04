@@ -8568,3 +8568,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T08:29:49.500Z,18.0208333333333,-66.7543333333333,17.02,2.71,md,31.0,125.0,,0.23,pr,pr71343318,2022-04-04T10:13:19.830Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.38,0.51,0.281042885536829,14.0,reviewed,pr,pr
 2022-04-04T10:41:23.143Z,63.0647,-151.3787,1.9,2.1,ml,,,,0.59,ak,ak0224bmpsm2,2022-04-04T10:43:33.038Z,"55 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-04T10:29:18.799Z,38.1939,-117.8643,1.5,2.1,ml,21.0,109.02,0.093,0.2949,nn,nn00836661,2022-04-04T10:33:13.615Z,"30 km SE of Mina, Nevada",earthquake,,1.2,0.99,12.0,automatic,nn,nn
+2022-04-04T10:51:52.440Z,38.8413315,-122.8248367,2.19,0.86,md,9.0,112.0,0.008757,0.02,nc,nc73714106,2022-04-04T10:53:25.960Z,"9km WNW of Cobb, CA",earthquake,0.37,1.0,,1.0,automatic,nc,nc
+2022-04-04T10:29:04.313Z,37.386,141.679,36.79,5.5,mww,,96.0,2.904,1.16,us,us7000gzjc,2022-04-04T10:50:32.055Z,"61 km E of Namie, Japan",earthquake,7.3,6.0,0.075,17.0,reviewed,us,us
