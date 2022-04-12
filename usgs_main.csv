@@ -10806,3 +10806,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T21:26:54.370Z,33.8673333,-117.5028333,0.42,1.25,ml,15.0,209.0,0.06924,0.23,ci,ci39991007,2022-04-12T21:30:33.127Z,"2km SE of Home Gardens, CA",quarry blast,1.17,31.61,0.211,32.0,automatic,ci,ci
 2022-04-12T21:18:34.021Z,65.0709,-151.527,15.0,0.7,ml,,,,0.59,ak,ak0224p1ffkk,2022-04-12T21:30:11.975Z,"28 km ESE of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-12T02:18:28.120Z,46.19766666666666,-122.19066666666669,0.91,0.09,ml,10.0,125.0,0.002118,0.1,uw,uw61830881,2022-04-12T21:41:45.020Z,Washington,earthquake,0.52,0.27,0.3819373276766591,3.0,reviewed,uw,uw
+2022-04-12T14:32:16.700Z,44.3025,-115.1521667,8.79,2.11,ml,12.0,81.0,0.803,0.22,mb,mb80542889,2022-04-12T21:43:34.980Z,"19 km WNW of Stanley, Idaho",earthquake,0.55,1.07,0.14,11.0,reviewed,mb,mb
