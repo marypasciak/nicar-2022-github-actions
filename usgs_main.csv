@@ -10947,3 +10947,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T08:35:28.472Z,65.06,-152.2425,0.0,1.9,ml,,,,0.67,ak,ak0224qhbrz7,2022-04-13T08:41:56.707Z,"14 km SSW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-13T08:23:00.800Z,19.4584999084473,-155.603332519531,-1.4099999666214,2.13,ml,18.0,87.0,,0.200000003,hv,hv72982442,2022-04-13T08:28:31.760Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.439999998,0.26,4.0,automatic,hv,hv
 2022-04-13T08:21:46.320Z,36.101,-117.8508333,2.3,0.67,ml,7.0,180.0,0.01686,0.05,ci,ci39991223,2022-04-13T08:25:23.577Z,"11km NE of Coso Junction, CA",earthquake,0.35,0.16,0.077,4.0,automatic,ci,ci
+2022-04-13T08:47:22.000Z,38.8339996,-122.7978363,2.16,0.98,md,14.0,61.0,0.01427,0.02,nc,nc73717801,2022-04-13T08:48:58.546Z,"7km WNW of Cobb, CA",earthquake,0.3,0.69,0.19,3.0,automatic,nc,nc
+2022-04-13T08:42:29.571Z,39.0898,-119.0141,7.2,1.0,ml,8.0,134.89,0.455,0.1477,nn,nn00837108,2022-04-13T08:46:48.720Z,"17 km NE of Yerington, Nevada",earthquake,,303.1,0.2,4.0,automatic,nn,nn
+2022-04-13T08:41:32.647Z,59.5782,-152.655,82.9,1.0,ml,,,,0.21,ak,ak0224qhd2kw,2022-04-13T08:47:08.191Z,"48 km WNW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
