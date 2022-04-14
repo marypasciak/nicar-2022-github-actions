@@ -11283,3 +11283,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T10:00:24.570Z,17.9863333333333,-66.8385,12.18,2.33,md,9.0,180.0,,0.1,pr,pr71344548,2022-04-14T11:01:00.560Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.41,0.71,0.203139772213599,6.0,reviewed,pr,pr
 2022-04-14T11:03:32.590Z,17.9615,-66.8258333333333,9.63,2.16,md,10.0,209.0,,0.12,pr,pr71344553,2022-04-14T11:21:19.430Z,"3 km S of Indios, Puerto Rico",earthquake,0.84,0.66,0.123492887009473,5.0,reviewed,pr,pr
 2022-04-14T11:02:50.357Z,-22.5402,170.4737,39.94,4.9,mb,,105.0,2.798,1.27,us,us7000h25p,2022-04-14T11:21:57.040Z,"289 km ESE of Tadine, New Caledonia",earthquake,8.1,7.7,0.084,45.0,reviewed,us,us
+2022-04-14T11:30:09.950Z,36.0326667,-117.6926667,1.9,0.94,ml,11.0,124.0,0.05931,0.13,ci,ci39992151,2022-04-14T11:33:44.501Z,"22km ENE of Little Lake, CA",earthquake,0.29,0.47,0.103,10.0,automatic,ci,ci
+2022-04-14T05:42:07.540Z,37.5783333,-118.8635,3.38,0.14,md,10.0,222.0,0.02971,0.04,nc,nc73718146,2022-04-14T11:32:40.823Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.8,0.8,0.261,10.0,reviewed,nc,nc
