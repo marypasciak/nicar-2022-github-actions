@@ -12760,3 +12760,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T12:34:51.817Z,61.5606,-146.2991,38.7,1.9,ml,,,,0.9,ak,ak02250gxfdk,2022-04-19T12:43:39.832Z,"47 km N of Valdez, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-04-19T12:30:23.540Z,38.8238335,-122.7649994,1.89,0.85,md,6.0,194.0,0.007659,0.01,nc,nc73720165,2022-04-19T12:58:54.505Z,"4km W of Cobb, CA",earthquake,0.96,2.11,,1.0,automatic,nc,nc
 2022-04-19T12:17:57.850Z,17.995,-66.7711666666667,14.68,2.37,md,11.0,187.0,,0.2,pr,pr71345088,2022-04-19T12:55:50.020Z,"2 km S of Magas Arriba, Puerto Rico",earthquake,0.71,0.69,0.213363815618565,7.0,reviewed,pr,pr
+2022-04-19T13:23:47.870Z,35.6413333,-117.4478333,6.45,1.87,ml,23.0,118.0,0.05595,0.2,ci,ci40241008,2022-04-19T13:27:28.648Z,"15km SSW of Searles Valley, CA",earthquake,0.38,0.87,0.119,27.0,automatic,ci,ci
+2022-04-19T13:18:28.120Z,33.0328333,-116.0083333,2.13,1.08,ml,21.0,106.0,0.1426,0.23,ci,ci40241000,2022-04-19T13:22:04.611Z,"17km SE of Ocotillo Wells, CA",earthquake,0.49,0.89,0.193,15.0,automatic,ci,ci
+2022-04-19T13:04:31.760Z,19.2293338775635,-155.406661987305,32.4500007629395,2.42,ml,47.0,139.0,,0.129999995,hv,hv72989342,2022-04-19T13:22:35.040Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.48,0.709999979,3.77,18.0,automatic,hv,hv
+2022-04-19T13:03:37.730Z,36.9273338,-121.529335,8.56,1.42,md,20.0,124.0,0.05062,0.16,nc,nc73720195,2022-04-19T13:37:26.743Z,"9km N of San Juan Bautista, CA",earthquake,0.52,0.95,0.22,16.0,automatic,nc,nc
+2022-04-19T12:56:09.128Z,-24.6392,-67.1448,174.41,4.6,mwr,,70.0,1.928,0.64,us,us7000h3bz,2022-04-19T13:28:13.040Z,"95 km WSW of San Antonio de los Cobres, Argentina",earthquake,8.5,0.8,,,reviewed,us,guc
+2022-04-19T12:44:11.246Z,17.9665,-101.7924,35.0,4.9,mww,,89.0,1.754,0.8,us,us7000h3bw,2022-04-19T13:28:07.762Z,"2 km SE of La Unión, Mexico",earthquake,7.2,1.9,0.098,10.0,reviewed,us,us
+2022-04-19T12:32:14.350Z,19.2758,-65.1295,29.0,3.67,md,19.0,285.0,0.9803,0.3,pr,pr2022109002,2022-04-19T13:09:18.960Z,"105 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.82,18.75,0.09,10.0,reviewed,pr,pr
+2022-04-18T23:10:11.610Z,44.6505,-110.4625,4.91,1.73,ml,21.0,103.0,0.07133,0.16,uu,uu60492397,2022-04-19T13:11:54.430Z,"40 km SSE of Mammoth, Wyoming",earthquake,0.37,0.41,0.085,3.0,reviewed,uu,uu
