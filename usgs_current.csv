@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-19T08:19:21.880Z,38.7960014,-122.7938309,2.98,1.01,md,29,62,0.005412,0.04,nc,nc73720065,2022-04-19T08:24:17.220Z,"4km WNW of The Geysers, CA",earthquake,0.24,0.43,0.17,5,automatic,nc,nc
+2022-04-19T08:15:02.790Z,36.4635,-117.9651667,9.46,1.47,ml,12,131,0.09566,0.17,ci,ci40240888,2022-04-19T08:18:49.786Z,"17km SE of Lone Pine, CA",earthquake,0.4,0.7,0.218,15,automatic,ci,ci
+2022-04-19T08:13:22.827Z,61.5528,-141.2171,0,1.8,ml,,,,0.63,ak,ak02250ef4qr,2022-04-19T08:16:55.834Z,"91 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-19T08:00:13.672Z,60.6143,-150.5617,52.1,1.4,ml,,,,0.51,ak,ak02250ecbpz,2022-04-19T08:02:07.764Z,"14 km NE of Sterling, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2022-04-19T07:58:28.723Z,61.9978,-148.933,36.6,1.4,ml,,,,0.63,ak,ak02250e3cs4,2022-04-19T08:00:54.094Z,"26 km NNW of Sutton-Alpine, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-19T07:44:12.270Z,19.1648330688477,-155.488006591797,34.7900009155273,2.13,ml,49,148,,0.119999997,hv,hv72989222,2022-04-19T07:49:43.240Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.49,0.699999988,4.56,8,automatic,hv,hv
 2022-04-19T07:31:49.530Z,35.7565,-117.5441667,9.66,1.06,ml,12,172,0.07332,0.13,ci,ci40240880,2022-04-19T07:35:21.776Z,"13km W of Searles Valley, CA",earthquake,0.46,0.76,0.094,9,automatic,ci,ci
 2022-04-19T07:28:34.740Z,36.0975,-117.8673333,5.01,1.18,ml,14,89,0.02244,0.14,ci,ci40240872,2022-04-19T07:32:03.502Z,"9km NE of Coso Junction, CA",earthquake,0.31,0.54,0.168,14,automatic,ci,ci
@@ -24,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T05:08:14.309Z,61.8624,-150.3865,33.1,1.7,ml,,,,1.09,ak,ak02250clqot,2022-04-19T05:13:35.774Z,"22 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-19T05:07:16.740Z,38.8036652,-122.7738342,-0.06,0.35,md,7,122,0.01097,0.01,nc,nc73719995,2022-04-19T05:29:56.841Z,"3km NNW of The Geysers, CA",earthquake,0.25,0.83,,1,automatic,nc,nc
 2022-04-19T05:04:25.573Z,60.6198,-152.3761,93.3,1.7,ml,,,,0.91,ak,ak02250ckwor,2022-04-19T05:07:42.180Z,"57 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-04-19T05:01:47.470Z,39.1786652,-123.1624985,1.89,1.14,md,7,175,0.1111,0.23,nc,nc73719990,2022-04-19T06:16:27.102Z,"5km N of Talmage, CA",earthquake,1.03,19.34,,1,automatic,nc,nc
+2022-04-19T05:01:47.470Z,39.1786652,-123.1624985,1.89,1.14,md,7,175,0.1111,0.23,nc,nc73719990,2022-04-19T08:02:54.711Z,"5km N of Talmage, CA",earthquake,1.03,19.34,,1,automatic,nc,nc
 2022-04-19T05:00:09.160Z,38.7926674,-122.9858322,1.66,3.33,ml,53,38,0.03257,0.08,nc,nc73719985,2022-04-19T07:36:56.554Z,"3km ESE of Cloverdale, CA",earthquake,0.19,0.69,0.286,23,automatic,nc,nc
 2022-04-19T04:58:31.570Z,35.9365,-117.6836667,2.86,1.09,ml,13,59,0.02931,0.14,ci,ci40240824,2022-04-19T05:02:06.324Z,"20km E of Little Lake, CA",earthquake,0.28,0.65,0.198,11,automatic,ci,ci
 2022-04-19T04:52:50.650Z,34.0005,-117.218,12.09,1.69,ml,68,32,0.06496,0.17,ci,ci40240816,2022-04-19T05:04:07.560Z,"7km SE of Loma Linda, CA",earthquake,0.18,0.46,0.172,25,automatic,ci,ci
@@ -274,6 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T08:27:19.960Z,17.912,-66.7515,5.32,3.02,md,35,186,,0.3,pr,pr71344938,2022-04-18T09:19:49.360Z,"Puerto Rico region",earthquake,0.5,0.41,0.179276153593002,18,reviewed,pr,pr
 2022-04-18T08:26:16.823Z,62.4847,-149.8001,5,1.4,ml,,,,0.77,ak,ak0224yqyk30,2022-04-18T08:31:39.366Z,"16 km ENE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-18T08:26:00.270Z,35.6023333,-117.4568333,6.43,1.14,ml,12,154,0.01639,0.16,ci,ci40239560,2022-04-18T08:29:24.402Z,"19km SSW of Searles Valley, CA",earthquake,0.48,0.59,0.093,10,automatic,ci,ci
-2022-04-18T08:22:33.690Z,38.8061676,-122.8208313,2.72,0.85,md,9,79,0.007057,0.01,nc,nc73719530,2022-04-18T08:46:54.250Z,"6km WNW of The Geysers, CA",earthquake,0.52,1.15,,1,automatic,nc,nc
-2022-04-18T08:18:55.720Z,59.9878333333333,-153.055166666667,-0.12,-0.2,ml,5,142,,0.17,av,av91540836,2022-04-19T01:32:33.200Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.38,0.68,0.170930517318502,5,reviewed,av,av
-2022-04-18T08:13:31.110Z,36.8518333,-121.4428329,9.35,1.55,md,10,189,0.04952,0.06,nc,nc73719525,2022-04-18T11:06:05.124Z,"4km W of Hollister, CA",earthquake,0.89,0.82,0.29,8,automatic,nc,nc
