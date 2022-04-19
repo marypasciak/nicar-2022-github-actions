@@ -12722,3 +12722,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T08:28:33.010Z,38.7613335,-122.7235031,1.64,1.51,md,25.0,111.0,0.001093,0.05,nc,nc73720075,2022-04-19T08:38:21.907Z,"3km WSW of Anderson Springs, CA",earthquake,0.25,0.34,0.08,7.0,automatic,nc,nc
 2022-04-19T08:24:55.490Z,36.4710007,-121.0463333,6.21,1.57,md,12.0,108.0,0.05117,0.04,nc,nc73720070,2022-04-19T08:37:26.902Z,"11km SE of Pinnacles, CA",earthquake,0.47,1.11,0.08,8.0,automatic,nc,nc
 2022-04-19T07:50:23.290Z,17.9606,-66.952,9.0,3.41,md,24.0,198.0,0.0742,0.13,pr,pr2022109000,2022-04-19T08:32:13.346Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.42,0.64,0.12,19.0,reviewed,pr,pr
+2022-04-19T08:43:09.696Z,59.9829,-151.4605,58.2,2.4,ml,,,,0.54,ak,ak02250elj67,2022-04-19T08:48:05.035Z,"13 km ESE of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-19T08:42:03.919Z,61.1552,-146.8812,10.6,1.4,ml,,,,1.05,ak,ak02250elb1j,2022-04-19T08:45:11.264Z,"28 km W of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
