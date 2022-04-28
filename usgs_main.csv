@@ -15305,3 +15305,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T00:04:53.071Z,39.2185,-120.0832,9.8,0.0,ml,4.0,141.0,0.035,0.0639,nn,nn00838014,2022-04-28T17:36:31.882Z,"0 km S of Carnelian Bay, California",earthquake,,2.2,0.0,1.0,reviewed,nn,nn
 2022-04-28T17:44:10.861Z,59.9167,-139.4135,4.3,1.5,ml,,,,1.28,ak,ak0225ffsrum,2022-04-28T17:53:51.080Z,"44 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-28T01:02:40.246Z,39.3463,-119.9893,3.5,0.1,ml,6.0,93.4,0.065,0.1149,nn,nn00838016,2022-04-28T17:52:03.516Z,"6 km SSE of Floriston, California",earthquake,,4.8,0.56,3.0,reviewed,nn,nn
+2022-04-28T16:34:19.400Z,33.879,-116.8736667,13.3,0.82,ml,17.0,136.0,0.07799,0.11,ci,ci37496685,2022-04-28T18:12:21.583Z,"5km S of Banning, CA",earthquake,0.26,0.7,0.062,3.0,reviewed,ci,ci
+2022-04-28T15:57:27.680Z,36.0221667,-117.823,6.66,0.7,ml,12.0,57.0,0.04122,0.23,ci,ci40247760,2022-04-28T18:06:13.491Z,"12km ESE of Coso Junction, CA",earthquake,0.51,31.61,0.44,7.0,reviewed,ci,ci
+2022-04-28T08:22:38.936Z,31.7393238,-104.0967743,9.782104492,2.8,ml,12.0,94.0,0.04844232355,0.2,tx,tx2022igkl,2022-04-28T18:06:02.366Z,"47 km W of Mentone, Texas",earthquake,0.8304083859,1.51733044,0.1,12.0,reviewed,tx,tx
+2022-04-28T05:26:05.110Z,39.1874,-119.5761,6.8,-0.2,ml,3.0,237.55,0.1,0.049,nn,nn00838020,2022-04-28T18:07:32.244Z,"5 km SSE of Dayton, Nevada",earthquake,,10.1,0.0,1.0,reviewed,nn,nn
+2022-04-28T03:42:57.368Z,37.9956,-118.605,5.5,0.7,ml,6.0,346.77,0.268,0.1445,nn,nn00838017,2022-04-28T17:58:14.967Z,"22 km NNW of Benton, California",earthquake,,51.5,0.0,1.0,reviewed,nn,nn
+2022-04-28T00:55:14.710Z,46.584,-121.81233333333331,10.14,0.37,ml,8.0,326.0,0.1667,0.11,uw,uw61834781,2022-04-28T18:12:18.700Z,"11 km WSW of Packwood, Washington",earthquake,1.5,1.6,0.0679744403042157,3.0,reviewed,uw,uw
