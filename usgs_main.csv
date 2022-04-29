@@ -15453,3 +15453,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T06:26:40.190Z,62.7051,-151.8417,3.0,1.6,ml,,,,0.92,ak,ak0225gwok41,2022-04-29T06:36:41.454Z,"59 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-29T06:24:20.534Z,63.5144,-147.7843,20.5,1.0,ml,,,,0.46,ak,ak0225gwo35v,2022-04-29T06:27:02.604Z,"59 km ENE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-29T06:12:19.830Z,17.9721666666667,-66.8745,17.4,1.58,md,6.0,196.0,,0.12,pr,pr71346708,2022-04-29T06:52:24.170Z,"1 km ESE of Maria Antonia, Puerto Rico",earthquake,0.82,0.63,0.0644399257760548,4.0,reviewed,pr,pr
+2022-04-29T07:12:04.245Z,61.486,-148.0688,20.0,1.3,ml,,,,1.18,ak,ak0225gx6wxm,2022-04-29T07:18:59.931Z,"40 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-29T07:01:29.250Z,38.8336678,-122.8184967,1.82,0.85,md,12.0,60.0,0.01219,0.01,nc,nc73726101,2022-04-29T07:11:11.542Z,"8km NW of The Geysers, CA",earthquake,0.34,0.87,,1.0,automatic,nc,nc
+2022-04-29T06:58:04.930Z,33.3618333,-116.9716667,6.83,1.03,ml,36.0,51.0,0.05719,0.24,ci,ci40248152,2022-04-29T07:01:41.376Z,"10km E of Pala, CA",earthquake,0.27,0.73,0.099,26.0,automatic,ci,ci
+2022-04-29T06:55:13.285Z,61.3764,-141.0619,0.0,1.5,ml,,,,0.47,ak,ak0225gwupt2,2022-04-29T06:59:04.046Z,"99 km E of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
