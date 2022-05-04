@@ -16873,3 +16873,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-04T04:40:10.060Z,51.7876666666667,-178.952166666667,7.06,0.81,ml,6.0,271.0,,0.19,av,av91057268,2022-05-04T21:34:31.560Z,"160 km W of Adak, Alaska",earthquake,1.03,1.66,0.241392058926062,6.0,reviewed,av,av
 2022-05-04T05:10:41.190Z,51.8248333333333,-178.946,6.29,0.84,ml,4.0,323.0,,0.06,av,av91057283,2022-05-04T21:45:08.560Z,"159 km W of Adak, Alaska",earthquake,0.73,1.33,0.244045951368272,4.0,reviewed,av,av
 2022-05-04T05:07:37.320Z,51.7943333333333,-178.9375,7.99,1.49,ml,7.0,270.0,,0.15,av,av91550381,2022-05-04T21:51:34.020Z,"159 km W of Adak, Alaska",earthquake,0.98,0.63,0.262714078738593,7.0,reviewed,av,av
+2022-05-04T21:41:08.156Z,6.5555,127.1265,35.0,5.6,mww,,68.0,1.619,1.1,us,us7000h74t,2022-05-04T22:01:27.426Z,"92 km ESE of Lukatan, Philippines",earthquake,4.6,1.9,0.061,26.0,reviewed,us,us
+2022-05-04T20:38:40.194Z,2.184,95.6508,10.0,4.3,mb,,198.0,2.113,0.76,us,us7000h743,2022-05-04T21:54:13.040Z,"87 km WSW of Sinabang, Indonesia",earthquake,10.7,1.9,0.114,22.0,reviewed,us,us
