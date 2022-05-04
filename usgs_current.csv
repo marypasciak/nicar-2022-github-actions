@@ -233,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T11:55:07.330Z,47.08416666666667,-122.05466666666666,14.52,0.85,ml,21,128,0.1016,0.09,uw,uw61836321,2022-05-03T18:18:28.950Z,"0 km NNW of Carbonado, Washington",earthquake,0.27,0.57,0.09826104049245976,7,reviewed,uw,uw
 2022-05-03T11:50:31.147Z,65.4772,-149.1878,9.5,1.4,ml,,,,0.43,ak,ak0225nly8lm,2022-05-03T11:53:14.775Z,"30 km W of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-03T11:42:09.464Z,39.397,-120.1881,11.8,0.5,ml,8,98.19,0.112,0.1468,nn,nn00838268,2022-05-04T02:39:09.054Z,"7 km N of Truckee, California",earthquake,,4.1,0.63,4,reviewed,nn,nn
-2022-05-03T11:37:52.790Z,38.8349991,-122.8166656,1.61,0.85,md,10,76,0.01268,0.01,nc,nc73728701,2022-05-03T11:59:22.775Z,"8km W of Cobb, CA",earthquake,0.32,0.85,,1,automatic,nc,nc
-2022-05-03T11:37:51.338Z,2.9472,127.82,128.71,4.2,mb,,106,2.207,0.41,us,us7000h6sj,2022-05-03T13:34:36.040Z,"136 km N of Tobelo, Indonesia",earthquake,9.4,7.9,0.11,23,reviewed,us,us
