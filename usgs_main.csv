@@ -18048,3 +18048,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T21:40:32.730Z,38.7966652,-122.7371674,1.05,0.54,md,7.0,104.0,0.01341,0.01,nc,nc73731451,2022-05-09T21:49:10.695Z,"3km NE of The Geysers, CA",earthquake,0.33,0.82,0.26,2.0,automatic,nc,nc
 2022-05-09T21:39:35.670Z,33.041,-116.3525,10.29,1.56,ml,46.0,51.0,0.09554,0.24,ci,ci40255160,2022-05-09T21:43:09.861Z,"24km WSW of Ocotillo Wells, CA",earthquake,0.3,0.74,0.175,25.0,automatic,ci,ci
 2022-05-09T21:38:19.920Z,19.1981658935547,-155.432998657227,32.1699981689453,1.83000004,md,31.0,146.0,,0.119999997,hv,hv73007577,2022-05-09T21:41:59.100Z,"4 km E of Pāhala, Hawaii",earthquake,0.83,0.769999981,1.38,10.0,automatic,hv,hv
+2022-05-09T18:11:27.810Z,37.3745,-118.8053333,4.26,1.13,md,14.0,99.0,0.194,0.09,nc,nc73731361,2022-05-09T21:55:10.733Z,"19km WSW of Round Valley, CA",earthquake,0.38,31.61,0.232,9.0,reviewed,nc,nc
+2022-05-09T10:24:19.340Z,19.5085,-155.661833333333,3.99,1.52,md,11.0,123.0,,0.12,hv,hv72000393,2022-05-09T21:55:56.600Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.85,0.148696662263304,4.0,reviewed,hv,hv
+2022-05-09T09:12:13.668Z,39.2289,-120.0805,7.0,-0.5,ml,5.0,123.33,0.041,0.1485,nn,nn00838570,2022-05-09T21:51:18.988Z,"0 km NNE of Carnelian Bay, California",earthquake,,2.2,0.0,1.0,reviewed,nn,nn
