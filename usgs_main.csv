@@ -18476,3 +18476,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T09:29:55.335Z,62.8611,-148.1339,250.0,1.4,ml,,,,1.08,ak,ak02260sxpbd,2022-05-11T09:39:07.252Z,"72 km SE of Cantwell, Alaska",earthquake,,4.9,,,automatic,ak,ak
 2022-05-11T09:18:57.633Z,-18.0182,-178.5679,559.15,4.2,mb,,121.0,3.229,0.62,us,us7000h8jt,2022-05-11T09:44:21.040Z,"224 km E of Levuka, Fiji",earthquake,15.1,8.8,0.045,141.0,reviewed,us,us
 2022-05-11T09:49:17.520Z,18.8423328399658,-155.515335083008,33.939998626709,2.07999992,md,30.0,274.0,,0.150000006,hv,hv73009267,2022-05-11T09:53:01.120Z,"25 km SSE of Naalehu, Hawaii",earthquake,0.74,1.16999996,1.30999994,7.0,automatic,hv,hv
+2022-05-11T10:06:16.024Z,61.8092,-149.8213,39.3,1.4,ml,,,,0.27,ak,ak02260te49u,2022-05-11T10:08:26.794Z,"13 km ENE of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
