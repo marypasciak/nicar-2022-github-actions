@@ -18826,3 +18826,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T15:39:48.327Z,65.7452,-148.0019,5.4,2.6,ml,,,,1.03,ak,ak02262k3rxb,2022-05-12T15:50:37.202Z,"35 km NE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T15:39:41.680Z,34.1964989,-117.6256638,6.58,1.11,ml,17.0,103.0,0.05025,0.27,ci,ci40016367,2022-05-12T15:43:25.194Z,"9km NNW of Rancho Cucamonga, CA",earthquake,0.67,1.06,0.625,6.0,automatic,ci,ci
 2022-05-12T13:23:22.150Z,38.001,-112.5685,5.59,1.55,ml,10.0,280.0,0.3543,0.07,uu,uu60497792,2022-05-12T15:44:27.750Z,"22 km NE of Paragonah, Utah",earthquake,2.53,31.61,0.093,4.0,reviewed,uu,uu
+2022-05-12T07:46:38.070Z,48.667,-123.023,17.55,0.53,md,18.0,132.0,0.08785,0.24,uw,uw61830682,2022-05-12T16:03:45.980Z,"9 km NW of Orcas, Washington",earthquake,0.56,0.79,0.3934369647097986,9.0,reviewed,uw,uw
