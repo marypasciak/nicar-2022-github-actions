@@ -18887,3 +18887,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T20:47:01.750Z,33.3395,-116.2751667,9.95,0.83,ml,27.0,86.0,0.03675,0.22,ci,ci40016687,2022-05-12T20:50:33.772Z,"13km NE of Borrego Springs, CA",earthquake,0.38,0.61,0.096,16.0,automatic,ci,ci
 2022-05-12T20:46:41.261Z,61.74,-149.5855,53.1,0.9,ml,,,,0.35,ak,ak02262n4fem,2022-05-12T20:49:25.685Z,"12 km N of Meadow Lakes, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-05-12T05:44:05.559Z,37.0986,-116.1974,4.5,-0.2,ml,4.0,215.65,0.103,0.0794,nn,nn00838795,2022-05-12T20:55:03.014Z,Nevada,earthquake,,9.9,0.06,2.0,reviewed,nn,nn
+2022-05-12T20:50:44.448Z,31.6483,-104.4014,5.0,3.2,ml,,109.0,0.087,0.73,us,us6000hkp4,2022-05-12T21:05:23.040Z,"58 km S of Whites City, New Mexico",earthquake,2.7,2.0,0.064,72.0,reviewed,us,us
+2022-05-12T07:17:29.807Z,36.5645,-116.3028,3.2,-0.2,ml,8.0,165.79,0.086,0.0732,nn,nn00838796,2022-05-12T21:04:20.091Z,"48 km NW of Pahrump, Nevada",earthquake,,5.7,1.06,3.0,reviewed,nn,nn
