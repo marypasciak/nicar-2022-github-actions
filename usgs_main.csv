@@ -19072,3 +19072,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T11:25:15.008Z,37.4621,-117.5455,4.7,0.9,ml,12.0,127.84,0.243,0.2211,nn,nn00838844,2022-05-13T11:30:32.859Z,"33 km SSE of Silver Peak, Nevada",earthquake,,2.9,0.29,7.0,automatic,nn,nn
 2022-05-13T11:23:15.920Z,19.1891670227051,-155.492340087891,33.2299995422363,2.24000001,md,45.0,70.0,,0.140000001,hv,hv73011122,2022-05-13T11:26:24.990Z,"2 km SW of Pāhala, Hawaii",earthquake,0.58,0.920000017,0.74000001,25.0,automatic,hv,hv
 2022-05-13T11:22:47.603Z,37.471,-117.545,3.4,1.2,ml,19.0,119.04,0.251,0.1997,nn,nn00838840,2022-05-13T11:26:14.689Z,"32 km SSE of Silver Peak, Nevada",earthquake,,7.5,0.75,10.0,automatic,nn,nn
+2022-05-13T11:42:08.300Z,38.8328323,-122.8136673,1.94,0.85,md,14.0,89.0,0.009833,0.03,nc,nc73733081,2022-05-13T11:43:42.811Z,"8km NW of The Geysers, CA",earthquake,0.32,0.74,,1.0,automatic,nc,nc
+2022-05-13T11:37:13.871Z,62.0154,-147.7522,27.7,1.9,ml,,,,0.84,ak,ak0226458vvd,2022-05-13T11:42:25.041Z,"23 km NNW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
