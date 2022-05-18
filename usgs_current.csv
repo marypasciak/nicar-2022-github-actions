@@ -166,7 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T04:43:14.100Z,35.7678333,-117.5866667,8.61,0.96,ml,21,86,0.04861,0.1,ci,ci40021615,2022-05-18T14:42:28.225Z,"16km W of Searles Valley, CA",earthquake,0.19,0.38,0.124,7,reviewed,ci,ci
 2022-05-18T04:42:32.935Z,31.71947421,-104.3002444,7.879711914,1.9,ml,14,66,0.05333621635,0.2,tx,tx2022jqrg,2022-05-18T07:03:56.870Z,"51 km S of Whites City, New Mexico",earthquake,1.041294165,0.9637014518,0.2,11,reviewed,tx,tx
 2022-05-18T04:37:53.510Z,37.2322,-114.6257,6.6,1.6,ml,12,109.54,0.381,0.1625,nn,nn00839074,2022-05-18T21:17:16.063Z,"Nevada",earthquake,,3.9,0.32,7,reviewed,nn,nn
-2022-05-18T04:29:27.034Z,11.919,143.3108,10,5,mb,,144,2.25,0.71,us,us6000hlxk,2022-05-18T22:39:38.964Z,"209 km SW of Merizo Village, Guam",earthquake,11.3,1.6,0.041,192,reviewed,us,us
+2022-05-18T04:29:26.635Z,11.8861,143.3157,10,5,mb,,144,2.271,0.64,us,us6000hlxk,2022-05-18T22:42:07.040Z,"211 km SW of Merizo Village, Guam",earthquake,10.8,1.8,0.04,202,reviewed,us,us
 2022-05-18T04:14:33.510Z,51.7286666666667,-179.0245,8.44,1.08,ml,7,273,,0.16,av,av91564946,2022-05-18T15:58:35.980Z,"165 km W of Adak, Alaska",earthquake,1.27,0.87,0.253823631461924,7,reviewed,av,av
 2022-05-18T04:14:33.340Z,43.8243333,-114.5706667,5.59,1.8,ml,10,91,0.285,0.2,mb,mb80546259,2022-05-18T14:14:32.040Z,"22 km NW of Sun Valley, Idaho",earthquake,0.65,3.37,0.09,10,reviewed,mb,mb
 2022-05-18T03:57:05.720Z,33.8485,-117.6506667,10.67,1.43,ml,58,41,0.0529,0.15,ci,ci40021599,2022-05-18T14:36:27.120Z,"8km WSW of Corona, CA",earthquake,0.15,0.26,0.155,39,reviewed,ci,ci
@@ -213,7 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T23:17:22.733Z,61.7252,-150.4482,52.1,1.2,ml,,,,0.71,ak,ak0226ayf7dh,2022-05-17T23:21:19.435Z,"20 km N of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-17T23:13:35.000Z,35.033,-117.6875,-0.82,1.38,ml,20,69,0.09865,0.15,ci,ci40021519,2022-05-18T00:31:27.048Z,"5km NW of Boron, CA",quarry blast,0.46,31.61,0.136,23,reviewed,ci,ci
 2022-05-17T22:56:21.926Z,31.6919,50.4429,10,4.3,mb,,93,5.712,0.85,us,us6000hlw7,2022-05-18T00:07:23.040Z,"63 km S of Fārsān, Iran",earthquake,11.2,1.9,0.097,30,reviewed,us,us
-2022-05-17T22:49:55.125Z,21.3751,98.5302,10,4.2,mb,,71,0.991,0.43,us,us6000hlw6,2022-05-17T23:56:31.040Z,"147 km WSW of Kēng Tung, Myanmar",earthquake,6.5,1.9,0.236,5,reviewed,us,us
-2022-05-17T22:49:39.090Z,44.024166666666666,-121.26733333333334,-1.78,1.1500000000000001,ml,9,171,0.2163,0.18,uw,uw61841086,2022-05-18T03:56:48.652Z,"5 km SE of Bend, Oregon",explosion,1.3,31.61,0.09335923822165726,5,reviewed,uw,uw
-2022-05-17T22:48:37.900Z,38.8424988,-122.8259964,1.7,0.86,md,10,130,0.008377,0.02,nc,nc73735146,2022-05-18T01:17:11.104Z,"9km WNW of Cobb, CA",earthquake,0.34,1.07,,1,automatic,nc,nc
-2022-05-17T22:46:53.940Z,17.8975,-66.7635,6.84,1.63,md,4,245,,0.05,pr,pr71349188,2022-05-17T23:26:13.440Z,"11 km SSW of Tallaboa, Puerto Rico",earthquake,0.7,0.29,0.100789548845566,3,reviewed,pr,pr
