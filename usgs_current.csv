@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T03:54:19.900Z,38.8193321,-122.802002,3.88,0.84,md,7,90,0.007498,0.01,nc,nc73735566,2022-05-19T04:04:10.559Z,"6km NW of The Geysers, CA",earthquake,0.77,3.12,,1,automatic,nc,nc
 2022-05-19T03:40:04.370Z,34.0001667,-117.5123333,3.06,0.8,ml,13,88,0.04118,0.25,ci,ci40022135,2022-05-19T03:43:40.890Z,"1km NNE of Mira Loma, CA",earthquake,0.48,0.58,0.124,17,automatic,ci,ci
 2022-05-19T03:29:09.750Z,19.439,-155.6175,-0.69,2.53,md,37,139,,0.13,hv,hv73016782,2022-05-19T03:40:31.680Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.22,0.31,0.156272311747735,14,reviewed,hv,hv
-2022-05-19T03:29:07.769Z,-57.0795,-25.3766,35,5.7,mb,,32,6.878,0.87,us,us6000hm6v,2022-05-19T04:00:25.528Z,"South Sandwich Islands region",earthquake,8.9,1.8,0.043,194,reviewed,us,us
+2022-05-19T03:29:07.769Z,-57.0795,-25.3766,35,5.7,mb,,32,6.878,0.87,us,us6000hm6v,2022-05-19T05:32:34.652Z,"South Sandwich Islands region",earthquake,8.9,1.8,0.043,194,reviewed,us,us
 2022-05-19T03:28:40.165Z,63.5363,-147.9597,10,2.3,ml,,,,0.67,ak,ak0226dxnmkr,2022-05-19T04:16:02.899Z,"51 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-19T03:09:29.950Z,38.8264999,-122.8503342,2.03,0.58,md,16,95,0.005213,0.01,nc,nc73735556,2022-05-19T03:18:10.311Z,"10km NW of The Geysers, CA",earthquake,0.24,0.56,0.34,2,automatic,nc,nc
 2022-05-19T03:02:20.470Z,38.8113327,-122.7736664,1.9,0.84,md,11,126,0.005811,0.02,nc,nc73735551,2022-05-19T03:13:11.279Z,"4km NNW of The Geysers, CA",earthquake,0.38,1.38,,1,automatic,nc,nc
@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T06:21:46.990Z,48.29183333333334,-121.87916666666666,8.01,0.88,ml,10,111,0.1019,0.12,uw,uw61841196,2022-05-18T18:25:54.220Z,"4 km ENE of Oso, Washington",earthquake,0.34,0.72,0.17408341261095894,2,reviewed,uw,uw
 2022-05-18T06:19:38.840Z,18.0651666666667,-67.3413333333333,7.03,2.61,md,17,232,,0.27,pr,pr71349238,2022-05-18T06:48:42.260Z,"16 km W of Puerto Real, Puerto Rico",earthquake,0.78,0.63,0.124619507934568,13,reviewed,pr,pr
 2022-05-18T05:56:59.720Z,36.0031667,-117.7971667,2.03,0.68,ml,11,114,0.0227,0.12,ci,ci40021639,2022-05-18T15:04:36.243Z,"12km NE of Little Lake, CA",earthquake,0.25,0.22,0.301,3,reviewed,ci,ci
-2022-05-18T05:43:40.299Z,62.9731,-150.5703,88.2,1.5,ml,,,,0.71,ak,ak0226cbed21,2022-05-18T05:45:53.392Z,"54 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
