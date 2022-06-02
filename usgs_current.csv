@@ -171,5 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T09:29:11.876Z,64.2667,-149.971,3.8,1.3,ml,,,,0.74,ak,ak0226zj7w6t,2022-06-01T09:32:56.021Z,"38 km W of Clear, Alaska, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-01T09:12:12.796Z,38.8864,-119.6382,0,0.4,ml,5,226.49,0.024,0.188,nn,nn00840104,2022-06-02T02:38:11.017Z,"2 km N of Carter Springs, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2022-06-01T09:00:08.122Z,30.4155,102.9892,10,5.9,mww,,18,9.09,1.05,us,us7000he1h,2022-06-02T04:28:17.292Z,"45 km W of Linqiong, China",earthquake,7.9,1.8,0.069,20,reviewed,us,us
-2022-06-01T08:59:37.230Z,19.1588325500488,-155.469833374023,31.1499996185303,2.05999994,md,42,112,,0.129999995,hv,hv73030267,2022-06-01T09:02:55.840Z,"4 km S of Pāhala, Hawaii",earthquake,0.53,0.699999988,1.13,16,automatic,hv,hv
-2022-06-01T08:51:00.970Z,43.75216666666667,-122.33766666666666,9.48,1.05,ml,8,256,0.06787,0.1,uw,uw61837762,2022-06-01T18:39:25.840Z,"10 km E of Oakridge, Oregon",earthquake,0.66,0.59,0.08656567767787582,3,reviewed,uw,uw
