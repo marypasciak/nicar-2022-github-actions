@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T14:53:01.220Z,19.2695007324219,-155.382171630859,32.5400009155273,1.70000005,md,24,222,,0.109999999,hv,hv73042052,2022-06-12T14:56:05.840Z,"12 km NE of Pāhala, Hawaii",earthquake,0.89,0.709999979,0.349999994,5,automatic,hv,hv
 2022-06-12T13:48:27.420Z,33.2918333,-116.3596667,13.73,0.7,ml,16,89,0.05362,0.2,ci,ci40038831,2022-06-12T13:51:57.370Z,"4km NNE of Borrego Springs, CA",earthquake,0.47,0.68,0.129,12,automatic,ci,ci
 2022-06-12T13:46:10.692Z,60.0289,-151.5127,61.1,1.5,ml,,,,0.71,ak,ak0227hsm34d,2022-06-12T13:48:45.610Z,"8 km ESE of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-06-12T13:33:58.380Z,38.7613335,-122.7271652,1.62,1.25,md,16,108,0.00182,0.04,nc,nc73744391,2022-06-12T14:05:24.266Z,"3km SE of The Geysers, CA",earthquake,0.25,0.29,0.13,6,automatic,nc,nc
@@ -41,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T08:03:38.400Z,19.16233253479,-155.504501342773,33.1699981689453,1.84000003,md,35,111,,0.140000001,hv,hv73041812,2022-06-12T08:06:55.170Z,"Island of Hawaii, Hawaii",earthquake,0.57,0.860000014,1.63999999,10,automatic,hv,hv
 2022-06-12T08:02:50.385Z,-4.8444,143.6154,135.25,4.5,mb,,75,8.546,0.48,us,us7000hgvx,2022-06-12T08:24:51.040Z,"72 km N of Wabag, Papua New Guinea",earthquake,11,7.9,0.053,104,reviewed,us,us
 2022-06-12T07:59:02.969Z,63.6321,-149.7788,120.9,2,ml,,,,0.22,ak,ak0227hp497c,2022-06-12T08:01:19.258Z,"44 km WSW of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-06-12T07:41:05.380Z,63.0724,-148.7382,61.7,1.4,ml,,,,1.24,ak,ak0227hp0ar9,2022-06-12T07:50:49.633Z,"37 km SSE of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-06-12T07:41:09.594Z,63.5054,-147.9747,6.3,0.5,ml,,,,0.36,ak,ak0227hp0ar9,2022-06-12T14:47:32.594Z,"50 km ENE of Cantwell, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2022-06-12T07:38:16.970Z,17.9736666666667,-66.968,4.3,2.86,md,4,196,,0.09,pr,pr71353718,2022-06-12T07:59:27.270Z,"Puerto Rico region",earthquake,1.18,0.98,0.0117770298929418,3,reviewed,pr,pr
 2022-06-12T07:30:00.760Z,18.8731,-64.3505,25,3.47,md,17,298,0.799,0.47,pr,pr2022163003,2022-06-12T08:40:04.040Z,"76 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,2.17,29.2,0.07,7,reviewed,pr,pr
 2022-06-12T07:08:00.400Z,36.3754997,-121.1338348,3.23,2.14,md,8,147,0.3558,0.29,nc,nc73744326,2022-06-12T08:50:17.338Z,"12km ENE of Greenfield, CA",earthquake,10.01,17.64,,1,automatic,nc,nc
