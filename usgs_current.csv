@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T14:25:54.220Z,33.9803333,-117.188,7.46,0.91,ml,16,86,0.08347,0.28,ci,ci40041359,2022-06-16T14:29:34.839Z,"7km NNE of Moreno Valley, CA",earthquake,0.61,1.98,0.271,25,automatic,ci,ci
 2022-06-16T14:23:52.690Z,33.9965,-117.2146667,10.39,1.73,ml,64,56,0.09341,0.18,ci,ci40041351,2022-06-16T14:34:43.880Z,"7km SE of Loma Linda, CA",earthquake,0.19,0.47,0.205,27,automatic,ci,ci
 2022-06-16T14:15:05.150Z,35.7785,-117.5066667,9.45,1.1,ml,11,205,0.08267,0.21,ci,ci40041343,2022-06-16T14:18:43.772Z,"9km W of Searles Valley, CA",earthquake,0.78,1.22,0.159,10,automatic,ci,ci
+2022-06-16T14:15:03.210Z,17.8888333333333,-66.849,13.83,2.19,md,5,240,,0.06,pr,pr71354353,2022-06-16T14:45:33.610Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.95,0.4,0.0865732182138834,5,reviewed,pr,pr
 2022-06-16T14:01:54.092Z,59.5732,-152.9603,109.1,1.4,ml,,,,0.44,ak,ak0227of3ctt,2022-06-16T14:03:50.575Z,"63 km WNW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-06-16T14:01:01.520Z,33.821,-116.1916667,7.44,0.53,ml,15,181,0.03466,0.21,ci,ci40041335,2022-06-16T14:04:39.551Z,"11km N of Indio, CA",earthquake,0.68,0.86,0.111,8,automatic,ci,ci
 2022-06-16T14:00:11.610Z,19.2574996948242,-155.406661987305,29.9400005340576,2.22,ml,46,125,,0.170000002,hv,hv73045827,2022-06-16T14:05:42.220Z,"9 km NE of Pāhala, Hawaii",earthquake,0.5,0.689999998,3.73,19,automatic,hv,hv
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-15T14:53:21.580Z,33.9968333,-117.2166667,10.96,1.68,ml,78,42,0.06135,0.14,ci,ci40040639,2022-06-15T16:19:27.310Z,"7km SE of Loma Linda, CA",earthquake,0.1,0.2,0.133,33,reviewed,ci,ci
 2022-06-15T14:52:22.950Z,58.2395,-155.1525,1.27,-1.05,ml,4,214,,0.15,av,av91063108,2022-06-16T06:20:20.350Z,"85 km NNW of Karluk, Alaska",earthquake,1.06,4.29,0.135977014960376,4,reviewed,av,av
 2022-06-15T14:51:59.520Z,58.2365,-155.1515,-1.62,-0.29,ml,5,218,,0.14,av,av91600001,2022-06-16T06:17:28.140Z,"85 km NNW of Karluk, Alaska",earthquake,0.53,4.54,0.123566058623106,5,reviewed,av,av
-2022-06-15T14:45:45.244Z,61.8309,-148.4725,18.1,0.9,ml,,,,0.23,ak,ak0227mrtf5o,2022-06-15T14:47:05.457Z,"3 km N of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
