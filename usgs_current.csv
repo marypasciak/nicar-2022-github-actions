@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-20T10:44:26.230Z,34.6795006,-118.3410034,5.31,1.38,ml,30,71,0.03506,0.12,ci,ci40287728,2022-06-20T10:46:31.571Z,"5km ENE of Elizabeth Lake, CA",earthquake,0.33,0.62,0.403,9,automatic,ci,ci
+2022-06-20T10:47:19.280Z,35.8598333,-117.6526667,9.22,0.59,ml,7,107,0.06281,0.05,ci,ci40287736,2022-06-20T10:50:47.712Z,"24km ESE of Little Lake, CA",earthquake,0.24,0.59,0.239,5,automatic,ci,ci
+2022-06-20T10:44:26.230Z,34.6796667,-118.3411667,4.76,1.33,ml,36,55,0.03516,0.19,ci,ci40287728,2022-06-20T10:55:23.510Z,"5km ENE of Elizabeth Lake, CA",earthquake,0.25,0.4,0.226,26,automatic,ci,ci
 2022-06-20T10:30:00.855Z,59.6308,-152.8194,91.8,1.1,ml,,,,0.3,ak,ak0227uz141h,2022-06-20T10:32:19.015Z,"57 km WSW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-20T10:29:06.929Z,36.11185837,-97.82852173,4.108966827,2,ml,44,56.25658417,0.1087076068,0.3492642033,ok,ok2022lzkh,2022-06-20T10:30:33.593Z,"6 km E of Hennessey, Oklahoma",earthquake,1.821830435,1.762804575,,19,automatic,ok,ok
 2022-06-20T10:23:31.335Z,59.5111,-152.8959,83.6,0.6,ml,,,,0.32,ak,ak0227uyzodp,2022-06-20T10:24:51.018Z,"57 km WNW of Nanwalek, Alaska",earthquake,,3.8,,,automatic,ak,ak
