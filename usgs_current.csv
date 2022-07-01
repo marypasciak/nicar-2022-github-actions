@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-01T19:50:44.510Z,60.3433,-141.9802,7.1,2.4,ml,,,,0.57,ak,ak0228dbf7lv,2022-07-01T19:52:15.591Z,"131 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-01T19:45:48.942Z,61.9539,-148.6899,22.7,0.9,ml,,,,0.43,ak,ak0228dbe5cz,2022-07-01T19:48:21.169Z,"20 km NNE of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-01T19:27:34.760Z,38.8123322,-122.8083344,1.24,0.84,md,12,64,0.01107,0.02,nc,nc73753301,2022-07-01T19:44:13.530Z,"6km NW of The Geysers, CA",earthquake,0.28,0.72,,1,automatic,nc,nc
 2022-07-01T19:09:20.880Z,18.0078333333333,-66.7318333333333,13.02,2.24,md,17,141,,0.15,pr,pr71356978,2022-07-01T19:29:49.460Z,"2 km NW of Tallaboa, Puerto Rico",earthquake,0.4,0.26,0.188713007300727,9,reviewed,pr,pr
 2022-07-01T19:01:01.720Z,33.8525,-117.4933333,0.58,1.63,ml,36,51,0.05331,0.17,ci,ci40294992,2022-07-01T19:04:49.383Z,"4km SE of Home Gardens, CA",quarry blast,0.23,0.44,0.281,34,automatic,ci,ci
@@ -230,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T19:59:34.410Z,37.6393333,-118.882,-0.44,0.08,md,7,141,0.01281,0.02,nc,nc73752961,2022-06-30T21:39:14.752Z,"8km E of Mammoth Lakes, CA",earthquake,0.36,0.46,0.138,6,reviewed,nc,nc
 2022-06-30T19:55:25.120Z,60.5621666666667,-152.734,11.1,-0.55,ml,5,146,,0.14,av,av91614306,2022-07-01T07:24:51.750Z,"77 km W of Salamatof, Alaska",earthquake,0.84,1.08,0.175071438722879,5,reviewed,av,av
 2022-06-30T19:54:37.930Z,39.4333333,-110.3093333,-1.32,1.63,ml,11,194,0.0153,0.11,uu,uu60504097,2022-06-30T20:23:17.190Z,"14 km SSE of Sunnyside, Utah",earthquake,0.85,0.31,0.127,4,reviewed,uu,uu
-2022-06-30T19:48:48.410Z,34.9995,-116.9551667,7.05,1.6,ml,7,145,0.1285,0.16,ci,ci40294440,2022-06-30T21:01:08.878Z,"13km NNE of Barstow, CA",earthquake,0.44,2.3,0.492,2,reviewed,ci,ci
