@@ -16,10 +16,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-12T04:34:02.700Z,34.2333333,-116.7538333,9.8,1.26,ml,32,69,0.1296,0.16,ci,ci40302160,2022-07-12T04:45:04.940Z,"9km ESE of Big Bear City, CA",earthquake,0.25,0.61,0.113,29,automatic,ci,ci
 2022-07-12T04:32:52.630Z,38.8528328,-122.8014984,0.77,0.86,md,15,74,0.003957,0.03,nc,nc73757666,2022-07-12T04:57:16.968Z,"8km WNW of Cobb, CA",earthquake,0.25,0.39,,1,automatic,nc,nc
 2022-07-12T04:18:19.730Z,19.1979999542236,-155.472503662109,32.3400001525879,2,md,35,93,,0.109999999,hv,hv73073047,2022-07-12T04:21:31.930Z,"0 km SE of Pāhala, Hawaii",earthquake,0.59,1.10000002,1.62,14,automatic,hv,hv
-2022-07-12T04:15:55.442Z,57.4541,-153.7575,7.5,1.9,ml,,,,0.25,ak,ak0228v971qw,2022-07-12T04:18:27.771Z,"16 km SE of Larsen Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-12T04:15:55.442Z,57.4541,-153.7575,7.5,1.9,ml,,,,0.25,ak,ak0228v971qw,2022-07-12T04:18:27.771Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-12T03:52:33.560Z,33.1805,-115.6101667,2.12,1.57,ml,20,85,0.005496,0.2,ci,ci40302144,2022-07-12T03:56:19.106Z,"11km SW of Niland, CA",earthquake,0.37,0.23,0.187,29,automatic,ci,ci
 2022-07-12T03:12:05.971Z,60.8854,-146.8411,29.1,1.8,ml,,,,0.35,ak,ak0228v8kv6d,2022-07-12T03:30:26.279Z,"9 km WNW of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2022-07-12T02:58:59.039Z,60.3975,-149.0117,30.1,4.3,ml,,,,0.58,ak,ak0228v89eiv,2022-07-12T05:51:11.693Z,"19 km ENE of Primrose, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2022-07-12T02:58:59.039Z,60.3975,-149.0117,30.1,4.3,ml,,,,0.58,ak,ak0228v89eiv,2022-07-12T05:56:19.714Z,"19 km ENE of Primrose, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-07-12T02:56:24.900Z,19.0023,-65.201,24,3.55,md,15,272,0.6915,0.27,pr,pr2022193001,2022-07-12T03:53:40.612Z,"78 km N of Culebra, Puerto Rico",earthquake,1.52,19.63,0.03,6,reviewed,pr,pr
 2022-07-12T02:52:15.788Z,39.9979,-120.0098,9.1,1.2,ml,8,166.88,0.151,0.164,nn,nn00842669,2022-07-12T02:55:40.180Z,"8 km ESE of Doyle, California",earthquake,,1.7,0.43,5,automatic,nn,nn
 2022-07-12T02:52:06.865Z,-6.0587,104.3751,35,4.9,mb,24,144,2.2,0.87,us,us6000i1qa,2022-07-12T03:06:24.040Z,"120 km SW of Bandar Lampung, Indonesia",earthquake,7.1,2,0.089,40,reviewed,us,us
@@ -233,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T06:09:35.500Z,41.1935,-122.0396667,7.68,1.03,md,16,118,0.07957,0.06,nc,nc73757321,2022-07-11T17:39:15.017Z,"11km SE of McCloud, CA",earthquake,0.3,0.64,0.181,7,reviewed,nc,nc
 2022-07-11T06:05:05.370Z,38.8336678,-122.8184967,1.74,0.36,md,9,60,0.01219,0.01,nc,nc73757316,2022-07-11T06:37:11.034Z,"8km NW of The Geysers, CA",earthquake,0.36,1.3,,1,automatic,nc,nc
 2022-07-11T06:00:16.239Z,39.6232,23.3777,10,4,mb,39,42,0.835,0.39,us,us6000i1ii,2022-07-11T10:42:53.040Z,"30 km NE of Zagorá, Greece",earthquake,2.6,2,0.259,4,reviewed,us,us
-2022-07-11T05:55:46.756Z,38.435,-118.3914,4.7,0.5,ml,12,126.22,0.043,0.1165,nn,nn00842559,2022-07-11T21:09:35.335Z,"22 km ESE of Hawthorne, Nevada",earthquake,,2.4,0.32,4,reviewed,nn,nn
-2022-07-11T05:54:05.130Z,35.7496667,-118.0428333,3.06,0.98,ml,18,51,0.131,0.12,ci,ci40301616,2022-07-11T05:57:35.481Z,"24km WNW of Inyokern, CA",earthquake,0.22,0.92,0.123,15,automatic,ci,ci
