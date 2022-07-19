@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-19T15:35:37.621Z,57.7068,-153.9714,34.6,3.5,ml,,,,0.53,ak,ak022970mhvc,2022-07-19T15:41:21.411Z,"18 km N of Larsen Bay, Alaska",earthquake,,285.9,,,automatic,ak,ak
+2022-07-19T15:35:37.621Z,57.7068,-153.9714,34.6,3.5,ml,,,,0.53,ak,ak022970mhvc,2022-07-19T15:50:26.040Z,"18 km N of Larsen Bay, Alaska",earthquake,,285.9,,,automatic,ak,ak
 2022-07-19T15:34:08.254Z,37.1087,-115.0535,6.6,1.6,ml,18,275.8,0.61,0.3731,nn,nn00843193,2022-07-19T15:37:38.891Z,"30 km SSE of Alamo, Nevada",earthquake,,1,0.9,12,automatic,nn,nn
-2022-07-19T15:20:44.963Z,-28.4005,-67.5079,130.73,4.8,mb,50,55,2.541,0.61,us,us6000i3n2,2022-07-19T15:43:16.040Z,"37 km S of Tinogasta, Argentina",earthquake,8,6.2,0.038,217,reviewed,us,us
-2022-07-19T15:20:03.450Z,37.6605,-118.8666667,2.3,0.16,md,8,97,0.02884,0.02,nc,nc73760621,2022-07-19T15:39:54.515Z,"10km ENE of Mammoth Lakes, CA",earthquake,0.38,1.18,0.069,5,reviewed,nc,nc
+2022-07-19T15:20:45.247Z,-28.4039,-67.5313,134.44,4.8,mb,50,55,2.523,0.65,us,us6000i3n2,2022-07-19T15:56:49.040Z,"37 km S of Tinogasta, Argentina",earthquake,8.5,7.5,0.038,222,reviewed,us,us
+2022-07-19T15:20:03.450Z,37.6605,-118.8666667,2.3,0.16,md,8,97,0.02884,0.02,nc,nc73760621,2022-07-19T15:50:09.617Z,"10km ENE of Mammoth Lakes, CA",earthquake,0.38,1.18,0.069,5,reviewed,nc,nc
 2022-07-19T15:17:25.580Z,38.1478,-117.9432,10,0.9,ml,11,118.75,0.015,0.3604,nn,nn00843191,2022-07-19T15:21:17.757Z,"30 km SSE of Mina, Nevada",earthquake,,0.6,0.19,7,automatic,nn,nn
 2022-07-19T15:07:03.310Z,37.6565,-118.8788333,3.95,0.99,md,15,92,0.01871,0.08,nc,nc73760601,2022-07-19T15:38:11.665Z,"9km ENE of Mammoth Lakes, CA",earthquake,0.36,0.49,0.187,12,reviewed,nc,nc
 2022-07-19T14:58:07.392Z,60.7599,-152.6367,46.4,0.9,ml,,,,0.94,ak,ak0229705xc3,2022-07-19T15:00:13.481Z,"73 km WNW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T16:21:02.700Z,35.585,-117.4385,8.86,0.03,ml,4,154,0.01938,0.09,ci,ci40065887,2022-07-18T22:45:48.506Z,"20km S of Searles Valley, CA",earthquake,1.71,0.7,0.259,1,reviewed,ci,ci
 2022-07-18T16:09:44.937Z,52.2278,-175.0799,117.9,1.7,ml,,,,0.68,ak,ak02295dj045,2022-07-18T16:50:52.560Z,"60 km W of Atka, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-07-18T16:02:36.740Z,18.8596666666667,-155.2275,6.58,2.64,md,36,261,,0.19,hv,hv73079007,2022-07-18T20:22:51.290Z,"43 km ESE of Naalehu, Hawaii",earthquake,0.53,0.59,0.113973649376523,12,reviewed,hv,hv
-2022-07-18T15:56:06.780Z,36.98166667,-97.506,7.51,1.64,ml,58,86,0.03869240723,0.37,ok,ok2022nyzd,2022-07-19T14:56:47.941Z,"9 km WSW of Hunnewell, Kansas",earthquake,,0.9,0.19,11,reviewed,ok,ok
