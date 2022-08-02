@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-02T23:47:07.628Z,35.11097717,-96.0062561,6.149417877,1.88,ml,13,147.495697,0.1886271983,0.8113304112,ok,ok2022pazg,2022-08-02T23:49:45.737Z,"11 km E of Lamar, Oklahoma",earthquake,5.217844863,4.771708155,,10,automatic,ok,ok
 2022-08-02T23:44:40.465Z,63.6004,-150.6905,13.8,2.3,ml,,,,0.58,ak,ak0229uayr7y,2022-08-02T23:46:34.871Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-02T23:39:02.090Z,19.2308330535889,-155.40299987793,30.7700004577637,2.07999992,md,31,139,,0.159999996,hv,hv73096017,2022-08-02T23:42:21.760Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.53,0.930000007,1.82000005,10,automatic,hv,hv
 2022-08-02T23:38:53.020Z,36.0826683,-120.1744995,8.03,1.77,md,9,150,0.1176,0.07,nc,nc73763325,2022-08-02T23:49:10.723Z,"10km NNW of Avenal, CA",earthquake,0.56,1.34,0.07,4,automatic,nc,nc
@@ -247,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-02T00:17:06.350Z,37.0328331,-121.8193359,19.27,0.95,md,8,180,0.09361,0.17,nc,nc73762860,2022-08-02T01:13:16.242Z,"4km E of Day Valley, CA",earthquake,2.55,1.65,0.41,3,automatic,nc,nc
 2022-08-02T00:10:03.410Z,37.5793333,-118.8645,3.86,0.52,md,10,241,0.03007,0.02,nc,nc73762855,2022-08-02T06:58:16.393Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.74,1.04,0.122,8,reviewed,nc,nc
 2022-08-02T00:09:16.144Z,28.73016357,-98.15107996,1.149373372,2.3,ml,18,53,0.1218872664,0.3,tx,tx2022ozel,2022-08-02T07:08:57.636Z,"16 km WNW of Pawnee, Texas",earthquake,1.324119053,3.126986695,0.2,13,reviewed,tx,tx
-2022-08-01T23:49:54.742Z,38.1641,-117.8972,11.3,0.7,ml,14,157.4,0.055,0.1654,nn,nn00843963,2022-08-02T00:20:48.513Z,"31 km SE of Mina, Nevada",earthquake,,1.4,0.34,4,reviewed,nn,nn
