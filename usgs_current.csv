@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-02T13:46:50.730Z,40.3948326,-124.2235031,25.01,1.59,md,9,121,0.08158,0.11,nc,nc73763090,2022-08-02T13:48:29.024Z,"9km NE of Petrolia, CA",earthquake,1.11,1.89,0.12,4,automatic,nc,nc
+2022-08-02T13:58:30.710Z,18.9349994659424,-155.420837402344,16.2000007629395,2.33999991,md,45,268,,0.219999999,hv,hv73095592,2022-08-02T14:01:52.850Z,"22 km SE of Naalehu, Hawaii",earthquake,1.04,18.8899994,1.14999998,23,automatic,hv,hv
+2022-08-02T13:49:19.118Z,63.2598,-151.3847,3.2,1.8,ml,,,,0.69,ak,ak0229u51g3r,2022-08-02T13:51:22.237Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-08-02T13:46:50.730Z,40.3948326,-124.2235031,25.01,1.59,md,9,121,0.08158,0.11,nc,nc73763090,2022-08-02T13:54:11.170Z,"9km NE of Petrolia, CA",earthquake,1.11,1.89,0.12,4,automatic,nc,nc
+2022-08-02T13:42:25.407Z,32.5833,69.0648,10,4.3,mb,19,114,1.952,0.72,us,us6000i7g8,2022-08-02T14:02:09.040Z,"57 km WNW of Wana, Pakistan",earthquake,6,2,0.178,10,reviewed,us,us
 2022-08-02T13:27:46.110Z,38.8276672,-122.8013306,2.71,1.4,md,31,35,0.008052,0.03,nc,nc73763065,2022-08-02T13:44:16.004Z,"7km W of Cobb, CA",earthquake,0.2,0.37,0.05,8,automatic,nc,nc
 2022-08-02T13:22:41.840Z,19.2588329315186,-155.385833740234,31.6800003051758,1.83000004,md,43,133,,0.129999995,hv,hv73095557,2022-08-02T13:25:48.910Z,"Hawaii region, Hawaii",earthquake,0.5,0.569999993,0.75999999,7,automatic,hv,hv
 2022-08-02T13:17:15.050Z,34.2273333,-116.9883333,-0.4,0.97,ml,13,60,0.06596,0.24,ci,ci40073791,2022-08-02T13:20:50.095Z,"7km WSW of Big Bear Lake, CA",earthquake,0.5,31.61,0.114,20,automatic,ci,ci
@@ -82,6 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-02T04:13:49.380Z,38.8393326,-122.8381653,1.42,0.86,md,11,116,0.00222,0.02,nc,nc73762920,2022-08-02T04:49:17.567Z,"10km NW of The Geysers, CA",earthquake,0.27,0.67,,1,automatic,nc,nc
 2022-08-02T04:11:32.690Z,38.8208351,-122.7874985,1.37,0.97,md,13,73,0.00925,0.07,nc,nc73762910,2022-08-02T06:42:11.305Z,"6km NNW of The Geysers, CA",earthquake,0.28,0.48,0.09,3,automatic,nc,nc
 2022-08-02T04:09:39.600Z,38.6266667,-119.6076667,1.96,2.2,md,19,82,0.07992,0.09,nc,nc73762905,2022-08-02T08:17:11.900Z,"17km NW of Walker, CA",earthquake,0.17,0.93,0.235,31,reviewed,nc,nc
+2022-08-02T03:57:07.360Z,39.4266667,-110.2913333,-3.16,1.97,ml,16,185,0.02628,0.15,uu,uu60507912,2022-08-02T13:52:07.870Z,"16 km SSE of Sunnyside, Utah",earthquake,0.77,1.84,0.135,7,reviewed,uu,uu
 2022-08-02T03:55:07.610Z,38.8373337,-122.8288345,2,0.86,md,13,90,0.005345,0,nc,nc73762895,2022-08-02T06:00:10.048Z,"9km NW of The Geysers, CA",earthquake,0.3,0.72,,1,automatic,nc,nc
 2022-08-02T03:35:16.990Z,33.4956667,-116.7508333,6.81,0.47,ml,16,64,0.07046,0.2,ci,ci40073663,2022-08-02T03:38:47.762Z,"10km SW of Anza, CA",earthquake,0.36,1.04,0.111,10,automatic,ci,ci
 2022-08-02T03:33:26.180Z,20.6103333333333,-155.878666666667,8.09,3.43,ml,47,198,,0.18,hv,hv73095112,2022-08-02T07:28:58.616Z,"20 km SE of Hana, Hawaii",earthquake,0.88,0.85,0.161211414609847,22,reviewed,hv,hv
