@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-05T10:01:45.048Z,63.3073,-151.0561,0,1.2,ml,,,,1.03,ak,ak0229z1kyeg,2022-08-05T10:04:11.473Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-05T09:32:58.095Z,38.3675,-119.3556,5.7,1.7,ml,15,84.55,0.069,0.1933,nn,nn00844246,2022-08-05T09:36:11.455Z,"16 km NW of Bridgeport, California",earthquake,,1,0.28,9,automatic,nn,nn
 2022-08-05T09:32:11.510Z,33.6725,-116.7293333,13.5,0.34,ml,17,85,0.04059,0.23,ci,ci40075607,2022-08-05T09:35:37.978Z,"8km S of Idyllwild, CA",earthquake,0.62,0.66,0.135,9,automatic,ci,ci
 2022-08-05T09:29:42.382Z,35.20927811,-97.75603485,8.534334183,1.78,ml,19,49.03564453,0.02893217467,0.6705576972,ok,ok2022pfjh,2022-08-05T09:32:10.830Z,"3 km SSW of Bridge Creek, Oklahoma",earthquake,2.620199841,4.080261319,,15,automatic,ok,ok
 2022-08-05T09:24:55.610Z,19.2211666107178,-155.398330688477,32.1699981689453,2.16,ml,45,154,,0.140000001,hv,hv73099567,2022-08-05T09:30:24.770Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.55,0.779999971,5.34,3,automatic,hv,hv
+2022-08-05T09:14:00.760Z,17.9226666666667,-66.6326666666667,6.36,2.62,md,18,172,,0.14,pr,pr71362828,2022-08-05T10:03:21.520Z,"9 km S of Ponce, Puerto Rico",earthquake,0.28,0.17,0.0984483130415541,18,reviewed,pr,pr
 2022-08-05T09:06:11.010Z,18.0263333333333,-66.7488333333333,16.49,2.45,md,19,114,,0.15,pr,pr71362813,2022-08-05T09:46:53.200Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.29,0.51,0.16264413741558,17,reviewed,pr,pr
 2022-08-05T09:05:20.900Z,17.9866666666667,-66.8336666666667,18.54,1.88,md,8,181,,0.05,pr,pr71362808,2022-08-05T09:30:55.160Z,"1 km WSW of Indios, Puerto Rico",earthquake,1.06,0.61,0.186261444584663,7,reviewed,pr,pr
 2022-08-05T09:04:20.610Z,33.9968333,-117.2133333,9.07,0.87,ml,26,94,0.09226,0.15,ci,ci40075599,2022-08-05T09:07:55.695Z,"7km SSW of Redlands, CA",earthquake,0.27,0.84,0.243,30,automatic,ci,ci
@@ -53,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T04:13:19.520Z,33.5021667,-116.4961667,11.78,0.67,ml,14,135,0.06257,0.16,ci,ci40075479,2022-08-05T04:16:51.065Z,"18km ESE of Anza, CA",earthquake,0.61,1.05,0.415,10,automatic,ci,ci
 2022-08-05T04:11:02.700Z,36.8198318,-121.5481644,5.13,1.13,md,12,103,0.03314,0.1,nc,nc73764425,2022-08-05T08:36:11.595Z,"3km SSW of San Juan Bautista, CA",earthquake,0.54,0.73,0.17,9,automatic,nc,nc
 2022-08-05T04:04:33.152Z,62.8336,-149.4855,74.8,1.4,ml,,,,0.44,ak,ak0229yy0z03,2022-08-05T04:06:38.312Z,"53 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-08-05T03:59:57.980Z,19.4905,-155.587833333333,-1.53,1.55,md,14,59,,0.15,hv,hv73099282,2022-08-05T04:16:03.750Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.32,0.28,0.0379159984760657,5,reviewed,hv,hv
+2022-08-05T03:59:57.980Z,19.4905,-155.587833333333,-1.53,1.55,md,14,59,,0.15,hv,hv73099282,2022-08-05T04:16:03.750Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.28,0.0379159984760657,5,reviewed,hv,hv
 2022-08-05T03:50:26.110Z,19.4825,-155.5915,-1.03,1.1,md,9,101,,0.15,hv,hv73099277,2022-08-05T04:09:46.380Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.42,0.24,0.150711648237937,6,reviewed,hv,hv
 2022-08-05T03:46:38.480Z,33.2801667,-115.988,2.15,0.92,ml,18,93,0.1067,0.22,ci,ci40075471,2022-08-05T03:50:07.032Z,"4km SW of Salton City, CA",earthquake,0.55,1,0.143,16,automatic,ci,ci
 2022-08-05T03:45:28.620Z,19.4776666666667,-155.595333333333,-0.86,1.31,md,10,81,,0.12,hv,hv73099272,2022-08-05T04:04:34.130Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.24,0.138811693505215,7,reviewed,hv,hv
