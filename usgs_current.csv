@@ -238,9 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T14:18:39.167Z,38.5602,-119.5145,5.8,1.1,ml,11,159.54,0.026,0.1599,nn,nn00846254,2022-09-01T22:52:19.077Z,"0 km SW of Coleville, California",earthquake,,1.2,0.14,6,reviewed,nn,nn
 2022-09-01T14:14:08.910Z,19.34983253479,-155.213668823242,2.91000008583069,1.85,ml,40,61,,0.189999998,hv,hv73128162,2022-09-01T14:19:40.200Z,"10 km SSE of Volcano, Hawaii",earthquake,0.37,0.790000021,3.08,8,automatic,hv,hv
 2022-09-01T14:08:47.340Z,33.6496667,-116.7051667,13.94,0.25,ml,16,72,0.03244,0.08,ci,ci40094271,2022-09-01T16:07:06.754Z,"10km S of Idyllwild, CA",earthquake,0.22,0.37,0.2,4,reviewed,ci,ci
-2022-09-01T13:56:06.230Z,34.1516667,-117.3681667,10.81,0.66,ml,23,98,0.1253,0.12,ci,ci40094263,2022-09-01T15:59:00.861Z,"2km W of Muscoy, CA",earthquake,0.22,0.37,0.09,10,reviewed,ci,ci
-2022-09-01T13:52:45.120Z,36.553,-121.1033333,1.91,2.22,md,45,62,0.03954,0.14,nc,nc73774305,2022-09-01T19:31:12.111Z,"4km ENE of Pinnacles, CA",earthquake,0.18,0.37,0.248,49,reviewed,nc,nc
-2022-09-01T13:50:36.000Z,35.079,-96.19,23.64,1.44,ml,50,65,0.2114585046,0.33,ok,ok2022rdaq,2022-09-01T14:01:27.615Z,"5 km E of Horntown, Oklahoma",earthquake,,1,0.19,17,reviewed,ok,ok
-2022-09-01T13:44:18.458Z,38.1896,-117.8851,4.2,0.5,ml,8,177.56,0.077,0.1116,nn,nn00846253,2022-09-01T13:47:50.145Z,"29 km SE of Mina, Nevada",earthquake,,3.6,0.36,2,automatic,nn,nn
-2022-09-01T13:41:07.777Z,61.3608,-150.1172,31.3,1.7,ml,,,,0.46,ak,ak022b7r44bd,2022-09-01T13:43:22.169Z,"7 km W of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-01T13:36:22.150Z,36.549,-121.0965,1.6,4,mw,62,64,0.04243,0.09,nc,nc73774300,2022-09-02T00:24:31.935Z,"5km ENE of Pinnacles, CA",earthquake,0.12,0.26,,4,reviewed,nc,nc
