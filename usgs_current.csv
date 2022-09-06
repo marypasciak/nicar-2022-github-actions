@@ -146,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-06T06:13:52.270Z,32.8395,-116.0743333,6.5,1.1,ml,20,61,0.05127,0.2,ci,ci40096823,2022-09-06T06:17:28.458Z,"14km NNW of Ocotillo, CA",earthquake,0.38,0.83,0.2,13,automatic,ci,ci
 2022-09-06T06:09:22.070Z,40.3098333,-124.4598333,19.68,2.5,md,21,264,0.09218,0.13,nc,nc73775965,2022-09-06T19:09:14.555Z,"15km W of Petrolia, CA",earthquake,0.57,0.29,0.205,25,reviewed,nc,nc
 2022-09-06T06:07:12.909Z,38.1589,-118.1755,0,1,ml,15,134.26,0.155,0.3428,nn,nn00846474,2022-09-06T06:10:28.498Z,"26 km SSW of Mina, Nevada",earthquake,,8.5,0.32,9,automatic,nn,nn
-2022-09-06T06:06:15.415Z,38.1621,-118.1693,4.8,0.8,ml,12,132.97,0.15,0.1415,nn,nn00846473,2022-09-06T06:09:48.335Z,"25 km SSW of Mina, Nevada",earthquake,,1.4,0.13,4,automatic,nn,nn
+2022-09-06T06:06:15.712Z,38.1717,-118.153,6.6,0.7,ml,16,129.47,0.135,0.1313,nn,nn00846473,2022-09-06T20:59:17.912Z,"California-Nevada border region",earthquake,,4.7,0.18,2,reviewed,nn,nn
 2022-09-06T05:52:47.753Z,61.6428,-151.4761,91.4,0.6,ml,,,,0.65,ak,ak022bfw3tzo,2022-09-06T05:55:14.362Z,"38 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-06T05:49:10.060Z,17.982,-66.8391666666667,15.91,2.26,md,17,153,,0.15,pr,pr71370073,2022-09-06T06:05:38.320Z,"Puerto Rico",earthquake,0.37,0.37,0.103398849044104,12,reviewed,pr,pr
 2022-09-06T05:46:14.510Z,64.9926,-147.1191,2.8,1.1,ml,,,,0.37,ak,ak022bfw2h1n,2022-09-06T05:48:17.564Z,"13 km NNW of Two Rivers, Alaska",earthquake,,3.1,,,automatic,ak,ak
