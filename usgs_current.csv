@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-12T11:51:59.000Z,37.3375015,-122.2096634,8.58,2.03,md,25,94,0.02782,0.11,nc,nc73780741,2022-09-12T11:53:35.659Z,"6km SSE of Portola Valley, CA",earthquake,0.3,0.4,0.18,26,automatic,nc,nc
 2022-09-12T11:42:50.766Z,58.7483,-152.9626,57.9,2.1,ml,,,,0.72,ak,ak022bpwudkk,2022-09-12T11:44:51.526Z,"76 km N of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-12T11:29:09.231Z,38.2608,-118.3603,4.9,0.7,ml,12,114.26,0.114,0.0939,nn,nn00846872,2022-09-12T11:32:24.220Z,"26 km WSW of Mina, Nevada",earthquake,,1.5,0.25,5,automatic,nn,nn
 2022-09-12T11:25:19.866Z,36.4388,-114.9851,0.8,1.4,ml,11,332.06,0.153,0.2312,nn,nn00846870,2022-09-12T11:28:26.228Z,"22 km NNE of Nellis Air Force Base, Nevada",earthquake,,39.1,0.7,4,automatic,nn,nn
@@ -105,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-11T21:40:31.680Z,37.5653343,-118.925499,8.91,2.2,md,22,102,0.04739,0.04,nc,nc73780531,2022-09-11T23:22:11.244Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.36,0.85,0.16,24,automatic,nc,nc
 2022-09-11T21:37:21.126Z,57.9253,-156.8485,10.3,2,ml,,,,0.76,ak,ak022bof88fd,2022-09-12T02:04:06.083Z,"44 km SE of Egegik, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-09-11T21:37:02.400Z,37.5638351,-118.9261703,9.08,1.56,md,18,157,0.04896,0.02,nc,nc73780526,2022-09-11T23:07:15.155Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.43,0.93,0.13,15,automatic,nc,nc
-2022-09-11T21:34:23.590Z,47.828,-122.76016666666666,24.83,1.5,ml,24,50,0.1029,0.25,uw,uw61879446,2022-09-12T01:30:37.730Z,"7 km WNW of Lofall, Washington",earthquake,0.5,0.81,0.125857005357626,13,reviewed,uw,uw
+2022-09-11T21:34:23.590Z,47.828,-122.76016666666666,24.83,1.5,ml,24,50,0.1029,0.25,uw,uw61879446,2022-09-12T01:30:37.730Z,"Puget Sound region, Washington",earthquake,0.5,0.81,0.125857005357626,13,reviewed,uw,uw
 2022-09-11T21:33:20.920Z,37.5653343,-118.9264984,9.14,2.92,md,30,95,0.04754,0.03,nc,nc73780521,2022-09-12T03:35:37.624Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.26,0.58,0.18,41,automatic,nc,nc
 2022-09-11T21:30:35.420Z,17.8911666666667,-66.862,15.45,2.09,md,4,307,,0.1,pr,pr71371223,2022-09-11T21:40:39.930Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,1.15,1.25,0.0281629051180246,3,reviewed,pr,pr
 2022-09-11T21:22:41.945Z,57.685,-156.2043,3.1,2,ml,,,,0.84,ak,ak022bof527j,2022-09-12T02:04:02.122Z,"73 km ENE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
