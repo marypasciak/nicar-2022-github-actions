@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-29T09:47:27.130Z,33.1553333,-116.5898333,7.87,0.73,ml,17,125,0.06504,0.21,ci,ci40126743,2022-10-29T09:51:01.975Z,"9km N of Julian, CA",earthquake,0.61,0.85,0.135,10,automatic,ci,ci
 2022-10-29T09:37:05.027Z,63.0765,-149.0554,5.4,1.8,ml,,,,0.51,ak,ak022dvlvngm,2022-10-29T09:39:34.735Z,"35 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-29T09:07:35.980Z,38.8203316,-122.8413315,1.85,0.86,md,17,69,0.005653,0.03,nc,nc73800661,2022-10-29T09:20:10.264Z,"9km WNW of The Geysers, CA",earthquake,0.25,0.5,,3,automatic,nc,nc
 2022-10-29T08:29:18.000Z,33.1601677,-116.586998,9.2,0.44,ml,15,126,0.06377,0.16,ci,ci40126735,2022-10-29T08:32:45.417Z,"9km N of Julian, CA",earthquake,0.59,0.92,0.085,2,automatic,ci,ci
@@ -133,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T17:16:09.350Z,33.161,-116.5928333,9.15,0.67,ml,13,76,0.05943,0.12,ci,ci37461572,2022-10-28T21:06:08.483Z,"9km N of Julian, CA",earthquake,0.33,0.6,0.154,6,reviewed,ci,ci
 2022-10-28T17:15:56.680Z,33.1583333,-116.5906667,8.36,1.06,ml,41,47,0.06253,0.15,ci,ci40126367,2022-10-28T21:01:07.030Z,"9km N of Julian, CA",earthquake,0.19,0.47,0.167,25,reviewed,ci,ci
 2022-10-28T17:10:03.234Z,58.0217,-154.016,58.4,2,ml,,,,0.39,ak,ak022du2xzc3,2022-10-28T18:03:06.040Z,"53 km N of Larsen Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-10-28T16:55:27.610Z,40.6206667,-122.1865,12.98,1.57,md,17,82,0.02194,0.11,nc,nc73800366,2022-10-29T09:14:10.222Z,"4km ESE of Bella Vista, CA",earthquake,0.26,0.38,0.084,19,reviewed,nc,nc
+2022-10-28T16:55:27.610Z,40.6206667,-122.1865,12.98,1.57,md,17,82,0.02194,0.11,nc,nc73800366,2022-10-29T09:43:11.397Z,"4km ESE of Bella Vista, CA",earthquake,0.26,0.38,0.084,19,reviewed,nc,nc
 2022-10-28T16:48:49.070Z,36.5828323,-121.1275024,9.93,1.45,md,10,127,0.04791,0.13,nc,nc73800361,2022-10-28T18:35:12.459Z,"6km NNE of Pinnacles, CA",earthquake,0.68,1.3,0.14,8,automatic,nc,nc
 2022-10-28T16:37:44.370Z,33.6833333,-116.7711667,17.69,0.67,ml,20,74,0.05504,0.08,ci,ci40126319,2022-10-28T20:54:19.200Z,"8km SW of Idyllwild, CA",earthquake,0.25,0.33,0.161,11,reviewed,ci,ci
 2022-10-28T16:35:19.388Z,38.1601,-117.9427,10.6,1.3,ml,10,157.87,0.025,0.1436,nn,nn00850206,2022-10-28T16:38:41.738Z,"29 km SSE of Mina, Nevada",earthquake,,0.6,0.11,7,automatic,nn,nn
