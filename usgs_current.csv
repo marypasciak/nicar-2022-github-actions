@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-04T09:52:28.953Z,60.0842,-151.7984,45.9,1.9,ml,,,,0.77,ak,ak022e5j700f,2022-11-04T09:54:48.791Z,"8 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-04T09:30:23.190Z,66.6369,-145.0665,4.1,2.4,ml,,,,1.06,ak,ak022e5j29tb,2022-11-04T09:33:34.692Z,"12 km NE of Fort Yukon, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-11-04T09:29:33.742Z,61.9649,-150.4593,2.3,1.9,ml,,,,0.94,ak,ak022e5j22wu,2022-11-04T09:31:45.073Z,"32 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-04T09:24:34.757Z,37.2309,-115.7458,1.6,0.9,ml,9,293.23,0.239,0.1468,nn,nn00850597,2022-11-04T09:27:07.802Z,"Nevada",earthquake,,39.5,1.09,3,automatic,nn,nn
@@ -206,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-03T10:38:48.477Z,61.1672,-147.0761,0,1.7,ml,,,,1.34,ak,ak022e3w64lr,2022-11-03T10:40:50.785Z,"39 km W of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-03T10:22:19.350Z,19.4156666666667,-155.639,-0.2,2.24,ml,25,124,,0.13,hv,hv73205917,2022-11-03T22:55:39.180Z,"24 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.3,0.37,0.161035382645942,13,reviewed,hv,hv
 2022-11-03T10:04:33.039Z,35.5838,140.1695,64.822,4.9,mww,67,128,1.854,1.35,us,us7000im5c,2022-11-04T06:36:18.995Z,"5 km ESE of Chiba, Japan",earthquake,5.49,7.104,0.086,13,reviewed,us,us
-2022-11-03T09:57:34.315Z,43.3276,-126.8045,10,3.5,ml,26,206,2.048,0.64,us,us7000im59,2022-11-03T11:27:47.026Z,"196 km W of Bandon, Oregon",earthquake,8.28,2.012,0.033,119,reviewed,us,us
-2022-11-03T09:54:36.880Z,19.203332901001,-155.505493164062,30.8600006103516,1.84000003,md,22,76,,0.239999995,hv,hv73205882,2022-11-03T09:57:48.090Z,"Island of Hawaii, Hawaii",earthquake,0.82,1.39999998,0.910000026,8,automatic,hv,hv
