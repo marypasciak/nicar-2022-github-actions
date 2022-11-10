@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-10T07:51:01.160Z,33.463501,-116.5883331,11.68,1.52,ml,45,43,0.0332,0.15,ci,ci40130655,2022-11-10T07:53:14.543Z,"13km SE of Anza, CA",earthquake,0.22,0.51,0.287,16,automatic,ci,ci
+2022-11-10T07:51:01.140Z,33.4658333,-116.5858333,11.95,1.29,ml,46,39,0.03187,0.17,ci,ci40130655,2022-11-10T07:54:40.803Z,"13km SE of Anza, CA",earthquake,0.21,0.38,0.234,26,automatic,ci,ci
 2022-11-10T07:38:30.220Z,19.1518325805664,-155.493835449219,35.1800003051758,2.01999998,md,34,141,,0.150000006,hv,hv73215167,2022-11-10T07:41:49.950Z,"Hawaii region, Hawaii",earthquake,0.66,1.02999997,1.75999999,10,automatic,hv,hv
 2022-11-10T07:23:36.460Z,19.4088325500488,-155.295333862305,1.76999998092651,2.01999998,md,10,135,,0.170000002,hv,hv73215147,2022-11-10T07:26:31.700Z,"7 km WSW of Volcano, Hawaii",earthquake,0.52,0.50999999,0.810000002,7,automatic,hv,hv
 2022-11-10T07:01:49.617Z,63.0593,-151.4975,4.3,1.8,ml,,,,0.54,ak,ak022efexbtq,2022-11-10T07:04:28.373Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
