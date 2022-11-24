@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-24T04:57:19.510Z,34.092,-116.855,2.94,0.78,ml,17,68,0.06714,0.25,ci,ci40380192,2022-11-24T05:00:54.482Z,"18km SSE of Big Bear Lake, CA",earthquake,0.49,1.22,0.178,19,automatic,ci,ci
+2022-11-24T04:56:12.664Z,61.4135,-152.3482,8,1.9,ml,,,,0.42,ak,ak022f2izlgy,2022-11-24T04:57:50.007Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-11-24T04:55:16.420Z,33.2163333,-116.7425,10.27,0.66,ml,23,41,0.08166,0.18,ci,ci40380176,2022-11-24T04:58:49.520Z,"3km SE of Lake Henshaw, CA",earthquake,0.32,0.82,0.208,10,automatic,ci,ci
 2022-11-24T04:40:57.290Z,33.4921667,-116.752,6.8,0.67,ml,26,65,0.07407,0.15,ci,ci40380168,2022-11-24T04:44:29.374Z,"10km SW of Anza, CA",earthquake,0.18,0.48,0.12,21,automatic,ci,ci
 2022-11-24T04:12:57.740Z,38.8134995,-122.7610016,1.43,1.05,md,16,111,0.0129,0.04,nc,nc73810871,2022-11-24T04:29:18.685Z,"3km WSW of Cobb, CA",earthquake,0.27,0.38,0.37,3,automatic,nc,nc
 2022-11-24T04:05:48.460Z,17.9293333333333,-66.9025,3.95,2.99,md,25,200,0.04304,0.21,pr,pr71383698,2022-11-24T04:51:42.226Z,"Puerto Rico region",earthquake,0.51,0.38,0.0885629509248247,9,reviewed,pr,pr
