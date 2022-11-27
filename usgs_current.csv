@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-27T14:47:54.310Z,38.8376656,-122.8083344,2.1,0.36,md,7,112,0.01407,0,nc,nc73812046,2022-11-27T14:49:31.255Z,"8km WNW of Cobb, CA",earthquake,0.57,1.2,,1,automatic,nc,nc
 2022-11-27T14:45:10.070Z,38.8376656,-122.8081665,2.03,0.85,md,9,81,0.01394,0,nc,nc73812041,2022-11-27T14:46:45.812Z,"8km WNW of Cobb, CA",earthquake,0.32,0.75,,1,automatic,nc,nc
+2022-11-27T14:40:23.030Z,65.6973,-154.9286,0,1.9,ml,,,,1.26,ak,ak022f7ngkcp,2022-11-27T14:51:07.221Z,"49 km SW of Hughes, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-27T14:19:43.710Z,19.1685009002686,-155.474670410156,31.3600006103516,1.87,md,28,87,,0.119999997,hv,hv73238537,2022-11-27T14:22:46.060Z,"Hawaii region, Hawaii",earthquake,0.72,1.17999995,0.970000029,7,automatic,hv,hv
 2022-11-27T14:11:02.120Z,33.1585,-116.0166667,3.22,1.56,ml,41,39,0.03591,0.22,ci,ci40381544,2022-11-27T14:14:40.272Z,"11km E of Ocotillo Wells, CA",earthquake,0.3,0.65,0.085,26,automatic,ci,ci
 2022-11-27T14:07:18.590Z,33.2218333,-116.7461667,10.22,1.21,ml,37,36,0.01762,0.2,ci,ci40381536,2022-11-27T14:18:32.670Z,"3km SE of Lake Henshaw, CA",earthquake,0.26,0.51,0.18,26,automatic,ci,ci
