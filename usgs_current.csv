@@ -181,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T00:39:15.356Z,63.0875,-149.787,91.7,2,ml,,,,0.31,ak,ak022f7f49kf,2022-11-27T00:41:13.437Z,"53 km SW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-27T00:19:03.300Z,35.0651667,-118.3226667,1.57,1.87,ml,38,34,0.07599,0.24,ci,ci40381336,2022-11-27T00:29:22.030Z,"14km W of Mojave, CA",earthquake,0.31,1.17,0.116,26,automatic,ci,ci
 2022-11-27T00:05:27.510Z,19.3943328857422,-155.265167236328,7.01000022888184,2.1099999,md,18,69,,0.209999993,hv,hv73237377,2022-11-27T00:08:22.040Z,"6 km SSW of Volcano, Hawaii",earthquake,0.55,0.670000017,1.17999995,7,automatic,hv,hv
-2022-11-27T00:00:53.046Z,-29.3924,-70.5885,79.833,4.1,mb,24,113,0.392,0.36,us,us7000ismc,2022-11-27T00:27:23.040Z,"Atacama-Coquimbo border region, Chile",earthquake,4.38,3.931,0.525,1,reviewed,us,us
-2022-11-26T23:59:03.202Z,38.1684,-117.9315,10.7,0.9,ml,10,162.85,0.037,0.1262,nn,nn00852100,2022-11-27T00:02:30.781Z,"29 km SSE of Mina, Nevada",earthquake,,0.6,0.45,5,automatic,nn,nn
