@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-11T17:16:10.290Z,38.7998352,-122.7713318,1.21,1.33,md,25,82,0.009114,0.02,nc,nc73817351,2022-12-11T17:17:48.543Z,"3km NNW of The Geysers, CA",earthquake,0.2,0.3,0.17,24,automatic,nc,nc
+2022-12-11T17:31:52.290Z,38.8168335,-122.7973328,2.47,0.28,md,8,160,0.008993,0.01,nc,nc73817366,2022-12-11T17:33:28.098Z,"6km NW of The Geysers, CA",earthquake,0.63,1.21,0.08,9,automatic,nc,nc
+2022-12-11T17:28:07.940Z,38.802166,-122.7741699,1.07,0.72,md,7,91,0.0114,0.02,nc,nc73817361,2022-12-11T17:29:43.530Z,"3km NNW of The Geysers, CA",earthquake,0.45,0.83,0.03,8,automatic,nc,nc
+2022-12-11T17:23:13.100Z,19.3361663818359,-155.119338989258,2.40000009536743,2.09,ml,39,120,,0.270000011,hv,hv73266532,2022-12-11T17:28:44.590Z,"14 km S of Fern Forest, Hawaii",earthquake,0.49,0.790000021,3.06,9,automatic,hv,hv
+2022-12-11T17:16:10.290Z,38.7998352,-122.7713318,1.21,1.33,md,25,82,0.009114,0.02,nc,nc73817351,2022-12-11T17:34:13.157Z,"3km NNW of The Geysers, CA",earthquake,0.2,0.3,0.17,24,automatic,nc,nc
 2022-12-11T17:11:31.410Z,65.8856,-148.3085,14.3,1.9,ml,,,,0.86,ak,ak022fuuliyd,2022-12-11T17:13:40.780Z,"38 km ESE of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-11T17:07:10.050Z,37.2611656,-121.6393356,5.46,1.59,md,23,65,0.02704,0.05,nc,nc73817346,2022-12-11T17:23:13.082Z,"15km N of Morgan Hill, CA",earthquake,0.18,0.55,0.15,15,automatic,nc,nc
 2022-12-11T17:01:01.610Z,17.9483333333333,-66.9515,12.35,1.65,md,4,216,0.07372,0.05,pr,pr71386663,2022-12-11T17:14:52.840Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.66,0.86,0.0536261199009449,3,reviewed,pr,pr
