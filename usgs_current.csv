@@ -186,6 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-10T12:04:11.153Z,60.1564,-151.9534,70.9,1.7,ml,,,,0.25,ak,ak022ft41guz,2022-12-10T12:06:13.638Z,"19 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-10T12:01:47.875Z,-56.3688,-26.9716,78.606,5,mb,70,41,18.401,0.48,us,us6000j8es,2022-12-10T12:27:04.040Z,"South Sandwich Islands region",earthquake,12.27,5.272,0.068,70,reviewed,us,us
 2022-12-10T12:01:45.550Z,33.8265,-116.1498333,2.57,1.36,ml,30,54,0.06664,0.22,ci,ci40144335,2022-12-10T12:05:18.962Z,"13km NNE of Indio, CA",earthquake,0.28,0.47,0.118,27,automatic,ci,ci
-2022-12-10T11:57:43.630Z,17.9513333333333,-66.9518333333333,11.75,2.42,md,6,211,0.073,0.07,pr,pr71386458,2022-12-10T12:08:24.640Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.57,0.33,0.12799183795613,6,reviewed,pr,pr
-2022-12-10T11:53:16.150Z,-10.7286,113.3813,10,4.8,mb,44,123,2.369,0.53,us,us6000j8ep,2022-12-10T12:15:17.040Z,"270 km S of Kencong, Indonesia",earthquake,7.79,1.904,0.098,35,reviewed,us,us
-2022-12-10T11:53:12.700Z,19.1656665802002,-155.473495483398,35.7700004577637,2.42,ml,48,92,,0.119999997,hv,hv73265317,2022-12-10T12:37:21.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.48,0.800000012,4.54,4,automatic,hv,hv
