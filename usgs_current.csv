@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T08:04:38.160Z,35.6638333,-118.4611667,8.32,1.2,ml,21,60,0.01053,0.14,ci,ci40391704,2022-12-18T15:01:39.950Z,"5km S of Wofford Heights, CA",earthquake,0.41,0.46,0.135,12,reviewed,ci,ci
 2022-12-18T07:59:04.120Z,18.3228,-68.762,119,4.34,md,26,177,1.0567,0.59,pr,pr2022352001,2022-12-18T09:25:00.681Z,"15 km SW of San Rafael del Yuma, Dominican Republic",earthquake,3.42,2.36,0.14,22,reviewed,pr,pr
 2022-12-18T07:52:49.950Z,38.8238335,-122.8068314,2.78,0.74,md,9,91,0.00257,0.01,nc,nc73820176,2022-12-18T08:26:12.074Z,"7km NW of The Geysers, CA",earthquake,0.39,1.45,0.14,11,automatic,nc,nc
-2022-12-18T07:50:31.310Z,17.9693333333333,-66.9615,9.21,2.85,md,24,185,0.05039,0.21,pr,pr71387833,2022-12-18T08:39:23.070Z,"Puerto Rico region",earthquake,0.4,0.61,0.126118452868582,12,reviewed,pr,pr
