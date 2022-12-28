@@ -160,4 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T15:29:36.307Z,61.6918,-146.5136,19.9,2.1,ml,,,,0.99,ak,ak022gla42wu,2022-12-27T15:31:32.715Z,"36 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-27T15:28:25.360Z,33.2673333,-116.4221667,4.53,1.23,ml,30,50,0.004283,0.19,ci,ci40150607,2022-12-27T16:04:12.835Z,"5km WNW of Borrego Springs, CA",earthquake,0.29,0.69,0.17,27,reviewed,ci,ci
 2022-12-27T15:06:46.690Z,19.2363338470459,-155.385665893555,30.5799999237061,1.94000006,md,40,144,,0.150000006,hv,hv73284702,2022-12-27T15:09:54.610Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.69,0.819999993,1.35000002,10,automatic,hv,hv
-2022-12-27T14:50:46.760Z,34.5796661,-116.8891678,1.06,2.98,ml,124,29,0.1377,0.14,ci,ci40150599,2022-12-28T05:06:55.021Z,"17km NNE of Lucerne Valley, CA",earthquake,0.13,0.47,0.224,20,reviewed,ci,ci
