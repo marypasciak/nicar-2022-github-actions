@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-28T21:02:28.840Z,38.828167,-122.8134995,2.16,1.04,md,24,42,0.005465,0.02,nc,nc73826081,2022-12-28T21:04:02.866Z,"8km NW of The Geysers, CA",earthquake,0.2,0.4,0.08,25,automatic,nc,nc
+2022-12-28T21:00:30.320Z,33.857,-117.5066667,0.58,1.12,ml,29,48,0.04897,0.28,ci,ci40150911,2022-12-28T21:04:14.071Z,"3km SSE of Home Gardens, CA",quarry blast,0.49,31.61,0.237,30,automatic,ci,ci
 2022-12-28T20:52:09.050Z,38.7961655,-122.7621689,0.93,0.34,md,9,70,0.004849,0.03,nc,nc73826076,2022-12-28T20:53:42.673Z,"2km NNW of The Geysers, CA",earthquake,0.31,0.59,0.12,9,automatic,nc,nc
 2022-12-28T20:48:09.099Z,60.204,-152.4996,98.8,1.8,ml,,,,0.44,ak,ak022gn0qlxp,2022-12-28T20:50:53.264Z,"49 km WNW of Ninilchik, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-12-28T20:38:09.152Z,-30.6459,-71.2959,57.383,4.8,mb,34,79,0.294,1.12,us,us7000j0pf,2022-12-28T20:50:49.040Z,"10 km WSW of Ovalle, Chile",earthquake,6.16,6.828,0.154,13,reviewed,us,us
@@ -29,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T17:46:37.380Z,19.4061660766602,-155.320495605469,4.8600001335144,1.87,ml,33,76,,0.109999999,hv,hv73285587,2022-12-28T17:52:08.190Z,"9 km WSW of Volcano, Hawaii",earthquake,0.3,0.579999983,0.21,7,automatic,hv,hv
 2022-12-28T17:42:06.202Z,39.2194,-120.0784,8.3,0.3,ml,6,88.08,0.039,0.1044,nn,nn00854286,2022-12-28T20:06:40.696Z,"0 km SSE of Carnelian Bay, California",earthquake,,2,0.01,2,reviewed,nn,nn
 2022-12-28T17:41:25.976Z,58.1845,-155.3838,0,0.5,ml,,,,0.5,ak,ak022gmywuet,2022-12-28T17:43:37.378Z,"87 km NW of Karluk, Alaska",earthquake,,226,,,automatic,ak,ak
-2022-12-28T17:16:36.243Z,41.8052,79.5408,10,5.6,mb,99,34,1.096,0.58,us,us7000j0ne,2022-12-28T19:28:40.846Z,"92 km NW of Aksu, China",earthquake,4.93,1.831,0.04,217,reviewed,us,us
+2022-12-28T17:16:36.243Z,41.8052,79.5408,10,5.6,mb,99,34,1.096,0.58,us,us7000j0ne,2022-12-28T21:02:14.484Z,"92 km NW of Aksu, China",earthquake,4.93,1.831,0.04,217,reviewed,us,us
 2022-12-28T17:12:26.900Z,38.8256683,-122.7961655,2.62,1.08,md,21,34,0.0111,0.02,nc,nc73826001,2022-12-28T17:30:13.495Z,"6km W of Cobb, CA",earthquake,0.24,0.47,0.11,22,automatic,nc,nc
 2022-12-28T17:05:11.490Z,19.1476669311523,-155.364501953125,30.2999992370605,1.80999994,md,36,182,,0.119999997,hv,hv73285557,2022-12-28T17:08:29.050Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.76,1.00999999,1.24000001,10,automatic,hv,hv
 2022-12-28T17:01:03.580Z,38.8373337,-122.807663,1.89,0.7,md,10,68,0.01357,0.01,nc,nc73825996,2022-12-28T17:49:13.617Z,"8km WNW of Cobb, CA",earthquake,0.43,0.89,0.09,12,automatic,nc,nc
