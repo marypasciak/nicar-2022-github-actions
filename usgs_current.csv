@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-01T15:45:53.250Z,61.4574,-151.5625,96.3,2.5,ml,,,,0.47,ak,ak0231wqlwd,2023-01-01T15:49:10.777Z,"43 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-01-01T15:43:01.720Z,38.833168,-122.7949982,1.78,1.35,md,23,46,0.006372,0.02,nc,nc73827531,2023-01-01T15:44:38.856Z,"6km W of Cobb, CA",earthquake,0.19,0.43,0.17,24,automatic,nc,nc
 2023-01-01T15:35:15.050Z,32.7958333,-116.7026667,14.33,1.24,ml,19,63,0.1022,0.16,ci,ci40152679,2023-01-01T15:38:52.699Z,"7km SE of Alpine, CA",earthquake,0.33,0.59,0.136,9,automatic,ci,ci
 2023-01-01T15:26:27.930Z,61.3383,-149.888,33.1,1.9,ml,,,,0.7,ak,ak0231wmhc9,2023-01-01T15:28:45.480Z,"5 km ESE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-01T15:11:00.530Z,65.1546,-150.0252,18.1,1.8,ml,,,,0.69,ak,ak0231wj7hh,2023-01-01T15:32:56.094Z,"31 km W of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -169,5 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T16:00:44.870Z,35.9881667,-117.5056667,1.88,1.29,ml,11,93,0.1875,0.15,ci,ci40152215,2022-12-31T16:04:18.741Z,"26km NNW of Searles Valley, CA",earthquake,0.48,1.46,0.192,7,automatic,ci,ci
 2022-12-31T15:58:34.270Z,34.2384987,-117.4448318,4.5,1.44,ml,36,39,0.03148,0.14,ci,ci40152207,2022-12-31T16:29:12.471Z,"4km WNW of Devore, CA",earthquake,0.29,0.33,0.145,8,automatic,ci,ci
 2022-12-31T15:57:40.130Z,17.7851666666667,-66.8835,6.4,2.04,md,4,315,0.1889,0.01,pr,pr71390043,2022-12-31T16:16:31.230Z,"20 km S of Guánica, Puerto Rico",earthquake,0.7,0.57,0.145924929208976,3,reviewed,pr,pr
-2022-12-31T15:47:01.210Z,33.4075,-116.365,2.88,0.53,ml,22,88,0.1456,0.27,ci,ci40152199,2022-12-31T17:13:17.887Z,"17km N of Borrego Springs, CA",earthquake,0.54,2.01,0.093,11,automatic,ci,ci
-2022-12-31T15:46:20.540Z,33.4108333,-116.3896667,-0.27,0.51,ml,15,104,0.1162,0.28,ci,ci40152191,2022-12-31T15:49:59.706Z,"17km N of Borrego Springs, CA",earthquake,0.59,31.61,0.09,12,automatic,ci,ci
