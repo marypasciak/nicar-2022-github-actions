@@ -2,10 +2,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-03T07:35:33.780Z,54.7638333333333,-163.710333333333,0.51,1.37,ml,6,122,,0.1,av,av91742116,2023-01-03T07:49:54.580Z,"Unimak Island region, Alaska",earthquake,0.37,0.46,0.311935372679709,6,reviewed,av,av
 2023-01-03T07:23:12.140Z,38.8370018,-122.8048325,1.67,0.98,md,17,57,0.0114,0.02,nc,nc73828281,2023-01-03T07:40:13.855Z,"7km WNW of Cobb, CA",earthquake,0.24,0.41,0.19,18,automatic,nc,nc
 2023-01-03T07:19:17.215Z,59.6958,-153.4859,128.5,1.8,ml,,,,0.44,ak,ak02352w6nd,2023-01-03T07:22:24.313Z,"36 km ESE of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-01-03T07:13:09.280Z,54.7661666666667,-163.705666666667,0.07,1.77,ml,6,125,,0.11,av,av91742086,2023-01-03T08:02:58.810Z,"21 km WSW of False Pass, Alaska",earthquake,0.5,0.64,0.23701945335911,7,reviewed,av,av
 2023-01-03T07:10:57.584Z,38.1624,-118.1648,7.5,1.2,ml,13,156.38,0.146,0.159,nn,nn00854452,2023-01-03T07:13:54.675Z,"25 km S of Mina, Nevada",earthquake,,0.9,0.17,7,automatic,nn,nn
 2023-01-03T07:10:12.760Z,59.9633,-151.3104,52.9,1.6,ml,,,,0.2,ak,ak02352u8v0,2023-01-03T07:11:44.466Z,"22 km ESE of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-03T07:08:36.916Z,40.2638,142.5972,42.121,5.1,mww,87,148,1.281,0.55,us,us7000j1s3,2023-01-03T07:29:20.040Z,"88 km NE of Miyako, Japan",earthquake,7.11,3.96,0.098,10,reviewed,us,us
-2023-01-03T07:06:16.230Z,38.8305016,-122.8168335,1.69,1.13,md,24,47,0.008845,0.04,nc,nc73828276,2023-01-03T07:22:14.874Z,"8km NW of The Geysers, CA",earthquake,0.19,0.4,0.12,24,automatic,nc,nc
+2023-01-03T07:06:16.230Z,38.8305016,-122.8168335,1.69,1.13,md,24,47,0.008845,0.04,nc,nc73828276,2023-01-03T08:04:10.989Z,"8km NW of The Geysers, CA",earthquake,0.19,0.4,0.12,24,automatic,nc,nc
 2023-01-03T07:03:19.630Z,17.949,-66.9626666666667,9.23,2.32,md,11,214,0.08025,0.1,pr,pr71390663,2023-01-03T07:28:20.570Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.46,0.93,0.0390058712887895,5,reviewed,pr,pr
 2023-01-03T07:01:16.820Z,40.0968323,-121.0011673,2.13,2.42,md,11,75,0.3544,0.06,nc,nc73828271,2023-01-03T07:39:10.848Z,"5km NNW of Indian Falls, CA",earthquake,0.49,5.59,0.05,7,automatic,nc,nc
 2023-01-03T06:52:32.525Z,53.7947,-165.4951,68.882,3.6,ml,20,178,0.378,0.33,us,us7000j1ry,2023-01-03T07:03:33.040Z,"42 km SSE of Akutan, Alaska",earthquake,5.78,10.152,0.077,22,reviewed,us,us
@@ -207,6 +208,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T10:36:40.938Z,60.2572,-153.3922,163.7,2.6,ml,,,,0.46,ak,ak0233h8ty7,2023-01-03T07:50:02.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-02T10:30:56.680Z,59.26,-151.7362,25,2.1,ml,,,,0.54,ak,ak0233h7kw4,2023-01-02T10:34:34.144Z,"11 km SSE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-02T10:17:47.990Z,17.948,-66.9216666666667,13.59,1.99,md,6,225,0.04851,0.05,pr,pr71390428,2023-01-02T10:34:31.090Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.55,0.45,0.0713021862432009,4,reviewed,pr,pr
+2023-01-02T09:57:56.032Z,16.4131,-95.1513,80.334,4.1,mb,36,169,2.897,1.03,us,us7000j1ky,2023-01-03T08:04:27.040Z,"6 km ENE of Colonia Jordán, Mexico",earthquake,9.64,19.487,0.073,51,reviewed,us,us
 2023-01-02T09:53:26.270Z,33.3986667,-116.3803333,4.05,1.1,ml,37,67,0.1301,0.24,ci,ci40152951,2023-01-02T10:04:22.420Z,"16km N of Borrego Springs, CA",earthquake,0.34,0.97,0.117,26,automatic,ci,ci
 2023-01-02T09:42:59.980Z,37.6683333,-118.9041667,1.89,-0.08,md,8,154,0.01198,0.02,nc,nc73827886,2023-01-02T18:08:21.561Z,"8km ENE of Mammoth Lakes, CA",earthquake,0.75,1.02,0.264,6,reviewed,nc,nc
 2023-01-02T09:41:35.110Z,38.8351669,-122.8171692,1.79,0.92,md,9,94,0.013,0.01,nc,nc73827881,2023-01-02T09:58:12.511Z,"8km W of Cobb, CA",earthquake,0.36,0.96,0.31,10,automatic,nc,nc
