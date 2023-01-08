@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-08T08:44:05.270Z,33.314167,-116.3486633,11.01,1.8,ml,69,34,0.01991,0.2,ci,ci40154623,2023-01-08T08:46:11.374Z,"7km NNE of Borrego Springs, CA",earthquake,0.24,0.44,0.222,27,automatic,ci,ci
 2023-01-08T08:30:43.908Z,60.3715,-151.0904,50,1.4,ml,,,,0.35,ak,ak023dd8rnq,2023-01-08T08:32:57.865Z,"Kenai Peninsula, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-01-08T08:27:30.186Z,61.543,-141.2867,3.7,1.8,ml,,,,0.47,ak,ak023dd83ga,2023-01-08T08:30:34.225Z,"87 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-08T08:22:45.143Z,63.1963,-148.6591,63,1.7,ml,,,,0.48,ak,ak023dd720y,2023-01-08T08:24:56.751Z,"26 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
