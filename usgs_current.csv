@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-09T08:51:10.540Z,34.1926667,-117.0461667,8.08,1,ml,21,93,0.09621,0.16,ci,ci40154887,2023-01-09T08:54:43.027Z,"6km ESE of Running Springs, CA",earthquake,0.36,0.81,0.101,25,automatic,ci,ci
+2023-01-09T08:46:47.910Z,19.0091666666667,-65.0946666666667,28.6,3.17,md,6,274,0.6663,0.22,pr,pr71391753,2023-01-09T08:59:16.190Z,"75 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.37,14.9,0.0446112699225014,6,reviewed,pr,pr
 2023-01-09T08:42:08.950Z,35.756,-117.5818333,11.74,0.91,ml,9,154,0.06096,0.15,ci,ci40154879,2023-01-09T08:45:38.352Z,"16km W of Searles Valley, CA",earthquake,0.6,0.82,0.176,8,automatic,ci,ci
 2023-01-09T08:22:34.146Z,61.8765,-150.5563,33.9,1.8,ml,,,,0.37,ak,ak023f0qdo6,2023-01-09T08:24:32.675Z,"30 km WNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-09T08:11:08.280Z,38.8333321,-122.8183365,1.82,1.45,md,16,68,,0.02,nc,nc73830211,2023-01-09T08:30:11.925Z,"8km NW of The Geysers, CA",earthquake,0.24,0.55,0.22,17,automatic,nc,nc
@@ -158,6 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T09:22:41.290Z,58.1783,-155.3787,0,0.3,ml,,,,0.27,ak,ak023ddshc1,2023-01-08T09:25:31.033Z,"87 km NW of Karluk, Alaska",earthquake,,81.9,,,automatic,ak,ak
 2023-01-08T09:14:21.820Z,17.8495,-66.8458333333333,16.85,2.39,md,5,292,0.1289,0.08,pr,pr71391638,2023-01-08T09:38:42.540Z,"14 km SSE of Maria Antonia, Puerto Rico",earthquake,0.67,0.86,0.0279236293627227,3,reviewed,pr,pr
 2023-01-08T09:04:51.860Z,33.8856667,-117.0356667,16.88,0.75,ml,18,86,0.1431,0.19,ci,ci40154647,2023-01-08T09:08:23.173Z,"7km SW of Beaumont, CA",earthquake,0.39,0.94,0.104,20,automatic,ci,ci
-2023-01-08T08:58:40.240Z,18.9135,-64.7086666666667,42.57,3.39,md,5,308,0.5819,0.22,pr,pr71391643,2023-01-08T09:29:05.280Z,"Virgin Islands region",earthquake,1.65,3.78,0.0247207247244492,4,reviewed,pr,pr
-2023-01-08T08:57:55.980Z,35.6661667,-117.5003333,1.27,1.28,ml,19,168,0.1689,0.21,ci,ci40154639,2023-01-08T09:01:19.140Z,"14km SW of Searles Valley, CA",earthquake,0.74,1.08,0.228,14,automatic,ci,ci
-2023-01-08T08:52:28.170Z,32.977,-115.8956667,7.04,1.29,ml,24,53,0.08659,0.25,ci,ci40154631,2023-01-08T08:55:59.377Z,"26km WSW of Westmorland, CA",earthquake,0.38,1.42,0.106,23,automatic,ci,ci
