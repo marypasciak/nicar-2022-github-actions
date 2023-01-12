@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-12T02:47:31.670Z,38.814167,-122.8306656,1.45,0.76,md,9,86,0.01171,0.02,nc,nc73831191,2023-01-12T02:49:08.119Z,"8km WNW of The Geysers, CA",earthquake,0.35,0.71,0.14,10,automatic,nc,nc
+2023-01-12T02:47:31.670Z,38.814167,-122.8306656,1.45,0.76,md,9,86,0.01171,0.02,nc,nc73831191,2023-01-12T03:04:13.992Z,"8km WNW of The Geysers, CA",earthquake,0.35,0.71,0.14,10,automatic,nc,nc
+2023-01-12T02:43:39.560Z,17.976,-66.9795,6.79,2.48,md,7,175,0.06195,0.14,pr,pr71392348,2023-01-12T03:00:47.380Z,"6 km W of Fuig, Puerto Rico",earthquake,0.4,0.49,0.104528792704294,4,reviewed,pr,pr
 2023-01-12T02:09:31.120Z,33.4046667,-116.3786667,2.62,0.74,ml,21,108,0.1248,0.2,ci,ci40401824,2023-01-12T02:12:58.734Z,"16km N of Borrego Springs, CA",earthquake,0.42,1.79,0.133,18,automatic,ci,ci
 2023-01-12T02:06:25.730Z,38.8266678,-122.8523331,2.42,0.73,md,9,89,0.003653,0.01,nc,nc73831186,2023-01-12T02:23:16.720Z,"10km WNW of The Geysers, CA",earthquake,0.34,1.17,0.15,10,automatic,nc,nc
 2023-01-12T00:54:24.900Z,36.8395004,-121.5773315,3.96,2.17,md,24,119,0.04638,0.15,nc,nc73831176,2023-01-12T02:11:16.646Z,"4km W of San Juan Bautista, CA",earthquake,0.37,0.86,0.18,26,automatic,nc,nc
