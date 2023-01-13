@@ -172,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T23:57:19.540Z,33.431,-116.5606667,12.76,0.93,ml,28,57,0.0724,0.1,ci,ci40402152,2023-01-13T01:33:07.247Z,"17km SE of Anza, CA",earthquake,0.19,0.37,0.146,20,reviewed,ci,ci
 2023-01-12T23:46:18.909Z,61.7469,-149.5174,31.2,1.5,ml,,,,0.67,ak,ak023k8f18i,2023-01-12T23:48:12.190Z,"14 km NNW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-12T23:41:45.010Z,17.9613333333333,-66.8411666666667,16.88,1.87,md,6,203,0.03874,0.11,pr,pr71392548,2023-01-13T00:37:50.850Z,"Puerto Rico region",earthquake,0.72,0.71,0.127851018491404,5,reviewed,pr,pr
-2023-01-12T23:37:48.840Z,37.8740005,-121.8308334,14.84,1.82,md,12,179,0.1289,0.05,nc,nc73831406,2023-01-13T01:16:12.091Z,"9km NE of Blackhawk, CA",earthquake,0.59,1.26,0.07,9,automatic,nc,nc
