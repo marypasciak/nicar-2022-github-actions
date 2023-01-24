@@ -226,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T20:31:51.340Z,46.1465,-119.56116666666667,12.64,0.64,ml,6,283,0.1095,0.02,uw,uw61894492,2023-01-24T00:33:34.830Z,"Washington",earthquake,1.11,1.58,0.06585326861483864,5,reviewed,uw,uw
 2023-01-23T20:21:46.246Z,36.9956,-116.3901,11.2,0.5,ml,12,102.2,0.017,0.1098,nn,nn00855174,2023-01-24T00:41:21.627Z,"34 km ENE of Beatty, Nevada",earthquake,,1.2,1.15,6,reviewed,nn,nn
 2023-01-23T20:12:38.040Z,20.2938333333333,-156.610833333333,4.54,2.51,md,47,167,,0.26,hv,hv73311012,2023-01-23T21:50:44.138Z,"43 km SSW of Mākena, Hawaii",earthquake,0.53,0.98,0.0851072118562453,15,reviewed,hv,hv
-2023-01-23T20:03:59.530Z,33.8155,-117.483,-0.62,1.56,ml,53,40,0.0317,0.25,ci,ci40405096,2023-01-24T15:36:23.740Z,"8km SSE of Home Gardens, CA",quarry blast,0.35,31.61,0.217,34,reviewed,ci,ci
-2023-01-23T20:03:16.280Z,36.70166667,-96.70183333,0,1.84,ml,34,101,0.1394726307,0.44,ok,ok2023bpst,2023-01-24T17:02:37.479Z,"2 km ENE of Burbank, Oklahoma",quarry blast,,0.3,0.17,13,reviewed,ok,ok
