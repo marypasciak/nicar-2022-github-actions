@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-26T04:56:36.558Z,61.8635,-149.3468,19.8,1.5,ml,,,,0.55,ak,ak023172ou6f,2023-01-26T04:58:46.865Z,"14 km NNW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-01-26T04:54:04.310Z,34.5181667,-118.6006667,8.67,1.33,ml,38,46,0.02513,0.25,ci,ci40161935,2023-01-26T04:57:34.264Z,"4km NNE of Castaic, CA",earthquake,0.33,0.95,0.12,28,automatic,ci,ci
+2023-01-26T04:51:29.140Z,33.9033333,-118.7026667,15.68,1.75,ml,24,166,0.1329,0.28,ci,ci40161927,2023-01-26T04:55:10.919Z,"14km S of Malibu Beach, CA",earthquake,0.66,0.87,0.163,29,automatic,ci,ci
 2023-01-26T04:46:25.230Z,33.9846667,-116.6858333,10.97,0.61,ml,11,65,0.06226,0.14,ci,ci40161919,2023-01-26T04:49:54.227Z,"12km SW of Morongo Valley, CA",earthquake,0.28,0.73,0.108,14,automatic,ci,ci
 2023-01-26T04:43:50.800Z,33.4371667,-118.2303333,13.34,1.91,ml,7,212,0.4759,0.26,ci,ci40161911,2023-01-26T04:47:29.486Z,"14km NE of Avalon, CA",earthquake,2.39,31.61,0.197,25,automatic,ci,ci
 2023-01-26T04:36:28.760Z,38.8268318,-122.8251648,0.93,1.9,md,10,101,0.008553,0.03,nc,nc73837511,2023-01-26T04:50:10.842Z,"8km NW of The Geysers, CA",earthquake,0.31,0.76,0.59,3,automatic,nc,nc
