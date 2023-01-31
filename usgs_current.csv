@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-31T05:45:58.860Z,38.8221664,-122.8526688,2.74,1.92,md,29,55,0.006295,0.03,nc,nc73840056,2023-01-31T05:48:45.336Z,"10km WNW of The Geysers, CA",earthquake,0.22,0.41,0.13,29,automatic,nc,nc
+2023-01-31T05:47:57.650Z,19.257833480835,-155.401672363281,31.6200008392334,1.77999997,md,31,128,,0.150000006,hv,hv73316227,2023-01-31T05:53:50.320Z,"10 km NE of Pāhala, Hawaii",earthquake,0.55,0.850000024,1.80999994,4,automatic,hv,hv
+2023-01-31T05:45:58.860Z,38.8221664,-122.8526688,2.74,1.92,md,29,55,0.006295,0.03,nc,nc73840056,2023-01-31T06:01:11.403Z,"10km WNW of The Geysers, CA",earthquake,0.22,0.41,0.13,29,automatic,nc,nc
 2023-01-31T05:23:35.420Z,33.4018333,-116.3915,3.15,1.29,ml,47,26,0.1246,0.26,ci,ci40164391,2023-01-31T05:34:45.170Z,"16km N of Borrego Springs, CA",earthquake,0.3,0.97,0.181,26,automatic,ci,ci
 2023-01-31T05:14:12.403Z,65.4461,-148.2362,10.3,1.1,ml,,,,0.22,ak,ak0231fcpybc,2023-01-31T05:16:08.838Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-31T05:07:17.231Z,62.2168,-148.4631,33.9,1.5,ml,,,,0.22,ak,ak0231fcogob,2023-01-31T05:08:29.089Z,"46 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T06:25:28.559Z,-21.7054,-68.7025,127.792,4.2,mb,25,48,0.51,0.85,us,us6000jk98,2023-01-30T09:57:45.040Z,"86 km NNE of Calama, Chile",earthquake,3.54,6.579,0.159,11,reviewed,us,us
 2023-01-30T06:15:42.300Z,38.8364983,-122.8775024,2.64,0.68,md,10,144,0.007765,0.03,nc,nc73839671,2023-01-30T08:07:11.176Z,"12km WNW of The Geysers, CA",earthquake,0.51,0.66,0.22,11,automatic,nc,nc
 2023-01-30T06:02:19.420Z,33.9746667,-116.9006667,18.37,1.48,ml,53,38,0.08507,0.2,ci,ci40163999,2023-01-30T06:06:02.419Z,"6km NNW of Banning, CA",earthquake,0.21,0.43,0.166,26,automatic,ci,ci
-2023-01-30T05:53:06.900Z,33.5306667,-116.728,4.72,0.27,ml,13,112,0.0355,0.07,ci,ci40163991,2023-01-30T05:56:36.611Z,"6km WSW of Anza, CA",earthquake,0.22,0.19,0.172,5,automatic,ci,ci
