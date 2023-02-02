@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T20:56:37.420Z,38.8470001,-122.8170013,1,0.69,md,8,89,0.009114,0.03,nc,nc73841116,2023-02-02T21:06:10.449Z,"9km WNW of Cobb, CA",earthquake,0.32,1.21,0.1,10,automatic,nc,nc
 2023-02-02T20:35:50.210Z,38.8349991,-122.8156662,1.78,0.82,md,13,59,0.01589,0.02,nc,nc73841111,2023-02-02T21:29:15.562Z,"8km W of Cobb, CA",earthquake,0.3,0.76,0.11,12,automatic,nc,nc
 2023-02-02T20:16:03.720Z,47.7505,-120.04766666666667,4.55,0.4,ml,10,104,0.05432,0.07,uw,uw61905126,2023-02-02T22:11:56.480Z,"7 km SW of Chelan Falls, Washington",earthquake,0.38,0.67,0.21982855262650178,8,reviewed,uw,uw
-2023-02-02T20:14:03.144Z,63.291,-145.0799,0,1.8,ml,,,,1.13,ak,ak0231iwq4nu,2023-02-02T20:16:36.855Z,"34 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-02-02T20:14:03.144Z,63.291,-145.0799,0,1.8,ml,,,,1.13,ak,ak0231iwq4nu,2023-02-02T20:16:36.855Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-02T20:12:20.710Z,19.6215,-154.851666666667,44.72,2.08,md,36,268,,0.12,hv,hv73318057,2023-02-02T20:45:30.000Z,"Hawaii region, Hawaii",earthquake,0.76,0.44,0.0542488993804908,15,reviewed,hv,hv
 2023-02-02T20:08:27.810Z,46.794333333333334,-122.65233333333333,-0.17,1.45,ml,17,82,0.1277,0.35,uw,uw61905121,2023-02-02T22:04:04.680Z,"10 km SSE of Rainier, Washington",explosion,0.74,31.61,0.11237796967732128,12,reviewed,uw,uw
 2023-02-02T19:56:31.050Z,38.8188324,-122.7986679,2.69,1.51,md,29,31,0.01001,0.02,nc,nc73841101,2023-02-02T22:40:13.990Z,"6km NW of The Geysers, CA",earthquake,0.2,0.39,0.1,32,automatic,nc,nc
@@ -119,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T09:15:20.350Z,38.8121681,-122.8270035,1.78,1.07,md,15,59,0.003707,0.02,nc,nc73840926,2023-02-02T09:41:19.394Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.43,0.31,18,automatic,nc,nc
 2023-02-02T09:08:33.450Z,59.1429,-152.6254,61,1.9,ml,,,,0.49,ak,ak0231iq53lo,2023-02-02T09:12:07.657Z,"46 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-02T09:07:09.708Z,63.0385,-151.6727,6.8,2.3,ml,,,,0.44,ak,ak0231iq4vi2,2023-02-02T12:00:19.040Z,"56 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-02T09:02:33.730Z,36.7745,-121.4911667,4.83,1.77,md,50,49,0.02092,0.18,nc,nc73840916,2023-02-02T22:44:54.396Z,"9km SSE of San Juan Bautista, CA",earthquake,0.21,0.29,0.103,43,reviewed,nc,nc
+2023-02-02T09:02:33.730Z,36.7745,-121.4911667,4.83,1.77,md,50,49,0.02092,0.18,nc,nc73840916,2023-02-02T22:51:11.063Z,"9km SSE of San Juan Bautista, CA",earthquake,0.21,0.29,0.103,43,reviewed,nc,nc
 2023-02-02T08:56:45.465Z,61.5199,-140.6548,0.473,2.8,ml,17,92,0.671,0.62,us,us6000jkxn,2023-02-02T09:48:57.040Z,"121 km E of McCarthy, Alaska",earthquake,1.29,11.121,0.043,72,reviewed,us,us
 2023-02-02T08:37:07.060Z,38.7871666,-122.7663345,2.55,0.71,md,8,107,0.0144,0.02,nc,nc73840906,2023-02-02T08:57:20.114Z,"1km NW of The Geysers, CA",earthquake,0.59,1.6,0.08,8,automatic,nc,nc
 2023-02-02T08:34:56.145Z,64.709,-147.4185,7.7,1.4,ml,,,,0.71,ak,ak0231ippbta,2023-02-02T08:36:44.097Z,"5 km SW of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -229,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-01T23:08:06.900Z,37.5658333,-118.9236667,8.33,1.2,md,17,102,0.04667,0.02,nc,nc73840686,2023-02-02T22:12:13.948Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.3,0.68,0.097,14,reviewed,nc,nc
 2023-02-01T23:07:40.399Z,65.2449,-148.9742,2.9,1.2,ml,,,,0.64,ak,ak0231haxnuf,2023-02-01T23:09:28.304Z,"20 km ENE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-01T23:07:10.888Z,59.5807,-152.5724,70.2,2,ml,,,,0.43,ak,ak0231haxlqc,2023-02-01T23:09:31.147Z,"44 km NW of Nanwalek, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-02-01T22:49:22.760Z,58.1868333333333,-155.328,2.29,-0.19,ml,6,243,,0.08,av,av91086583,2023-02-02T03:48:04.920Z,"86 km NW of Karluk, Alaska",earthquake,0.51,0.47,0.249382957302399,6,reviewed,av,av
-2023-02-01T22:47:38.227Z,59.1597,-152.7123,33.1,1.6,ml,,,,0.56,ak,ak0231hakspm,2023-02-01T22:50:39.762Z,"50 km WSW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
