@@ -29,6 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T00:46:49.009Z,12.063,-88.2168,10,4.5,mb,76,173,1.546,0.78,us,us6000jl37,2023-02-03T01:09:52.040Z,"112 km SW of Jiquilillo, Nicaragua",earthquake,7.31,1.963,0.05,119,reviewed,us,us
 2023-02-03T00:46:42.360Z,63.1308,-149.7581,77.6,1.8,ml,,,,0.45,ak,ak0231k8jqzw,2023-02-03T00:48:50.571Z,"49 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-03T00:42:58.580Z,17.9193333333333,-66.8578333333333,12.99,1.91,md,5,227,0.05905,0.1,pr,pr71395243,2023-02-03T00:55:05.840Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.97,0.51,0.00738498504942564,3,reviewed,pr,pr
+2023-02-03T00:40:38.850Z,19.254,-155.4075,31.22,1.69,md,35,69,,0.12,hv,hv73318152,2023-02-03T05:10:22.920Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.62,0.142464045320527,16,reviewed,hv,hv
 2023-02-03T00:31:59.300Z,33.3896667,-116.9931667,16.91,0.79,ml,24,51,0.03234,0.15,ci,ci40165687,2023-02-03T00:35:35.114Z,"8km ENE of Pala, CA",earthquake,0.32,0.63,0.181,19,automatic,ci,ci
 2023-02-03T00:12:50.180Z,38.8334999,-122.81633,1.41,1.21,md,21,56,0.01121,0.02,nc,nc73841206,2023-02-03T03:56:10.873Z,"8km NW of The Geysers, CA",earthquake,0.19,0.52,0.17,23,automatic,nc,nc
 2023-02-03T00:10:10.646Z,64.9648,-147.2979,0,1.5,ml,,,,0.63,ak,ak0231k8byrs,2023-02-03T00:12:10.077Z,"15 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
