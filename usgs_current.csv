@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-09T10:52:51.860Z,35.6756667,-117.5546667,7.56,2.53,ml,29,67,0.1441,0.13,ci,ci40412640,2023-02-09T10:56:31.413Z,"12km ENE of Ridgecrest, CA",earthquake,0.23,1.22,0.134,25,automatic,ci,ci
+2023-02-09T10:59:48.180Z,38.8266678,-122.8085022,-0.67,0.59,md,11,77,0.003491,0.28,nc,nc73843926,2023-02-09T11:01:24.564Z,"7km NW of The Geysers, CA",earthquake,0.61,1.18,0.33,12,automatic,nc,nc
+2023-02-09T10:58:57.260Z,33.7883333,-116.1188333,1.4,0.98,ml,26,76,0.08593,0.21,ci,ci40412648,2023-02-09T11:02:30.764Z,"12km NE of Indio, CA",earthquake,0.31,0.6,0.121,24,automatic,ci,ci
+2023-02-09T10:52:51.860Z,35.6756667,-117.5546667,7.56,2.53,ml,29,67,0.1441,0.13,ci,ci40412640,2023-02-09T11:03:24.560Z,"12km ENE of Ridgecrest, CA",earthquake,0.23,1.22,0.134,25,automatic,ci,ci
 2023-02-09T10:50:42.450Z,34.1205,-117.475,6.95,1.52,ml,49,31,0.05544,0.26,ci,ci40412632,2023-02-09T10:54:25.954Z,"3km NNW of Fontana, CA",earthquake,0.27,0.66,0.148,28,automatic,ci,ci
 2023-02-09T10:46:33.920Z,36.1393318,-120.2103348,7.99,2.13,md,9,173,0.1376,0.03,nc,nc73843911,2023-02-09T10:48:09.393Z,"12km SW of Huron, CA",earthquake,0.54,0.67,0.16,5,automatic,nc,nc
 2023-02-09T10:46:20.720Z,36.1396675,-120.2226639,8.84,2.69,md,17,170,0.1283,0.1,nc,nc73843906,2023-02-09T10:47:54.359Z,"12km E of Coalinga, CA",earthquake,0.52,0.7,0.15,13,automatic,nc,nc
@@ -220,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T11:28:17.400Z,53.8315,-166.62,4.46,-0.23,ml,6,179,,0.13,av,av91087828,2023-02-09T03:45:20.500Z,"7 km SW of Unalaska, Alaska",earthquake,0.46,2.33,0.443779161624679,6,reviewed,av,av
 2023-02-08T11:24:01.531Z,37.9186,37.5934,8.695,4.6,mb,69,78,0.805,0.68,us,us6000jmgg,2023-02-08T11:42:31.040Z,"14 km ESE of Nurhak, Turkey",earthquake,4.59,4.336,0.084,42,reviewed,us,us
 2023-02-08T11:11:52.720Z,37.9467,37.6523,7.457,5.4,mww,112,44,0.849,0.8,us,us6000jmgf,2023-02-08T13:16:49.990Z,"18 km N of Gölbaşı, Turkey",earthquake,4.46,3.995,0.065,23,reviewed,us,us
-2023-02-08T11:00:20.006Z,38.0857,37.825,10,4.3,mb,28,98,1.035,0.5,us,us6000jmge,2023-02-08T12:04:28.040Z,"4 km W of Doğanşehir, Turkey",earthquake,5.29,1.969,0.237,5,reviewed,us,us
-2023-02-08T10:57:03.040Z,38.7928352,-122.7610016,2.19,1.86,md,39,61,0.007843,0.06,nc,nc73843501,2023-02-08T13:59:41.188Z,"2km NNW of The Geysers, CA",earthquake,0.2,0.34,0.16,37,automatic,nc,nc
