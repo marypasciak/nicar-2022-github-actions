@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-16T15:15:47.610Z,35.6993332,-121.0443344,6.63,1.3,md,9,75,0.09061,0.04,nc,nc73857770,2023-03-16T15:17:21.442Z,"14km ENE of San Simeon, CA",earthquake,0.36,1.16,0.13,5,automatic,nc,nc
+2023-03-16T14:59:10.469Z,56.095,-116.6227,10,5,mb,182,40,1.765,1.03,us,us7000jkfd,2023-03-16T15:20:49.799Z,"44 km ESE of Peace River, Canada",earthquake,5.9,1.857,0.027,450,reviewed,us,us
 2023-03-16T14:49:54.633Z,64.3761,-144.1356,36.9,1.9,ml,,,,1.17,ak,ak0233g9xpt3,2023-03-16T14:52:43.034Z,"51 km NNE of Healy Lake, Alaska",earthquake,,9.8,,,automatic,ak,ak
+2023-03-16T14:46:18.749Z,56.1128,-116.6129,9.809,4.8,mb,72,41,1.784,0.7,us,us7000jkf9,2023-03-16T15:18:12.956Z,"Alberta, Canada",earthquake,5.89,4.347,0.029,366,reviewed,us,us
 2023-03-16T14:31:08.390Z,34.0453333,-117.547,13.37,2.21,ml,79,24,0.04241,0.21,ci,ci40185503,2023-03-16T14:45:01.617Z,"6km NNW of Mira Loma, CA",earthquake,0.21,0.51,0.127,25,automatic,ci,ci
-2023-03-16T14:13:35.880Z,35.6990013,-121.0408325,6.24,1.61,md,17,74,0.09336,0.07,nc,nc73857745,2023-03-16T15:00:10.545Z,"15km ENE of San Simeon, CA",earthquake,0.31,1.08,0.14,10,automatic,nc,nc
+2023-03-16T14:13:35.880Z,35.6990013,-121.0408325,6.24,1.61,md,17,74,0.09336,0.07,nc,nc73857745,2023-03-16T15:12:14.617Z,"15km ENE of San Simeon, CA",earthquake,0.31,1.08,0.14,10,automatic,nc,nc
 2023-03-16T14:00:28.204Z,52.9988,-163.0393,39.62,3.5,ml,11,253,1.8,0.7,us,us7000jkez,2023-03-16T14:16:18.040Z,"207 km S of False Pass, Alaska",earthquake,8.52,27.038,0.115,14,reviewed,us,us
 2023-03-16T13:46:28.193Z,56.8531,-158.0394,0,1.9,ml,,,,0.74,ak,ak0233g9bl0j,2023-03-16T13:48:20.830Z,"37 km ESE of Port Heiden, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-16T13:41:19.921Z,56.7994,-158.1263,14.1,2.5,ml,,,,1.11,ak,ak0233g9ahso,2023-03-16T14:21:15.040Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
@@ -255,9 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T15:32:26.715Z,3.1508,123.3339,485.287,4,mb,43,84,3.257,0.54,us,us7000jk4l,2023-03-16T05:00:15.040Z,"249 km NW of Manado, Indonesia",earthquake,9.02,9.298,0.098,28,reviewed,us,us
 2023-03-15T15:27:07.690Z,51.8976666666667,-177.936166666667,5.49,1.39,ml,4,224,,0.19,av,av91806801,2023-03-15T16:47:14.900Z,"89 km W of Adak, Alaska",earthquake,0.86,1.53,0.143146209253766,4,reviewed,av,av
 2023-03-15T15:24:51.399Z,52.6436,-166.8993,13.277,2.6,ml,12,279,0.982,0.76,us,us7000jk4y,2023-03-16T04:48:07.040Z,"136 km ESE of Nikolski, Alaska",earthquake,3.63,14.449,0.115,10,reviewed,us,us
-2023-03-15T15:20:52.110Z,19.1493339538574,-155.486831665039,34.1300010681152,2.02999997,md,37,151,,0.129999995,hv,hv73340432,2023-03-15T15:23:54.710Z,"Island of Hawaii, Hawaii",earthquake,0.6,0.829999983,,5,automatic,hv,hv
-2023-03-15T15:17:41.630Z,17.9446666666667,-66.9565,7.37,2.2,md,5,220,0.07949,0.09,pr,pr71400028,2023-03-15T16:43:14.060Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.58,0.37,0.0420068568008423,4,reviewed,pr,pr
-2023-03-15T15:17:04.620Z,51.8545,-178.0775,3.53,2,ml,5,205,,0.14,av,av91806766,2023-03-15T16:31:49.640Z,"99 km W of Adak, Alaska",earthquake,0.61,0.44,0.207187322937808,5,reviewed,av,av
-2023-03-15T15:12:34.040Z,19.2075,-155.528833333333,-0.31,2.39,ml,30,82,,0.12,hv,hv73340422,2023-03-16T03:20:39.774Z,"Island of Hawaii, Hawaii",earthquake,0.31,0.14,0.133923610451554,20,reviewed,hv,hv
-2023-03-15T15:08:48.960Z,38.8353348,-122.7884979,2.01,1,md,15,71,0.003391,0.03,nc,nc73857245,2023-03-15T17:03:15.516Z,"6km WNW of Cobb, CA",earthquake,0.27,0.67,0.29,15,automatic,nc,nc
-2023-03-15T15:05:27.040Z,19.1438331604004,-155.367340087891,30.3799991607666,1.83000004,md,34,184,,0.129999995,hv,hv73340417,2023-03-15T15:08:35.460Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.57,0.970000029,0.550000012,7,automatic,hv,hv
