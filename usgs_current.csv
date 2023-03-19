@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-19T05:01:57.755Z,58.1002,-155.494,15,1,ml,,,,0.92,ak,ak0233l2wkpr,2023-03-19T05:03:33.156Z,"85 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-03-19T05:00:17.100Z,38.8303337,-122.8168335,1.88,1.25,md,25,47,0.008711,0.02,nc,nc73859050,2023-03-19T05:01:51.239Z,"8km NW of The Geysers, CA",earthquake,0.2,0.34,0.2,25,automatic,nc,nc
+2023-03-19T04:59:55.670Z,33.2485,-115.8005,3.14,1.15,ml,22,48,0.1302,0.22,ci,ci40186815,2023-03-19T05:03:28.722Z,"13km SSW of Bombay Beach, CA",earthquake,0.44,0.9,0.174,23,automatic,ci,ci
+2023-03-19T04:58:56.477Z,37.2975,-117.6665,9.6,1.4,ml,13,168.74,0.067,0.2694,nn,nn00857213,2023-03-19T05:00:16.745Z,"California-Nevada border region",earthquake,,0.8,0.72,8,automatic,nn,nn
 2023-03-19T04:42:15.830Z,38.7823334,-122.742836,0.01,0.99,md,11,78,0.02133,0.01,nc,nc73859035,2023-03-19T04:59:23.458Z,"1km ENE of The Geysers, CA",earthquake,0.27,0.9,0.25,10,automatic,nc,nc
 2023-03-19T04:42:12.657Z,37.5072,-117.5905,14,0.6,ml,9,190.56,0.781,0.1256,nn,nn00857212,2023-03-19T04:43:26.231Z,"27 km S of Silver Peak, Nevada",earthquake,,1.1,1.05,6,automatic,nn,nn
 2023-03-19T04:35:19.490Z,33.7286667,-116.8383333,15.45,0.7,ml,23,105,0.08245,0.19,ci,ci40186799,2023-03-19T04:39:03.480Z,"6km ESE of Valle Vista, CA",earthquake,0.37,0.6,0.165,16,automatic,ci,ci
@@ -212,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T05:46:37.790Z,51.8668333333333,-178.070833333333,-1.8,1.32,ml,5,178,,0.23,av,av91810286,2023-03-18T19:50:02.620Z,"98 km W of Adak, Alaska",earthquake,0.62,1.6,0.334908062117239,5,reviewed,av,av
 2023-03-18T05:38:10.170Z,35.9046667,-117.4648333,-0.07,1.12,ml,15,110,0.148,0.18,ci,ci40186311,2023-03-18T05:41:44.756Z,"16km NNW of Searles Valley, CA",earthquake,0.4,31.61,0.096,7,automatic,ci,ci
 2023-03-18T05:14:29.689Z,37.9741,36.4482,6.974,4.4,mb,52,48,0.402,0.7,us,us7000jl0z,2023-03-18T19:27:39.733Z,"6 km SW of Göksun, Turkey",earthquake,4.84,4.855,0.09,36,reviewed,us,us
-2023-03-18T05:04:51.786Z,59.7367,-153.1623,105.7,2.3,ml,,,,0.24,ak,ak0233jfduwq,2023-03-18T05:07:11.774Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-18T05:03:48.010Z,19.404167175293,-155.289993286133,2.94000005722046,1.80999994,md,9,152,,0.310000002,hv,hv73342907,2023-03-18T05:06:37.240Z,"7 km SW of Volcano, Hawaii",earthquake,1.08,0.75999999,1.91999996,4,automatic,hv,hv
