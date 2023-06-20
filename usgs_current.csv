@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-20T11:45:42.948Z,61.596,-149.8663,32.3,0.8,ml,,,,0.58,ak,ak0237uzpumu,2023-06-20T11:47:30.534Z,"4 km SW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-06-20T11:39:47.970Z,34.1474,-80.7418,2.409,1.9,ml,10,108,0.04,0.21,us,us7000k9ue,2023-06-20T12:07:22.200Z,"5 km ESE of Elgin, South Carolina",earthquake,1.29,4.356,0.085,18,reviewed,us,us
 2023-06-20T11:39:34.475Z,62.2487,-150.1012,53.1,0.9,ml,,,,0.23,ak,ak0237uzojon,2023-06-20T11:41:11.561Z,"8 km S of Talkeetna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-20T11:39:04.990Z,33.8493333,-116.9225,17.69,1.08,ml,13,194,0.2213,0.22,ci,ci40489664,2023-06-20T11:42:39.919Z,"8km NNE of San Jacinto, CA",earthquake,1.5,2.28,0.483,14,automatic,ci,ci
 2023-06-20T11:32:50.420Z,33.646,-116.711,12.57,0.61,ml,23,73,0.06505,0.13,ci,ci40489648,2023-06-20T11:36:24.346Z,"10km S of Idyllwild, CA",earthquake,0.25,0.45,0.213,13,automatic,ci,ci
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T09:48:31.880Z,35.47548676,-98.0533371,2.921890974,2.15,ml,24,78.55435944,0.05471399054,1.015847165,ok,ok2023lziy,2023-06-20T09:52:00.924Z,"10 km SW of El Reno, Oklahoma",earthquake,2.75754709,1.954932046,0.22,15,automatic,ok,ok
 2023-06-20T09:46:17.740Z,38.8170013,-122.7946701,4.37,0.42,md,7,71,0.009034,0.03,nc,nc73903186,2023-06-20T10:04:12.562Z,"6km NW of The Geysers, CA",earthquake,0.81,2.51,0.26,10,automatic,nc,nc
 2023-06-20T09:33:09.180Z,36.4690018,-121.0441666,8.74,2.37,md,30,116,,0.08,nc,nc73903181,2023-06-20T11:21:14.023Z,"11km SE of Pinnacles, CA",earthquake,0.29,0.61,0.16,27,automatic,nc,nc
-2023-06-20T09:29:34.491Z,35.1373558,-97.53720856,1.058426142,2.68,ml,66,30.3062439,0.06530272961,0.6673470849,ok,ok2023lzii,2023-06-20T11:23:43.284Z,"Oklahoma",earthquake,1.427167409,1.144415853,0.27,45,automatic,ok,ok
+2023-06-20T09:29:33.920Z,35.13816667,-97.5365,5.72,2.35,ml,92,42,0.06658693337,0.29,ok,ok2023lzii,2023-06-20T12:05:21.240Z,"5 km NE of Cole, Oklahoma",earthquake,,0.6,0.2,40,reviewed,ok,ok
 2023-06-20T09:06:22.590Z,38.8191681,-122.822998,2.28,1.08,md,18,57,0.01094,0.02,nc,nc73903171,2023-06-20T09:24:13.333Z,"7km NW of The Geysers, CA",earthquake,0.25,0.51,0.14,18,automatic,nc,nc
 2023-06-20T09:04:30.487Z,-22.331,-67.7983,176.354,4.7,mb,24,84,0.711,0.62,us,us7000k9tr,2023-06-20T09:40:26.040Z,"Potosi, Bolivia",earthquake,7.75,5.267,0.159,12,reviewed,us,us
 2023-06-20T08:56:40.210Z,-5.6286,131.0608,93.708,4.6,mb,15,111,1.592,0.6,us,us7000k9tq,2023-06-20T09:13:53.040Z,"187 km W of Tual, Indonesia",earthquake,10.23,10.368,0.165,11,reviewed,us,us
@@ -185,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T12:28:13.380Z,38.7936668,-122.7491684,1.7,0.99,md,11,146,0.01078,0.03,nc,nc73902881,2023-06-19T14:08:12.299Z,"2km NNE of The Geysers, CA",earthquake,0.44,0.72,0.26,10,automatic,nc,nc
 2023-06-19T12:26:12.720Z,33.9903333,-117.2151667,11.84,1.02,ml,15,154,0.05547,0.29,ci,ci40488752,2023-06-19T12:29:44.265Z,"7km N of Moreno Valley, CA",earthquake,0.8,1.31,0.27,11,automatic,ci,ci
 2023-06-19T12:16:46.591Z,46.192,153.0962,10,4.4,mb,40,185,7.166,0.79,us,us7000k9k4,2023-06-19T13:42:26.040Z,"Kuril Islands",earthquake,10.88,1.947,0.1,29,reviewed,us,us
-2023-06-19T12:05:56.051Z,62.8879,-149.1173,65.6,1.7,ml,,,,0.55,ak,ak0237tcje45,2023-06-19T12:08:42.777Z,"56 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-19T11:58:35.550Z,33.1558333,-116.0868333,10.44,1.69,ml,53,40,0.068,0.2,ci,ci40488728,2023-06-19T12:12:48.415Z,"4km ENE of Ocotillo Wells, CA",earthquake,0.24,0.62,0.189,29,automatic,ci,ci
