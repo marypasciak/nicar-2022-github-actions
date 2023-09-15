@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-15T02:11:59.184Z,62.3704,-147.8381,36.8,2.2,ml,,,,0.47,ak,ak023bupww0p,2023-09-15T02:13:15.005Z,"59 km NW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-15T02:51:27.295Z,36.52485657,-98.69608307,1.826001763,2.14,ml,44,67.98011589,0.02607661113,0.8372796196,ok,ok2023sbtx,2023-09-15T02:54:31.232Z,"17 km ESE of Waynoka, Oklahoma",earthquake,1.959032093,1.389137294,0.37,6,automatic,ok,ok
+2023-09-15T02:47:41.310Z,33.8423333,-116.2643333,16.4,0.79,ml,6,285,0.3941,0.17,ci,ci39665650,2023-09-15T02:51:14.582Z,"12 km ENE of Thousand Palms, CA",earthquake,2.94,31.61,0.086,4,automatic,ci,ci
+2023-09-15T02:39:56.880Z,38.8133316,-122.8251648,1.97,0.83,md,10,70,0.005449,0.02,nc,nc73936911,2023-09-15T02:41:34.035Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.84,0.13,10,automatic,nc,nc
+2023-09-15T02:35:35.203Z,63.2544,-151.3355,5.3,1.2,ml,,,,0.7,ak,ak023buq1ze8,2023-09-15T02:37:27.172Z,"37 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-09-15T02:25:38.040Z,33.6896667,-116.791,15.54,0.73,ml,19,79,0.0703,0.18,ci,ci39665642,2023-09-15T02:29:04.455Z,"9 km SW of Idyllwild, CA",earthquake,0.37,0.67,0.167,16,automatic,ci,ci
+2023-09-15T02:11:59.184Z,62.3704,-147.8381,36.8,2.2,ml,,,,0.47,ak,ak023bupww0p,2023-09-15T02:44:58.040Z,"59 km NW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-15T02:07:56.560Z,35.6383333,-117.5915,2.18,1.24,ml,14,108,0.1392,0.17,ci,ci39665634,2023-09-15T02:11:30.314Z,"8 km ENE of Ridgecrest, CA",earthquake,0.3,0.58,0.104,11,automatic,ci,ci
 2023-09-15T02:05:45.265Z,62.6313,-150.2671,63.6,1.8,ml,,,,0.71,ak,ak023bupvkou,2023-09-15T02:18:57.545Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-15T01:52:52.250Z,60.1396,-152.6279,99.2,1.4,ml,,,,0.3,ak,ak023bupk8a1,2023-09-15T01:54:26.490Z,"54 km W of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -27,6 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T22:55:37.182Z,51.2544,-179.4882,51.202,3.8,ml,21,209,0.518,0.15,us,us7000kvv6,2023-09-14T23:50:24.040Z,"209 km WSW of Adak, Alaska",earthquake,4.63,13.746,0.085,26,reviewed,us,us
 2023-09-14T22:51:26.057Z,-36.4662,-98.0487,10,5.6,mww,73,33,13.398,0.59,us,us7000kvv1,2023-09-15T00:54:22.764Z,"southeast of Easter Island",earthquake,8.84,1.785,0.057,30,reviewed,us,us
 2023-09-14T22:44:30.579Z,61.6349,-150.8969,57,1.2,ml,,,,0.55,ak,ak023bteh6r8,2023-09-14T22:47:05.579Z,"22 km WNW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-09-14T22:37:17.090Z,57.12,-135.871666666667,11.54,1.01,ml,5,308,,0.15,av,av91115898,2023-09-15T02:42:30.960Z,"Southeastern Alaska",earthquake,2.5,1.69,0.176148244320141,5,reviewed,av,av
 2023-09-14T22:35:05.820Z,59.314,-153.5044,103.6,4,ml,,,,0.62,ak,ak023btef8mo,2023-09-14T23:15:28.809Z,"62 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-09-14T22:20:57.590Z,38.8321648,-122.8144989,1.32,0.74,md,9,102,0.009414,0.02,nc,nc73936851,2023-09-14T22:22:32.186Z,"8 km NW of The Geysers, CA",earthquake,0.34,1.03,0.28,10,automatic,nc,nc
 2023-09-14T22:14:09.110Z,35.88,-117.696,7.79,1.4,ml,22,97,0.09063,0.16,ci,ci39665546,2023-09-14T22:41:10.142Z,"20 km ESE of Little Lake, CA",earthquake,0.24,0.7,0.159,9,reviewed,ci,ci
@@ -117,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T10:47:15.850Z,33.3758333,-116.3635,15.11,0.52,ml,15,173,0.1164,0.14,ci,ci39664778,2023-09-14T13:05:02.346Z,"13 km N of Borrego Springs, CA",earthquake,0.59,0.89,0.148,9,reviewed,ci,ci
 2023-09-14T10:45:19.100Z,37.9423333,-118.6073333,8.59,1.27,md,21,133,0.2303,0.06,nc,nc73936701,2023-09-15T02:03:54.435Z,"41 km S of Qualeys Camp, NV",earthquake,0.37,1.58,0.214,17,reviewed,nc,nc
 2023-09-14T10:45:03.190Z,33.315,-116.872,14.39,0.52,ml,27,57,0.03929,0.18,ci,ci39664770,2023-09-14T17:29:45.173Z,"5 km S of Palomar Observatory, CA",earthquake,0.29,0.49,0.182,10,reviewed,ci,ci
-2023-09-14T10:44:53.636Z,18.2126,-99.0904,59.742,4,mb,35,163,0.817,1,us,us7000kvp7,2023-09-14T11:41:12.710Z,"10 km SSE of Chaucingo, Mexico",earthquake,7.33,12.784,0.056,87,reviewed,us,us
+2023-09-14T10:44:53.636Z,18.2126,-99.0904,59.742,4,mb,35,163,0.817,1,us,us7000kvp7,2023-09-15T02:43:41.273Z,"10 km SSE of Chaucingo, Mexico",earthquake,7.33,12.784,0.056,87,reviewed,us,us
 2023-09-14T10:42:21.810Z,39.1875,-120.459,-2.19,2.13,md,24,37,0.1509,0.12,nc,nc73936696,2023-09-15T02:03:53.556Z,"26 km W of Sunnyside-Tahoe City, CA",earthquake,0.26,1.2,0.283,26,reviewed,nc,nc
 2023-09-14T10:29:11.560Z,60.0345,-153.078166666667,0.73,-0.57,ml,5,104,,0.12,av,av92044436,2023-09-15T00:45:14.660Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.51,1.51,0.365704527978869,5,reviewed,av,av
 2023-09-14T10:23:26.300Z,33.8106667,-116.9491667,11.11,0.57,ml,12,73,0.1112,0.12,ci,ci39664762,2023-09-14T13:05:37.315Z,"3 km NNE of San Jacinto, CA",earthquake,0.33,0.76,0.168,10,reviewed,ci,ci
@@ -192,7 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T03:25:25.840Z,38.8153333,-122.8148333,2.8,0.42,md,22,47,0.008867,0.03,nc,nc73936576,2023-09-14T18:59:09.957Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.32,0.191,23,reviewed,nc,nc
 2023-09-14T03:24:49.930Z,58.177,-155.321833333333,2.24,0.17,ml,11,72,,0.08,av,av92044116,2023-09-14T22:59:21.060Z,"85 km NW of Karluk, Alaska",earthquake,0.17,0.3,0.384153684775004,11,reviewed,av,av
 2023-09-14T02:58:30.000Z,44.4548333,-110.9855,7.42,0.4,md,10,123,0.1072,0.25,uu,uu60550087,2023-09-14T13:50:44.490Z,"24 km SSE of West Yellowstone, Montana",earthquake,1.05,1.88,0.242,10,reviewed,uu,uu
-2023-09-14T02:48:35.820Z,35.0313333,-116.9606667,2.55,1.59,ml,17,61,0.1585,0.13,ci,ci39664626,2023-09-14T14:02:47.103Z,"16 km NNE of Barstow, CA",earthquake,0.22,0.9,0.126,27,reviewed,ci,ci
-2023-09-14T02:47:27.072Z,-23.983,-66.7608,204.56,4.4,mb,40,53,1.658,0.52,us,us7000kvn7,2023-09-14T03:03:27.040Z,"51 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.55,7.722,0.131,18,reviewed,us,us
-2023-09-14T02:43:54.090Z,36.5745,-121.1756667,7.74,3.35,ml,87,53,0.008319,0.15,nc,nc73936566,2023-09-14T21:26:13.330Z,"6 km NNW of Pinnacles, CA",earthquake,0.2,0.32,0.123,83,reviewed,nc,nc
-2023-09-14T02:30:09.500Z,43.596833333333336,-123.21,-0.39,1.68,ml,10,114,0.1421,0.24,uw,uw61950782,2023-09-14T04:33:11.330Z,"5 km E of Yoncalla, Oregon",explosion,0.47,31.61,0.14271372755551748,6,reviewed,uw,uw
