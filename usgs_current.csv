@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-05T12:42:17.015Z,60.4585,-143.0399,15.8,1.2,ml,,,,0.37,ak,ak023e78gh8l,2023-11-05T12:44:19.808Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-11-05T12:33:46.990Z,34.2803333,-116.9541667,2.77,0.9,ml,20,128,0.03301,0.19,ci,ci39708530,2023-11-05T12:37:13.847Z,"6 km NW of Big Bear Lake, CA",earthquake,0.4,0.37,0.141,14,automatic,ci,ci
 2023-11-05T12:26:48.810Z,33.493,-116.485,13.67,1.11,ml,32,48,0.07493,0.16,ci,ci39708522,2023-11-05T12:30:19.056Z,"19 km ESE of Anza, CA",earthquake,0.23,0.47,0.146,24,automatic,ci,ci
 2023-11-05T12:18:32.420Z,33.4931667,-116.484,12.76,1.12,ml,18,137,0.07522,0.1,ci,ci39708514,2023-11-05T12:22:13.166Z,"19 km ESE of Anza, CA",earthquake,0.28,0.38,0.152,9,automatic,ci,ci
 2023-11-05T12:18:12.640Z,33.49,-116.486,12.5,1.12,ml,34,57,0.07711,0.15,ci,ci39708506,2023-11-05T12:21:54.732Z,"19 km ESE of Anza, CA",earthquake,0.21,0.49,0.099,22,automatic,ci,ci
@@ -196,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T13:11:29.986Z,63.1646,-151.2967,9.8,1.6,ml,,,,0.41,ak,ak023e5lby5i,2023-11-04T13:13:04.189Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-04T12:54:03.260Z,33.449,-116.577,11.13,1,ml,34,88,0.05021,0.15,ci,ci39707338,2023-11-04T16:33:14.010Z,"15 km SE of Anza, CA",earthquake,0.23,0.4,0.188,24,reviewed,ci,ci
 2023-11-04T12:53:55.645Z,62.2815,-149.875,19.2,1.2,ml,,,,0.43,ak,ak023e5kzklo,2023-11-04T12:56:34.540Z,"13 km ESE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-04T12:49:52.601Z,-20.5156,-177.8899,382.817,4.3,mb,45,78,2.595,0.75,us,us7000l8v5,2023-11-04T13:12:04.040Z,"278 km WNW of Houma, Tonga",earthquake,12.29,7.405,0.066,68,reviewed,us,us
-2023-11-04T12:49:21.218Z,63.1072,-150.3568,105.1,1.4,ml,,,,0.22,ak,ak023e5kyn2x,2023-11-04T12:51:23.022Z,"Central Alaska",earthquake,,1.5,,,automatic,ak,ak
