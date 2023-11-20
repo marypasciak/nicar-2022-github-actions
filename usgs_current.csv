@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-20T06:56:54.440Z,33.4850006,-116.456337,11.36,1.02,ml,19,150,0.09549,0.1,ci,ci39715530,2023-11-20T06:58:59.338Z,"22 km ESE of Anza, CA",earthquake,0.42,0.81,0.254,4,automatic,ci,ci
+2023-11-20T07:03:59.481Z,65.0669,-147.9504,18.3,0.5,ml,,,,0.09,ak,ak023evyb8z1,2023-11-20T07:07:29.309Z,"19 km NW of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-11-20T06:56:54.280Z,33.4816667,-116.4468333,12.12,0.51,ml,26,154,0.1033,0.1,ci,ci39715530,2023-11-20T07:03:07.842Z,"22 km ESE of Anza, CA",earthquake,0.2,0.45,0.142,8,automatic,ci,ci
 2023-11-20T06:56:43.448Z,60.3972,-152.6566,6.9,2.2,ml,,,,0.83,ak,ak023evy152w,2023-11-20T06:59:03.785Z,"67 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-20T06:50:19.380Z,38.8353348,-122.807663,1.85,0.36,md,8,112,0.01207,0.02,nc,nc73964856,2023-11-20T06:51:56.684Z,"8 km WNW of Cobb, CA",earthquake,0.4,1.24,0.26,8,automatic,nc,nc
+2023-11-20T06:50:19.380Z,38.8353348,-122.807663,1.85,0.36,md,8,112,0.01207,0.02,nc,nc73964856,2023-11-20T07:03:10.273Z,"8 km WNW of Cobb, CA",earthquake,0.4,1.24,0.26,8,automatic,nc,nc
 2023-11-20T06:46:28.580Z,39.7218,13.7268,410.818,4.8,mb,95,66,1.457,0.67,us,us6000lpk2,2023-11-20T07:00:40.040Z,"101 km SSW of Anacapri, Italy",earthquake,9.81,7.006,0.061,83,reviewed,us,us
 2023-11-20T06:34:26.069Z,60.9729,-148.4911,0,1.8,ml,,,,1.28,ak,ak023evxwdzj,2023-11-20T06:37:31.899Z,"24 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-20T06:32:19.047Z,31.438,-104.376,3.2464,1.7,ml(texnet),7,116,0.2,0.8,tx,tx2023wsqk,2023-11-20T06:52:58.332Z,"57 km WNW of Toyah, Texas",earthquake,0,2.820520536,0.3,6,automatic,tx,tx
@@ -118,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-19T16:22:43.310Z,38.7803345,-122.7233353,1.74,1.47,md,20,80,0.01086,0.03,nc,nc73964586,2023-11-19T18:33:10.743Z,"3 km WNW of Anderson Springs, CA",earthquake,0.24,0.41,0.14,20,automatic,nc,nc
 2023-11-19T16:18:56.960Z,19.1631660461426,-155.456329345703,31.8899993896484,1.75,md,35,167,,0.129999995,hv,hv73652682,2023-11-19T16:22:14.440Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.66,0.860000014,0.870000005,3,automatic,hv,hv
 2023-11-19T16:03:17.200Z,38.8428345,-122.8261642,1.72,0.21,md,10,104,0.008425,0.02,nc,nc73964581,2023-11-19T18:04:10.584Z,"9 km WNW of Cobb, CA",earthquake,0.35,0.85,0.08,10,automatic,nc,nc
-2023-11-19T16:00:05.700Z,49.2685,-119.53766666666667,-0.31,2.6,ml,9,183,0.0788,0.19,uw,uw61973071,2023-11-20T05:17:36.353Z,"9 km SSE of Okanagan Falls, Canada",earthquake,0.9,1.96,0.09372487489180759,6,reviewed,uw,uw
+2023-11-19T16:00:05.700Z,49.2685,-119.53766666666667,-0.31,2.6,ml,9,183,0.0788,0.19,uw,uw61973071,2023-11-20T07:25:39.404Z,"9 km SSE of Okanagan Falls, Canada",earthquake,0.9,1.96,0.09372487489180759,6,reviewed,uw,uw
 2023-11-19T15:53:46.673Z,-5.5699,130.2125,10,4.5,mb,15,144,1.085,0.82,us,us6000lpgn,2023-11-19T20:29:57.430Z,"281 km W of Tual, Indonesia",earthquake,9.47,1.964,0.145,14,reviewed,us,us
 2023-11-19T15:46:31.480Z,38.788166,-122.7478333,1.26,1.05,md,12,84,0.00998,0.02,nc,nc73964571,2023-11-19T17:11:11.408Z,"1 km NNE of The Geysers, CA",earthquake,0.29,0.46,0.2,11,automatic,nc,nc
 2023-11-19T15:45:43.430Z,38.7879982,-122.7573318,2.27,1.28,md,21,72,0.01274,0.02,nc,nc73964566,2023-11-19T16:42:11.106Z,"1 km N of The Geysers, CA",earthquake,0.26,0.48,0.22,21,automatic,nc,nc
@@ -187,6 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-19T07:53:32.350Z,55.4896,-159.3995,13.1,2,ml,,,,0.55,ak,ak023eub2k5k,2023-11-19T12:21:07.279Z,"46 km S of Ivanof Bay, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-11-19T07:33:24.530Z,45.5605,-119.74416666666667,-0.06,1.55,ml,13,130,0.1054,0.11,uw,uw61972921,2023-11-19T20:15:17.560Z,"9 km NE of Ione, Oregon",earthquake,0.31,0.57,0.1646888437737004,9,reviewed,uw,uw
 2023-11-19T07:30:21.360Z,36.007,-117.8093333,1.6,2.45,ml,31,101,0.02446,0.15,ci,ci39715122,2023-11-19T07:52:37.040Z,"12 km NE of Little Lake, CA",earthquake,0.16,0.14,0.137,25,automatic,ci,ci
-2023-11-19T07:25:23.220Z,38.8296661,-122.7983322,3.27,0.73,md,9,126,0.01111,0.03,nc,nc73964466,2023-11-19T10:03:14.600Z,"7 km W of Cobb, CA",earthquake,1.03,1.39,0.15,10,automatic,nc,nc
-2023-11-19T07:25:10.913Z,-12.4973,166.5061,73.077,4.9,mb,64,33,7.121,0.78,us,us6000lpet,2023-11-19T07:45:47.040Z,"190 km NW of Sola, Vanuatu",earthquake,9.77,7.127,0.045,159,reviewed,us,us
-2023-11-19T07:17:10.590Z,33.8668333,-118.2538333,8.42,1.36,ml,24,68,0.006662,0.31,ci,ci39715114,2023-11-19T07:24:11.929Z,"4 km SW of Compton, CA",earthquake,0.47,0.81,0.246,24,automatic,ci,ci
